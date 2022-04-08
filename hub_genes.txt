@@ -1,0 +1,16 @@
+a 3127
+t 1767
+tg 751
+prkacb 278
+f2 188
+ik 180
+il2 171
+xcl1 151
+ccl2 128
+ccl1 123
+cxcl1 120
+mb 115
+itga2 114
+cs 112
+ccr1 110
+hr 109
