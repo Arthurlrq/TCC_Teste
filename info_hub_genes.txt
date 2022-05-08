@@ -1,0 +1,1887 @@
+Informações quanto ao grau dos possíveis genes hub:
+
+- prkacb:
+Grau total:   278
+Grau entrada: 3
+Grau saida:   275
+
+- gnb5:
+Grau total:   92
+Grau entrada: 14
+Grau saida:   78
+
+- gng7:
+Grau total:   90
+Grau entrada: 22
+Grau saida:   68
+
+- gng4:
+Grau total:   87
+Grau entrada: 4
+Grau saida:   83
+
+- flt4:
+Grau total:   63
+Grau entrada: 57
+Grau saida:   6
+
+- kdr:
+Grau total:   61
+Grau entrada: 46
+Grau saida:   15
+
+- itga2:
+Grau total:   60
+Grau entrada: 34
+Grau saida:   26
+
+- pdgfrb:
+Grau total:   60
+Grau entrada: 50
+Grau saida:   10
+
+- pdgfra:
+Grau total:   57
+Grau entrada: 47
+Grau saida:   10
+
+- xcr1:
+Grau total:   57
+Grau entrada: 57
+Grau saida:   0
+
+- ccr9:
+Grau total:   56
+Grau entrada: 56
+Grau saida:   0
+
+- ccr6:
+Grau total:   56
+Grau entrada: 55
+Grau saida:   1
+
+- gnai1:
+Grau total:   56
+Grau entrada: 8
+Grau saida:   48
+
+- gng8:
+Grau total:   56
+Grau entrada: 1
+Grau saida:   55
+
+- ccr7:
+Grau total:   55
+Grau entrada: 54
+Grau saida:   1
+
+- col6a3:
+Grau total:   55
+Grau entrada: 4
+Grau saida:   51
+
+- gnao1:
+Grau total:   54
+Grau entrada: 4
+Grau saida:   50
+
+- itga2b:
+Grau total:   54
+Grau entrada: 50
+Grau saida:   4
+
+- itga7:
+Grau total:   53
+Grau entrada: 42
+Grau saida:   11
+
+- ccr3:
+Grau total:   53
+Grau entrada: 51
+Grau saida:   2
+
+- itgb4:
+Grau total:   52
+Grau entrada: 51
+Grau saida:   1
+
+- cxcr3:
+Grau total:   50
+Grau entrada: 50
+Grau saida:   0
+
+- fgfr3:
+Grau total:   50
+Grau entrada: 50
+Grau saida:   0
+
+
+----------------------------------------------------------------------
+Genes: 
+
+- prkacb:
+{'Grau total': '278'}
+{'Grau entrada': 3}
+{'Grau saida': 275}
+{'Gene': 'itga2', 'Label': 2, 'Chance': '5.596518516540527344e-01'}
+{'Gene': 'lhcgr', 'Label': 2, 'Chance': '6.850482821464538574e-01'}
+{'Gene': 'il13', 'Label': 2, 'Chance': '6.936005949974060059e-01'}
+{'Gene': 'braf', 'Label': 1, 'Chance': '5.112671256065368652e-01'}
+{'Gene': 'braf', 'Label': 2, 'Chance': '7.182217836380004883e-01'}
+{'Gene': 'raf1', 'Label': 2, 'Chance': '7.491959333419799805e-01'}
+{'Gene': 'araf', 'Label': 1, 'Chance': '6.838377118110656738e-01'}
+{'Gene': 'araf', 'Label': 2, 'Chance': '6.092520952224731445e-01'}
+{'Gene': 'esr2', 'Label': 2, 'Chance': '7.397543787956237793e-01'}
+{'Gene': 'fos', 'Label': 2, 'Chance': '6.557619571685791016e-01'}
+{'Gene': 'jun', 'Label': 2, 'Chance': '6.314519047737121582e-01'}
+{'Gene': 'ncoa3', 'Label': 2, 'Chance': '6.593016982078552246e-01'}
+{'Gene': 'med1', 'Label': 2, 'Chance': '6.792609691619873047e-01'}
+{'Gene': 'sp1', 'Label': 2, 'Chance': '6.507858633995056152e-01'}
+{'Gene': 'carm1', 'Label': 2, 'Chance': '6.831801533699035645e-01'}
+{'Gene': 'rps6kb1', 'Label': 2, 'Chance': '6.009804606437683105e-01'}
+{'Gene': 'rasgrf1', 'Label': 1, 'Chance': '4.835466444492340088e-01'}
+{'Gene': 'rasgrf1', 'Label': 2, 'Chance': '7.559092044830322266e-01'}
+{'Gene': 'orai1', 'Label': 2, 'Chance': '5.971365571022033691e-01'}
+{'Gene': 'rhoa', 'Label': 2, 'Chance': '6.866018772125244141e-01'}
+{'Gene': 'atp2b2', 'Label': 1, 'Chance': '7.382910847663879395e-01'}
+{'Gene': 'atp2b2', 'Label': 2, 'Chance': '7.527449727058410645e-01'}
+{'Gene': 'bad', 'Label': 2, 'Chance': '7.107378244400024414e-01'}
+{'Gene': 'cacna1c', 'Label': 1, 'Chance': '4.851603209972381592e-01'}
+{'Gene': 'cacna1c', 'Label': 2, 'Chance': '6.407306790351867676e-01'}
+{'Gene': 'cacna1d', 'Label': 1, 'Chance': '5.934385657310485840e-01'}
+{'Gene': 'cacna1d', 'Label': 2, 'Chance': '7.680681347846984863e-01'}
+{'Gene': 'cacna1s', 'Label': 2, 'Chance': '7.343847155570983887e-01'}
+{'Gene': 'cftr', 'Label': 2, 'Chance': '7.471612095832824707e-01'}
+{'Gene': 'creb1', 'Label': 2, 'Chance': '6.611824631690979004e-01'}
+{'Gene': 'creb3', 'Label': 1, 'Chance': '5.093696117401123047e-01'}
+{'Gene': 'creb3', 'Label': 2, 'Chance': '7.317150235176086426e-01'}
+{'Gene': 'crebbp', 'Label': 2, 'Chance': '7.195217013359069824e-01'}
+{'Gene': 'gli3', 'Label': 2, 'Chance': '6.330821514129638672e-01'}
+{'Gene': 'gria1', 'Label': 1, 'Chance': '6.252884864807128906e-01'}
+{'Gene': 'gria1', 'Label': 2, 'Chance': '8.433377146720886230e-01'}
+{'Gene': 'gria2', 'Label': 1, 'Chance': '7.245894074440002441e-01'}
+{'Gene': 'gria2', 'Label': 2, 'Chance': '8.315877318382263184e-01'}
+{'Gene': 'gria4', 'Label': 1, 'Chance': '7.429623603820800781e-01'}
+{'Gene': 'gria4', 'Label': 2, 'Chance': '8.420713543891906738e-01'}
+{'Gene': 'grin1', 'Label': 1, 'Chance': '8.277006745338439941e-01'}
+{'Gene': 'grin1', 'Label': 2, 'Chance': '7.822654843330383301e-01'}
+{'Gene': 'grin2a', 'Label': 1, 'Chance': '6.312254071235656738e-01'}
+{'Gene': 'grin2a', 'Label': 2, 'Chance': '8.717414140701293945e-01'}
+{'Gene': 'grin2b', 'Label': 1, 'Chance': '8.495241999626159668e-01'}
+{'Gene': 'grin2b', 'Label': 2, 'Chance': '8.668466210365295410e-01'}
+{'Gene': 'grin2c', 'Label': 2, 'Chance': '5.180370807647705078e-01'}
+{'Gene': 'grin2d', 'Label': 2, 'Chance': '6.239969134330749512e-01'}
+{'Gene': 'nfatc1', 'Label': 2, 'Chance': '6.308883428573608398e-01'}
+{'Gene': 'pde3b', 'Label': 2, 'Chance': '6.191686987876892090e-01'}
+{'Gene': 'pde4a', 'Label': 2, 'Chance': '4.354169368743896484e-01'}
+{'Gene': 'pde4a', 'Label': 2, 'Chance': '7.133799791336059570e-01'}
+{'Gene': 'pde4b', 'Label': 1, 'Chance': '4.672888517379760742e-01'}
+{'Gene': 'pde4b', 'Label': 2, 'Chance': '7.009481787681579590e-01'}
+{'Gene': 'rela', 'Label': 2, 'Chance': '7.148112058639526367e-01'}
+{'Gene': 'ryr2', 'Label': 1, 'Chance': '6.843674182891845703e-01'}
+{'Gene': 'ryr2', 'Label': 2, 'Chance': '8.000938296318054199e-01'}
+{'Gene': 'slc9a1', 'Label': 2, 'Chance': '6.473596692085266113e-01'}
+{'Gene': 'creb3l2', 'Label': 2, 'Chance': '6.601048707962036133e-01'}
+{'Gene': 'tnni3', 'Label': 2, 'Chance': '7.416336536407470703e-01'}
+{'Gene': 'creb5', 'Label': 2, 'Chance': '6.113825440406799316e-01'}
+{'Gene': 'pde4d', 'Label': 1, 'Chance': '4.485476016998291016e-01'}
+{'Gene': 'pde4d', 'Label': 2, 'Chance': '7.370105385780334473e-01'}
+{'Gene': 'grin3a', 'Label': 2, 'Chance': '7.938956022262573242e-01'}
+{'Gene': 'creb3l1', 'Label': 2, 'Chance': '6.265703439712524414e-01'}
+{'Gene': 'atp2b3', 'Label': 2, 'Chance': '6.723111867904663086e-01'}
+{'Gene': 'ep300', 'Label': 2, 'Chance': '7.639704346656799316e-01'}
+{'Gene': 'atp2b4', 'Label': 2, 'Chance': '6.972126960754394531e-01'}
+{'Gene': 'gria3', 'Label': 1, 'Chance': '5.780428051948547363e-01'}
+{'Gene': 'gria3', 'Label': 2, 'Chance': '7.209864258766174316e-01'}
+{'Gene': 'pde3a', 'Label': 2, 'Chance': '6.631765961647033691e-01'}
+{'Gene': 'cacna1f', 'Label': 2, 'Chance': '6.464586853981018066e-01'}
+{'Gene': '4930544g11rik', 'Label': 1, 'Chance': '9.543318152427673340e-01'}
+{'Gene': '4930544g11rik', 'Label': 2, 'Chance': '8.479173183441162109e-01'}
+{'Gene': 'atp2b1', 'Label': 1, 'Chance': '5.765597224235534668e-01'}
+{'Gene': 'atp2b1', 'Label': 2, 'Chance': '7.213884592056274414e-01'}
+{'Gene': 'prkaa1', 'Label': 2, 'Chance': '7.145495414733886719e-01'}
+{'Gene': 'prkaa2', 'Label': 1, 'Chance': '5.523476600646972656e-01'}
+{'Gene': 'prkaa2', 'Label': 2, 'Chance': '6.999350190162658691e-01'}
+{'Gene': 'ulk1', 'Label': 2, 'Chance': '6.731868386268615723e-01'}
+{'Gene': 'ulk2', 'Label': 2, 'Chance': '4.327670335769653320e-01'}
+{'Gene': 'ulk2', 'Label': 2, 'Chance': '6.170761585235595703e-01'}
+{'Gene': 'atg13', 'Label': 1, 'Chance': '5.279635190963745117e-01'}
+{'Gene': 'atg13', 'Label': 2, 'Chance': '7.783553600311279297e-01'}
+{'Gene': 'gabarapl1', 'Label': 1, 'Chance': '4.447551965713500977e-01'}
+{'Gene': 'gabarapl1', 'Label': 2, 'Chance': '6.783516407012939453e-01'}
+{'Gene': 'gabarapl2', 'Label': 2, 'Chance': '6.342869997024536133e-01'}
+{'Gene': 'foxo1', 'Label': 1, 'Chance': '5.142396092414855957e-01'}
+{'Gene': 'foxo1', 'Label': 2, 'Chance': '7.509551048278808594e-01'}
+{'Gene': 'foxo3', 'Label': 2, 'Chance': '6.800639033317565918e-01'}
+{'Gene': 'atf2', 'Label': 1, 'Chance': '5.307025313377380371e-01'}
+{'Gene': 'atf2', 'Label': 2, 'Chance': '7.323221564292907715e-01'}
+{'Gene': 'atp1a1', 'Label': 2, 'Chance': '7.686512470245361328e-01'}
+{'Gene': 'atp1b1', 'Label': 1, 'Chance': '5.864906311035156250e-01'}
+{'Gene': 'atp1b1', 'Label': 2, 'Chance': '6.548587083816528320e-01'}
+{'Gene': 'atp1b2', 'Label': 2, 'Chance': '5.962346792221069336e-01'}
+{'Gene': 'atp1b3', 'Label': 2, 'Chance': '6.873013377189636230e-01'}
+{'Gene': 'cacna2d1', 'Label': 1, 'Chance': '4.476552307605743408e-01'}
+{'Gene': 'cacna2d1', 'Label': 2, 'Chance': '7.108270525932312012e-01'}
+{'Gene': 'cacnb1', 'Label': 1, 'Chance': '5.720531344413757324e-01'}
+{'Gene': 'cacnb1', 'Label': 2, 'Chance': '6.134279966354370117e-01'}
+{'Gene': 'cacnb2', 'Label': 1, 'Chance': '5.330855250358581543e-01'}
+{'Gene': 'cacnb2', 'Label': 2, 'Chance': '7.093059420585632324e-01'}
+{'Gene': 'cacnb4', 'Label': 1, 'Chance': '8.423335552215576172e-01'}
+{'Gene': 'cacnb4', 'Label': 2, 'Chance': '8.038180470466613770e-01'}
+{'Gene': 'cacng1', 'Label': 2, 'Chance': '7.389474511146545410e-01'}
+{'Gene': 'cacng2', 'Label': 1, 'Chance': '7.777054905891418457e-01'}
+{'Gene': 'cacng2', 'Label': 2, 'Chance': '8.300265073776245117e-01'}
+{'Gene': 'atf6b', 'Label': 1, 'Chance': '4.597927629947662354e-01'}
+{'Gene': 'atf6b', 'Label': 2, 'Chance': '7.051944136619567871e-01'}
+{'Gene': 'kcne1', 'Label': 1, 'Chance': '8.094618916511535645e-01'}
+{'Gene': 'kcnq1', 'Label': 1, 'Chance': '4.826384186744689941e-01'}
+{'Gene': 'kcnq1', 'Label': 2, 'Chance': '7.432374358177185059e-01'}
+{'Gene': 'scn1b', 'Label': 1, 'Chance': '5.325794219970703125e-01'}
+{'Gene': 'scn1b', 'Label': 2, 'Chance': '6.390432715415954590e-01'}
+{'Gene': 'scn5a', 'Label': 2, 'Chance': '6.844603419303894043e-01'}
+{'Gene': 'scn7a', 'Label': 2, 'Chance': '8.649200797080993652e-01'}
+{'Gene': 'atp1a3', 'Label': 1, 'Chance': '8.849453926086425781e-01'}
+{'Gene': 'atp1a3', 'Label': 2, 'Chance': '7.046410441398620605e-01'}
+{'Gene': 'atp1a4', 'Label': 2, 'Chance': '9.170061349868774414e-01'}
+{'Gene': 'cacna2d4', 'Label': 1, 'Chance': '5.904883742332458496e-01'}
+{'Gene': 'cacna2d4', 'Label': 2, 'Chance': '8.768890500068664551e-01'}
+{'Gene': 'scn4b', 'Label': 1, 'Chance': '6.326833367347717285e-01'}
+{'Gene': 'cacng3', 'Label': 1, 'Chance': '9.155464172363281250e-01'}
+{'Gene': 'cacng3', 'Label': 2, 'Chance': '7.164022922515869141e-01'}
+{'Gene': 'cacng4', 'Label': 1, 'Chance': '5.731443166732788086e-01'}
+{'Gene': 'cacng4', 'Label': 2, 'Chance': '7.518993020057678223e-01'}
+{'Gene': 'cacng6', 'Label': 2, 'Chance': '7.185955643653869629e-01'}
+{'Gene': 'cacna2d2', 'Label': 2, 'Chance': '6.568868756294250488e-01'}
+{'Gene': 'ppp1r1a', 'Label': 1, 'Chance': '6.939094066619873047e-01'}
+{'Gene': 'ppp1r1a', 'Label': 2, 'Chance': '6.628582477569580078e-01'}
+{'Gene': 'atp1b4', 'Label': 1, 'Chance': '9.043983221054077148e-01'}
+{'Gene': 'atp1b4', 'Label': 2, 'Chance': '8.992606997489929199e-01'}
+{'Gene': 'cacng7', 'Label': 2, 'Chance': '7.009738683700561523e-01'}
+{'Gene': 'cacng8', 'Label': 2, 'Chance': '7.514936327934265137e-01'}
+{'Gene': 'kcnmb3', 'Label': 2, 'Chance': '7.000537514686584473e-01'}
+{'Gene': 'mylk', 'Label': 2, 'Chance': '7.021395564079284668e-01'}
+{'Gene': 'itpr1', 'Label': 1, 'Chance': '6.232035160064697266e-01'}
+{'Gene': 'itpr1', 'Label': 2, 'Chance': '7.421796917915344238e-01'}
+{'Gene': 'itpr2', 'Label': 2, 'Chance': '6.910691857337951660e-01'}
+{'Gene': 'itpr3', 'Label': 2, 'Chance': '5.374922156333923340e-01'}
+{'Gene': 'kcnma1', 'Label': 1, 'Chance': '6.388267278671264648e-01'}
+{'Gene': 'kcnma1', 'Label': 2, 'Chance': '7.816711068153381348e-01'}
+{'Gene': 'kcnu1', 'Label': 2, 'Chance': '7.300524115562438965e-01'}
+{'Gene': 'mylk2', 'Label': 2, 'Chance': '6.391263008117675781e-01'}
+{'Gene': 'mylk4', 'Label': 1, 'Chance': '7.424879670143127441e-01'}
+{'Gene': 'mylk4', 'Label': 2, 'Chance': '8.051188588142395020e-01'}
+{'Gene': 'kcnmb4', 'Label': 2, 'Chance': '6.772102117538452148e-01'}
+{'Gene': 'kcnmb2', 'Label': 2, 'Chance': '6.797286868095397949e-01'}
+{'Gene': 'gsk3b', 'Label': 1, 'Chance': '4.970045089721679688e-01'}
+{'Gene': 'gsk3b', 'Label': 2, 'Chance': '6.899303793907165527e-01'}
+{'Gene': 'rps6ka5', 'Label': 1, 'Chance': '5.096987485885620117e-01'}
+{'Gene': 'rps6ka5', 'Label': 2, 'Chance': '6.991372704505920410e-01'}
+{'Gene': 'rap1a', 'Label': 2, 'Chance': '6.587639451026916504e-01'}
+{'Gene': 'mapk1', 'Label': 1, 'Chance': '5.329915285110473633e-01'}
+{'Gene': 'mapk1', 'Label': 2, 'Chance': '7.866787910461425781e-01'}
+{'Gene': 'mapk3', 'Label': 2, 'Chance': '6.243880391120910645e-01'}
+{'Gene': 'ndufb11', 'Label': 2, 'Chance': '6.858996748924255371e-01'}
+{'Gene': 'ndufa2', 'Label': 2, 'Chance': '6.485393643379211426e-01'}
+{'Gene': 'ndufs4', 'Label': 2, 'Chance': '7.567794322967529297e-01'}
+{'Gene': 'ndufv1', 'Label': 1, 'Chance': '5.323203802108764648e-01'}
+{'Gene': 'ndufv1', 'Label': 2, 'Chance': '7.646675705909729004e-01'}
+{'Gene': 'ndufs2', 'Label': 2, 'Chance': '7.446232438087463379e-01'}
+{'Gene': 'ndufs1', 'Label': 1, 'Chance': '5.407522320747375488e-01'}
+{'Gene': 'ndufs1', 'Label': 2, 'Chance': '7.660338282585144043e-01'}
+{'Gene': 'ndufb6', 'Label': 2, 'Chance': '6.977903842926025391e-01'}
+{'Gene': 'ndufs6', 'Label': 2, 'Chance': '6.825616955757141113e-01'}
+{'Gene': 'ndufa1', 'Label': 2, 'Chance': '6.667966842651367188e-01'}
+{'Gene': 'ndufs5', 'Label': 2, 'Chance': '7.197293043136596680e-01'}
+{'Gene': 'ndufa9', 'Label': 2, 'Chance': '6.964524984359741211e-01'}
+{'Gene': 'ndufc1', 'Label': 2, 'Chance': '5.907174944877624512e-01'}
+{'Gene': 'ndufb3', 'Label': 2, 'Chance': '7.184147238731384277e-01'}
+{'Gene': 'ndufa10', 'Label': 2, 'Chance': '7.302935123443603516e-01'}
+{'Gene': 'ndufb4', 'Label': 2, 'Chance': '6.770571470260620117e-01'}
+{'Gene': 'ndufc2', 'Label': 2, 'Chance': '6.850969791412353516e-01'}
+{'Gene': 'ndufb2', 'Label': 2, 'Chance': '6.639634370803833008e-01'}
+{'Gene': 'ndufa5', 'Label': 2, 'Chance': '6.351326107978820801e-01'}
+{'Gene': 'ndufs3', 'Label': 1, 'Chance': '5.866091251373291016e-01'}
+{'Gene': 'ndufs3', 'Label': 2, 'Chance': '7.883030772209167480e-01'}
+{'Gene': 'ndufa8', 'Label': 2, 'Chance': '6.815569400787353516e-01'}
+{'Gene': 'ndufab1', 'Label': 2, 'Chance': '6.907556056976318359e-01'}
+{'Gene': 'ndufv2', 'Label': 2, 'Chance': '6.696569919586181641e-01'}
+{'Gene': 'ndufs7', 'Label': 2, 'Chance': '7.413526177406311035e-01'}
+{'Gene': 'ndufv3', 'Label': 2, 'Chance': '7.084975242614746094e-01'}
+{'Gene': 'scn1a', 'Label': 1, 'Chance': '8.976088762283325195e-01'}
+{'Gene': 'scn1a', 'Label': 2, 'Chance': '8.224360942840576172e-01'}
+{'Gene': 'mapk10', 'Label': 1, 'Chance': '6.825386881828308105e-01'}
+{'Gene': 'mapk10', 'Label': 2, 'Chance': '7.755588889122009277e-01'}
+{'Gene': 'mapk14', 'Label': 2, 'Chance': '7.353298068046569824e-01'}
+{'Gene': 'mapk8', 'Label': 1, 'Chance': '4.931185841560363770e-01'}
+{'Gene': 'mapk8', 'Label': 2, 'Chance': '6.955720782279968262e-01'}
+{'Gene': 'mapk9', 'Label': 1, 'Chance': '5.148743391036987305e-01'}
+{'Gene': 'mapk9', 'Label': 2, 'Chance': '7.040162682533264160e-01'}
+{'Gene': 'gm13769', 'Label': 1, 'Chance': '9.547812938690185547e-01'}
+{'Gene': 'gm13769', 'Label': 2, 'Chance': '9.763477444648742676e-01'}
+{'Gene': 'trpm8', 'Label': 1, 'Chance': '8.631691336631774902e-01'}
+{'Gene': 'trpm8', 'Label': 2, 'Chance': '9.034343361854553223e-01'}
+{'Gene': 'trpv1', 'Label': 2, 'Chance': '6.764936447143554688e-01'}
+{'Gene': 'trpv4', 'Label': 2, 'Chance': '6.356514096260070801e-01'}
+{'Gene': 'pdx1', 'Label': 1, 'Chance': '8.638503551483154297e-01'}
+{'Gene': 'pdx1', 'Label': 2, 'Chance': '6.582528352737426758e-01'}
+{'Gene': 'abcc8', 'Label': 1, 'Chance': '5.268500447273254395e-01'}
+{'Gene': 'abcc8', 'Label': 2, 'Chance': '6.596812009811401367e-01'}
+{'Gene': 'kcnj3', 'Label': 1, 'Chance': '5.384404063224792480e-01'}
+{'Gene': 'kcnj3', 'Label': 2, 'Chance': '7.266913056373596191e-01'}
+{'Gene': 'kcnj6', 'Label': 1, 'Chance': '7.487847208976745605e-01'}
+{'Gene': 'kcnj6', 'Label': 2, 'Chance': '7.807865738868713379e-01'}
+{'Gene': 'kcnj9', 'Label': 1, 'Chance': '6.625038385391235352e-01'}
+{'Gene': 'kcnj9', 'Label': 2, 'Chance': '6.113294959068298340e-01'}
+{'Gene': 'pax8', 'Label': 2, 'Chance': '7.832009792327880859e-01'}
+{'Gene': 'ttf1', 'Label': 2, 'Chance': '6.792982816696166992e-01'}
+{'Gene': 'map2k1', 'Label': 1, 'Chance': '6.581693291664123535e-01'}
+{'Gene': 'map2k1', 'Label': 2, 'Chance': '7.950328588485717773e-01'}
+{'Gene': 'map2k2', 'Label': 2, 'Chance': '6.415578126907348633e-01'}
+{'Gene': 'phkb', 'Label': 2, 'Chance': '6.989447474479675293e-01'}
+{'Gene': 'ppp4r3b', 'Label': 1, 'Chance': '4.653398990631103516e-01'}
+{'Gene': 'ppp4r3b', 'Label': 2, 'Chance': '7.477611303329467773e-01'}
+{'Gene': 'prkab2', 'Label': 2, 'Chance': '5.927700400352478027e-01'}
+{'Gene': 'prkag2', 'Label': 1, 'Chance': '5.082987546920776367e-01'}
+{'Gene': 'prkag2', 'Label': 2, 'Chance': '6.820424199104309082e-01'}
+{'Gene': 'phka2', 'Label': 1, 'Chance': '4.875316917896270752e-01'}
+{'Gene': 'phka2', 'Label': 2, 'Chance': '6.887360215187072754e-01'}
+{'Gene': 'calm3', 'Label': 2, 'Chance': '7.127899527549743652e-01'}
+{'Gene': 'gys1', 'Label': 2, 'Chance': '6.864431500434875488e-01'}
+{'Gene': 'phka1', 'Label': 2, 'Chance': '6.939484477043151855e-01'}
+{'Gene': 'prkab1', 'Label': 2, 'Chance': '6.240370869636535645e-01'}
+{'Gene': 'prkag1', 'Label': 2, 'Chance': '7.165360450744628906e-01'}
+{'Gene': 'gys2', 'Label': 2, 'Chance': '7.308846116065979004e-01'}
+{'Gene': 'sik2', 'Label': 1, 'Chance': '5.441429018974304199e-01'}
+{'Gene': 'sik2', 'Label': 2, 'Chance': '6.965463161468505859e-01'}
+{'Gene': '4932429p05rik', 'Label': 1, 'Chance': '9.984626770019531250e-01'}
+{'Gene': '4932429p05rik', 'Label': 2, 'Chance': '9.969166517257690430e-01'}
+{'Gene': '4930415l06rik', 'Label': 1, 'Chance': '9.973428845405578613e-01'}
+{'Gene': '4930415l06rik', 'Label': 2, 'Chance': '9.923176765441894531e-01'}
+{'Gene': 'calm5', 'Label': 2, 'Chance': '7.937619686126708984e-01'}
+{'Gene': 'ppp4c', 'Label': 2, 'Chance': '7.211338281631469727e-01'}
+{'Gene': 'ppp4r3a', 'Label': 2, 'Chance': '7.227466106414794922e-01'}
+{'Gene': 'phkg2', 'Label': 1, 'Chance': '5.493514537811279297e-01'}
+{'Gene': 'phkg2', 'Label': 2, 'Chance': '7.231532335281372070e-01'}
+{'Gene': 'calm4', 'Label': 1, 'Chance': '7.653276324272155762e-01'}
+{'Gene': 'plin1', 'Label': 1, 'Chance': '7.864506244659423828e-01'}
+{'Gene': 'plin1', 'Label': 2, 'Chance': '8.411072492599487305e-01'}
+{'Gene': 'atf1', 'Label': 2, 'Chance': '6.516970992088317871e-01'}
+{'Gene': 'trpv5', 'Label': 1, 'Chance': '7.176660299301147461e-01'}
+{'Gene': 'trpv5', 'Label': 2, 'Chance': '7.665637731552124023e-01'}
+{'Gene': 'aqp2', 'Label': 1, 'Chance': '8.727776408195495605e-01'}
+{'Gene': 'aqp2', 'Label': 2, 'Chance': '8.053181767463684082e-01'}
+{'Gene': 'arhgdia', 'Label': 2, 'Chance': '6.590062379837036133e-01'}
+{'Gene': 'gnai1', 'Label': 1, 'Chance': '5.330245494842529297e-01'}
+{'Gene': 'gnai1', 'Label': 2, 'Chance': '6.694791316986083984e-01'}
+{'Gene': 'gnai2', 'Label': 2, 'Chance': '6.303646564483642578e-01'}
+{'Gene': 'gnai3', 'Label': 2, 'Chance': '7.718307971954345703e-01'}
+{'Gene': 'gnao1', 'Label': 1, 'Chance': '5.416100621223449707e-01'}
+{'Gene': 'gnao1', 'Label': 2, 'Chance': '7.095165252685546875e-01'}
+{'Gene': 'gnb1', 'Label': 2, 'Chance': '7.372280359268188477e-01'}
+{'Gene': 'gnb2', 'Label': 2, 'Chance': '6.754777431488037109e-01'}
+{'Gene': 'gnb4', 'Label': 1, 'Chance': '4.779478609561920166e-01'}
+{'Gene': 'gnb4', 'Label': 2, 'Chance': '6.831615567207336426e-01'}
+{'Gene': 'gnb5', 'Label': 2, 'Chance': '5.433756709098815918e-01'}
+{'Gene': 'gnb5', 'Label': 2, 'Chance': '6.818071007728576660e-01'}
+{'Gene': 'gngt1', 'Label': 1, 'Chance': '7.055692076683044434e-01'}
+{'Gene': 'gngt1', 'Label': 2, 'Chance': '7.832193970680236816e-01'}
+{'Gene': 'gng10', 'Label': 2, 'Chance': '6.033571958541870117e-01'}
+{'Gene': 'gng12', 'Label': 2, 'Chance': '5.898674726486206055e-01'}
+{'Gene': 'gng2', 'Label': 2, 'Chance': '4.943731129169464111e-01'}
+{'Gene': 'gng3', 'Label': 1, 'Chance': '5.538862943649291992e-01'}
+{'Gene': 'gng3', 'Label': 2, 'Chance': '5.571848154067993164e-01'}
+{'Gene': 'gng4', 'Label': 2, 'Chance': '6.064506769180297852e-01'}
+{'Gene': 'gng5', 'Label': 2, 'Chance': '5.805223584175109863e-01'}
+{'Gene': 'gng7', 'Label': 1, 'Chance': '7.840566039085388184e-01'}
+{'Gene': 'gng13', 'Label': 2, 'Chance': '4.870587587356567383e-01'}
+{'Gene': 'bax', 'Label': 2, 'Chance': '6.548793911933898926e-01'}
+{'Gene': 'crem', 'Label': 1, 'Chance': '4.670169949531555176e-01'}
+{'Gene': 'crem', 'Label': 2, 'Chance': '5.973764657974243164e-01'}
+{'Gene': 'xbp1', 'Label': 1, 'Chance': '4.792721271514892578e-01'}
+{'Gene': 'xbp1', 'Label': 2, 'Chance': '7.699474096298217773e-01'}
+{'Gene': 'ptk2', 'Label': 1, 'Chance': '4.757692217826843262e-01'}
+{'Gene': 'ptk2', 'Label': 2, 'Chance': '7.229061722755432129e-01'}
+
+----------------------------------------------------------------------
+
+- gnb5:
+{'Grau total': '92'}
+{'Grau entrada': 14}
+{'Grau saida': 78}
+{'Gene': 'apln', 'Label': 1, 'Chance': '4.725888371467590332e-01'}
+{'Gene': 'grm4', 'Label': 2, 'Chance': '6.040635704994201660e-01'}
+{'Gene': 'grm4', 'Label': 2, 'Chance': '4.343070685863494873e-01'}
+{'Gene': 'grm3', 'Label': 2, 'Chance': '5.725542902946472168e-01'}
+{'Gene': 'grm3', 'Label': 2, 'Chance': '4.440411627292633057e-01'}
+{'Gene': 'gabbr2', 'Label': 2, 'Chance': '5.651911497116088867e-01'}
+{'Gene': 'grm7', 'Label': 2, 'Chance': '5.246972441673278809e-01'}
+{'Gene': 'grm7', 'Label': 1, 'Chance': '6.914424896240234375e-01'}
+{'Gene': 'htr1b', 'Label': 1, 'Chance': '4.379520416259765625e-01'}
+{'Gene': 'htr1b', 'Label': 1, 'Chance': '5.023642182350158691e-01'}
+{'Gene': 'drd2', 'Label': 1, 'Chance': '5.549089908599853516e-01'}
+{'Gene': 'prkcb', 'Label': 2, 'Chance': '6.393988132476806641e-01'}
+{'Gene': 'prkcb', 'Label': 1, 'Chance': '7.671606540679931641e-01'}
+{'Gene': 'chrm4', 'Label': 2, 'Chance': '5.181908607482910156e-01'}
+{'Gene': 'chrm4', 'Label': 1, 'Chance': '5.970291495323181152e-01'}
+{'Gene': 'prkcg', 'Label': 2, 'Chance': '6.572106480598449707e-01'}
+{'Gene': 'prkcg', 'Label': 1, 'Chance': '4.891803860664367676e-01'}
+{'Gene': 'oprm1', 'Label': 2, 'Chance': '4.864250421524047852e-01'}
+{'Gene': 'htr1d', 'Label': 1, 'Chance': '5.322686433792114258e-01'}
+{'Gene': 'htr1d', 'Label': 1, 'Chance': '4.797318875789642334e-01'}
+{'Gene': 'gabbr1', 'Label': 2, 'Chance': '7.510328292846679688e-01'}
+{'Gene': 'gabbr1', 'Label': 1, 'Chance': '5.049477815628051758e-01'}
+{'Gene': 'rasgrf1', 'Label': 1, 'Chance': '5.467625260353088379e-01'}
+{'Gene': 'rasgrf1', 'Label': 2, 'Chance': '5.323315858840942383e-01'}
+{'Gene': 'pik3ca', 'Label': 2, 'Chance': '6.357756853103637695e-01'}
+{'Gene': 'pik3r2', 'Label': 2, 'Chance': '4.760870337486267090e-01'}
+{'Gene': 'pik3r2', 'Label': 2, 'Chance': '7.515661120414733887e-01'}
+{'Gene': 'pik3r3', 'Label': 2, 'Chance': '6.319126486778259277e-01'}
+{'Gene': 'plcb1', 'Label': 1, 'Chance': '7.292261123657226562e-01'}
+{'Gene': 'plcb1', 'Label': 2, 'Chance': '6.387622952461242676e-01'}
+{'Gene': 'plcb2', 'Label': 2, 'Chance': '4.429698586463928223e-01'}
+{'Gene': 'plcb3', 'Label': 2, 'Chance': '7.289972901344299316e-01'}
+{'Gene': 'plcb4', 'Label': 1, 'Chance': '4.516212940216064453e-01'}
+{'Gene': 'prex1', 'Label': 2, 'Chance': '6.185271143913269043e-01'}
+{'Gene': 'pik3r6', 'Label': 2, 'Chance': '5.645982623100280762e-01'}
+{'Gene': 'adcy4', 'Label': 1, 'Chance': '5.022340416908264160e-01'}
+{'Gene': 'adcy4', 'Label': 2, 'Chance': '4.414823949337005615e-01'}
+{'Gene': 'adcy3', 'Label': 2, 'Chance': '5.160784721374511719e-01'}
+{'Gene': 'adcy3', 'Label': 2, 'Chance': '7.075757980346679688e-01'}
+{'Gene': 'prkaa2', 'Label': 2, 'Chance': '4.107766449451446533e-01'}
+{'Gene': 'prkaa2', 'Label': 2, 'Chance': '6.316374540328979492e-01'}
+{'Gene': 'prkab2', 'Label': 2, 'Chance': '5.854744911193847656e-01'}
+{'Gene': 'prkag2', 'Label': 2, 'Chance': '6.106797456741333008e-01'}
+{'Gene': 'adcy6', 'Label': 2, 'Chance': '6.583475470542907715e-01'}
+{'Gene': 'adcy9', 'Label': 1, 'Chance': '4.493424594402313232e-01'}
+{'Gene': 'adcy9', 'Label': 2, 'Chance': '6.963241100311279297e-01'}
+{'Gene': 'camk4', 'Label': 1, 'Chance': '6.238318085670471191e-01'}
+{'Gene': 'camk4', 'Label': 2, 'Chance': '6.747941374778747559e-01'}
+{'Gene': 'hras', 'Label': 1, 'Chance': '7.847465872764587402e-01'}
+{'Gene': 'hras', 'Label': 2, 'Chance': '5.526816844940185547e-01'}
+{'Gene': 'kras', 'Label': 2, 'Chance': '6.267221570014953613e-01'}
+{'Gene': 'mras', 'Label': 2, 'Chance': '4.267541468143463135e-01'}
+{'Gene': 'mras', 'Label': 2, 'Chance': '6.349502801895141602e-01'}
+{'Gene': 'prkce', 'Label': 2, 'Chance': '4.473729431629180908e-01'}
+{'Gene': 'prkce', 'Label': 2, 'Chance': '5.469771623611450195e-01'}
+{'Gene': 'prkag1', 'Label': 2, 'Chance': '5.961901545524597168e-01'}
+{'Gene': 'adcy2', 'Label': 2, 'Chance': '5.433552861213684082e-01'}
+{'Gene': 'adcy5', 'Label': 1, 'Chance': '8.796062469482421875e-01'}
+{'Gene': 'adcy5', 'Label': 2, 'Chance': '6.995891332626342773e-01'}
+{'Gene': 'adcy1', 'Label': 2, 'Chance': '5.576627254486083984e-01'}
+{'Gene': 'kcnj3', 'Label': 2, 'Chance': '4.080290794372558594e-01'}
+{'Gene': 'kcnj3', 'Label': 2, 'Chance': '4.297204911708831787e-01'}
+{'Gene': 'kcnj6', 'Label': 2, 'Chance': '4.423759579658508301e-01'}
+{'Gene': 'kcnj9', 'Label': 1, 'Chance': '4.794181883335113525e-01'}
+{'Gene': 'mapk1', 'Label': 1, 'Chance': '4.952348172664642334e-01'}
+{'Gene': 'mapk1', 'Label': 2, 'Chance': '7.360022664070129395e-01'}
+{'Gene': 'cacna1a', 'Label': 2, 'Chance': '7.197014689445495605e-01'}
+{'Gene': 'cacna1b', 'Label': 2, 'Chance': '4.280895292758941650e-01'}
+{'Gene': 'cacna1b', 'Label': 2, 'Chance': '6.403203010559082031e-01'}
+{'Gene': 'mapk11', 'Label': 1, 'Chance': '4.708338379859924316e-01'}
+{'Gene': 'mapk11', 'Label': 2, 'Chance': '4.751731455326080322e-01'}
+{'Gene': 'mapk10', 'Label': 1, 'Chance': '7.130575776100158691e-01'}
+{'Gene': 'mapk10', 'Label': 2, 'Chance': '5.975322127342224121e-01'}
+{'Gene': 'mapk8', 'Label': 2, 'Chance': '6.269566416740417480e-01'}
+{'Gene': 'mapk9', 'Label': 1, 'Chance': '4.241436421871185303e-01'}
+{'Gene': 'mapk9', 'Label': 2, 'Chance': '6.504471898078918457e-01'}
+{'Gene': 'cacna1c', 'Label': 1, 'Chance': '4.533326923847198486e-01'}
+{'Gene': 'cacna1c', 'Label': 2, 'Chance': '6.602046489715576172e-01'}
+{'Gene': 'cacna1d', 'Label': 1, 'Chance': '4.674800634384155273e-01'}
+{'Gene': 'cacna1d', 'Label': 2, 'Chance': '6.793813705444335938e-01'}
+{'Gene': 'cacna1s', 'Label': 2, 'Chance': '4.673307240009307861e-01'}
+{'Gene': 'cacna1f', 'Label': 1, 'Chance': '8.324831724166870117e-01'}
+{'Gene': 'cacna1f', 'Label': 1, 'Chance': '5.509276986122131348e-01'}
+{'Gene': 'scn1a', 'Label': 1, 'Chance': '5.842818617820739746e-01'}
+{'Gene': 'scn1a', 'Label': 2, 'Chance': '6.007784605026245117e-01'}
+{'Gene': 'prkacb', 'Label': 2, 'Chance': '5.433756709098815918e-01'}
+{'Gene': 'prkacb', 'Label': 2, 'Chance': '6.818071007728576660e-01'}
+{'Gene': 'cnr1', 'Label': 1, 'Chance': '4.127971529960632324e-01'}
+{'Gene': 'ppp1r3f', 'Label': 1, 'Chance': '4.918564558029174805e-01'}
+{'Gene': 'prkaca', 'Label': 2, 'Chance': '5.786260962486267090e-01'}
+{'Gene': 'prkaca', 'Label': 1, 'Chance': '4.311615824699401855e-01'}
+{'Gene': 'drd3', 'Label': 2, 'Chance': '4.811396896839141846e-01'}
+
+----------------------------------------------------------------------
+
+- gng7:
+{'Grau total': '90'}
+{'Grau entrada': 22}
+{'Grau saida': 68}
+{'Gene': 'comp', 'Label': 1, 'Chance': '5.146644711494445801e-01'}
+{'Gene': 'grm4', 'Label': 2, 'Chance': '6.342768669128417969e-01'}
+{'Gene': 'grm4', 'Label': 1, 'Chance': '7.461810708045959473e-01'}
+{'Gene': 'mtnr1a', 'Label': 1, 'Chance': '5.975849032402038574e-01'}
+{'Gene': 'mtnr1a', 'Label': 1, 'Chance': '6.314308643341064453e-01'}
+{'Gene': 'grm3', 'Label': 2, 'Chance': '5.064656138420104980e-01'}
+{'Gene': 'grm3', 'Label': 1, 'Chance': '6.039974689483642578e-01'}
+{'Gene': 'gabbr2', 'Label': 1, 'Chance': '7.346411347389221191e-01'}
+{'Gene': 'adcyap1r1', 'Label': 2, 'Chance': '5.939302444458007812e-01'}
+{'Gene': 'adcyap1r1', 'Label': 1, 'Chance': '6.126665472984313965e-01'}
+{'Gene': 'grm7', 'Label': 1, 'Chance': '5.825589895248413086e-01'}
+{'Gene': 'grm7', 'Label': 1, 'Chance': '5.305407047271728516e-01'}
+{'Gene': 'chrm2', 'Label': 2, 'Chance': '5.387825369834899902e-01'}
+{'Gene': 'rasgrf1', 'Label': 1, 'Chance': '5.000026226043701172e-01'}
+{'Gene': 'rasgrf1', 'Label': 2, 'Chance': '4.625100791454315186e-01'}
+{'Gene': 'pik3cd', 'Label': 1, 'Chance': '7.796615362167358398e-01'}
+{'Gene': 'pik3cd', 'Label': 2, 'Chance': '7.512766718864440918e-01'}
+{'Gene': 'pik3r2', 'Label': 2, 'Chance': '4.787659645080566406e-01'}
+{'Gene': 'plcb3', 'Label': 2, 'Chance': '7.074212431907653809e-01'}
+{'Gene': 'prex1', 'Label': 2, 'Chance': '6.760047674179077148e-01'}
+{'Gene': 'pik3r5', 'Label': 1, 'Chance': '8.295841217041015625e-01'}
+{'Gene': 'pik3r5', 'Label': 2, 'Chance': '7.289654016494750977e-01'}
+{'Gene': 'adcy4', 'Label': 1, 'Chance': '7.145657539367675781e-01'}
+{'Gene': 'adcy4', 'Label': 2, 'Chance': '4.755480587482452393e-01'}
+{'Gene': 'adcy3', 'Label': 1, 'Chance': '4.513681828975677490e-01'}
+{'Gene': 'prkaa2', 'Label': 1, 'Chance': '6.993197798728942871e-01'}
+{'Gene': 'prkaa2', 'Label': 2, 'Chance': '5.143454670906066895e-01'}
+{'Gene': 'adcy6', 'Label': 1, 'Chance': '8.221310377120971680e-01'}
+{'Gene': 'adcy6', 'Label': 2, 'Chance': '8.077520132064819336e-01'}
+{'Gene': 'adcy7', 'Label': 1, 'Chance': '8.168298602104187012e-01'}
+{'Gene': 'adcy8', 'Label': 1, 'Chance': '7.819444537162780762e-01'}
+{'Gene': 'camk4', 'Label': 1, 'Chance': '6.623086333274841309e-01'}
+{'Gene': 'camk4', 'Label': 1, 'Chance': '4.986130297183990479e-01'}
+{'Gene': 'mras', 'Label': 1, 'Chance': '5.517675876617431641e-01'}
+{'Gene': 'mras', 'Label': 2, 'Chance': '5.102636814117431641e-01'}
+{'Gene': 'prkce', 'Label': 1, 'Chance': '5.711067318916320801e-01'}
+{'Gene': 'adcy2', 'Label': 1, 'Chance': '6.402263045310974121e-01'}
+{'Gene': 'adcy5', 'Label': 1, 'Chance': '7.573289871215820312e-01'}
+{'Gene': 'adcy5', 'Label': 2, 'Chance': '6.683788895606994629e-01'}
+{'Gene': 'adcy10', 'Label': 1, 'Chance': '7.512897253036499023e-01'}
+{'Gene': 'adcy1', 'Label': 1, 'Chance': '8.092798590660095215e-01'}
+{'Gene': 'adcy1', 'Label': 2, 'Chance': '7.509250640869140625e-01'}
+{'Gene': 'kcnj3', 'Label': 1, 'Chance': '6.267031431198120117e-01'}
+{'Gene': 'kcnj5', 'Label': 1, 'Chance': '7.119577527046203613e-01'}
+{'Gene': 'kcnj9', 'Label': 1, 'Chance': '6.097195148468017578e-01'}
+{'Gene': 'kcnj9', 'Label': 2, 'Chance': '5.442867279052734375e-01'}
+{'Gene': 'cacna1b', 'Label': 1, 'Chance': '7.412244677543640137e-01'}
+{'Gene': 'cacna1b', 'Label': 2, 'Chance': '5.605759620666503906e-01'}
+{'Gene': 'mapk10', 'Label': 1, 'Chance': '4.589025378227233887e-01'}
+{'Gene': 'mapk10', 'Label': 1, 'Chance': '4.849867224693298340e-01'}
+{'Gene': 'cacna1c', 'Label': 1, 'Chance': '5.896809101104736328e-01'}
+{'Gene': 'cacna1c', 'Label': 2, 'Chance': '4.605087041854858398e-01'}
+{'Gene': 'cacna1s', 'Label': 1, 'Chance': '7.757949829101562500e-01'}
+{'Gene': 'cacna1f', 'Label': 1, 'Chance': '7.694229483604431152e-01'}
+{'Gene': 'cacna1f', 'Label': 2, 'Chance': '6.921541690826416016e-01'}
+{'Gene': 'scn1a', 'Label': 1, 'Chance': '6.915695667266845703e-01'}
+{'Gene': 'scn1a', 'Label': 2, 'Chance': '6.309157609939575195e-01'}
+{'Gene': 'drd4', 'Label': 1, 'Chance': '5.573986768722534180e-01'}
+{'Gene': 'drd4', 'Label': 1, 'Chance': '7.189084291458129883e-01'}
+{'Gene': 'htr1b', 'Label': 2, 'Chance': '5.124047994613647461e-01'}
+{'Gene': 'htr1b', 'Label': 1, 'Chance': '6.123481988906860352e-01'}
+{'Gene': 'drd2', 'Label': 2, 'Chance': '4.092307686805725098e-01'}
+{'Gene': 'drd2', 'Label': 1, 'Chance': '5.126316547393798828e-01'}
+{'Gene': 'chrm4', 'Label': 2, 'Chance': '5.534671545028686523e-01'}
+{'Gene': 'chrm4', 'Label': 1, 'Chance': '7.900944948196411133e-01'}
+{'Gene': 'prkcg', 'Label': 1, 'Chance': '4.965999424457550049e-01'}
+{'Gene': 'prkcg', 'Label': 1, 'Chance': '5.500389933586120605e-01'}
+{'Gene': 'htr1a', 'Label': 1, 'Chance': '8.995807170867919922e-01'}
+{'Gene': 'htr1a', 'Label': 2, 'Chance': '6.914066076278686523e-01'}
+{'Gene': 'htr1d', 'Label': 1, 'Chance': '4.523427784442901611e-01'}
+{'Gene': 'htr1d', 'Label': 1, 'Chance': '5.980563163757324219e-01'}
+{'Gene': 'ntrk2', 'Label': 1, 'Chance': '5.013877749443054199e-01'}
+{'Gene': 'gabbr1', 'Label': 2, 'Chance': '5.138695836067199707e-01'}
+{'Gene': 'gabbr1', 'Label': 1, 'Chance': '6.013482213020324707e-01'}
+{'Gene': 'htr1f', 'Label': 1, 'Chance': '7.902315855026245117e-01'}
+{'Gene': 'htr1f', 'Label': 2, 'Chance': '5.936078429222106934e-01'}
+{'Gene': 'gm13769', 'Label': 1, 'Chance': '8.914768099784851074e-01'}
+{'Gene': 'gm13769', 'Label': 2, 'Chance': '7.959684729576110840e-01'}
+{'Gene': 'wnt11', 'Label': 1, 'Chance': '4.569251239299774170e-01'}
+{'Gene': 'prkacb', 'Label': 1, 'Chance': '7.840566039085388184e-01'}
+{'Gene': 'mtnr1b', 'Label': 1, 'Chance': '9.330628514289855957e-01'}
+{'Gene': 'mtnr1b', 'Label': 2, 'Chance': '7.943804264068603516e-01'}
+{'Gene': 'cnr1', 'Label': 2, 'Chance': '4.657549858093261719e-01'}
+{'Gene': 'cnr1', 'Label': 1, 'Chance': '4.839829206466674805e-01'}
+{'Gene': 'htr7', 'Label': 1, 'Chance': '7.024188041687011719e-01'}
+{'Gene': 'grm2', 'Label': 1, 'Chance': '5.897660255432128906e-01'}
+{'Gene': 'grm2', 'Label': 1, 'Chance': '5.057619214057922363e-01'}
+{'Gene': 'htr5a', 'Label': 1, 'Chance': '6.623156070709228516e-01'}
+{'Gene': 'htr5a', 'Label': 2, 'Chance': '5.851087570190429688e-01'}
+{'Gene': 'drd3', 'Label': 2, 'Chance': '4.329833984375000000e-01'}
+
+----------------------------------------------------------------------
+
+- gng4:
+{'Grau total': '87'}
+{'Grau entrada': 4}
+{'Grau saida': 83}
+{'Gene': 'rasd1', 'Label': 2, 'Chance': '5.190380811691284180e-01'}
+{'Gene': 'rasd1', 'Label': 1, 'Chance': '6.809781789779663086e-01'}
+{'Gene': 'grm4', 'Label': 2, 'Chance': '6.878355145454406738e-01'}
+{'Gene': 'grm4', 'Label': 1, 'Chance': '8.374286293983459473e-01'}
+{'Gene': 'rasgrf1', 'Label': 1, 'Chance': '5.129266381263732910e-01'}
+{'Gene': 'rasgrf1', 'Label': 2, 'Chance': '6.343237161636352539e-01'}
+{'Gene': 'pik3ca', 'Label': 1, 'Chance': '7.801337838172912598e-01'}
+{'Gene': 'pik3cd', 'Label': 1, 'Chance': '7.899399995803833008e-01'}
+{'Gene': 'plcb2', 'Label': 1, 'Chance': '7.693551182746887207e-01'}
+{'Gene': 'plcb2', 'Label': 2, 'Chance': '8.055233955383300781e-01'}
+{'Gene': 'plcb3', 'Label': 2, 'Chance': '7.576872706413269043e-01'}
+{'Gene': 'plcb4', 'Label': 1, 'Chance': '7.490892410278320312e-01'}
+{'Gene': 'prex1', 'Label': 1, 'Chance': '8.525943756103515625e-01'}
+{'Gene': 'pik3cb', 'Label': 1, 'Chance': '7.699563503265380859e-01'}
+{'Gene': 'pik3r6', 'Label': 1, 'Chance': '8.706883788108825684e-01'}
+{'Gene': 'pik3cg', 'Label': 1, 'Chance': '7.654567360877990723e-01'}
+{'Gene': 'pik3r5', 'Label': 1, 'Chance': '8.739982247352600098e-01'}
+{'Gene': 'pik3r5', 'Label': 2, 'Chance': '8.176028132438659668e-01'}
+{'Gene': 'adcy4', 'Label': 1, 'Chance': '8.434745073318481445e-01'}
+{'Gene': 'adcy4', 'Label': 2, 'Chance': '8.436593413352966309e-01'}
+{'Gene': 'adcy3', 'Label': 1, 'Chance': '7.764153480529785156e-01'}
+{'Gene': 'prkaa2', 'Label': 1, 'Chance': '8.045225739479064941e-01'}
+{'Gene': 'prkab2', 'Label': 1, 'Chance': '7.222557067871093750e-01'}
+{'Gene': 'adcy6', 'Label': 1, 'Chance': '8.317229747772216797e-01'}
+{'Gene': 'adcy6', 'Label': 2, 'Chance': '8.149564266204833984e-01'}
+{'Gene': 'adcy7', 'Label': 1, 'Chance': '8.134995698928833008e-01'}
+{'Gene': 'adcy8', 'Label': 1, 'Chance': '7.788319587707519531e-01'}
+{'Gene': 'adcy9', 'Label': 1, 'Chance': '7.334944009780883789e-01'}
+{'Gene': 'adcy9', 'Label': 2, 'Chance': '5.794009566307067871e-01'}
+{'Gene': 'camk4', 'Label': 1, 'Chance': '7.352361083030700684e-01'}
+{'Gene': 'prkce', 'Label': 1, 'Chance': '6.127732992172241211e-01'}
+{'Gene': 'adcy2', 'Label': 1, 'Chance': '7.990035414695739746e-01'}
+{'Gene': 'adcy5', 'Label': 1, 'Chance': '8.661906719207763672e-01'}
+{'Gene': 'adcy5', 'Label': 2, 'Chance': '7.804023623466491699e-01'}
+{'Gene': 'adcy10', 'Label': 1, 'Chance': '7.593555450439453125e-01'}
+{'Gene': 'adcy1', 'Label': 1, 'Chance': '8.264849185943603516e-01'}
+{'Gene': 'kcnj3', 'Label': 1, 'Chance': '5.759995579719543457e-01'}
+{'Gene': 'kcnj5', 'Label': 1, 'Chance': '7.173942327499389648e-01'}
+{'Gene': 'kcnj6', 'Label': 1, 'Chance': '4.912580847740173340e-01'}
+{'Gene': 'kcnj9', 'Label': 1, 'Chance': '6.170406937599182129e-01'}
+{'Gene': 'kcnj9', 'Label': 2, 'Chance': '6.462923884391784668e-01'}
+{'Gene': 'cacna1a', 'Label': 1, 'Chance': '7.795928716659545898e-01'}
+{'Gene': 'cacna1a', 'Label': 2, 'Chance': '5.715038776397705078e-01'}
+{'Gene': 'cacna1b', 'Label': 1, 'Chance': '8.143112659454345703e-01'}
+{'Gene': 'cacna1b', 'Label': 2, 'Chance': '6.952363848686218262e-01'}
+{'Gene': 'mapk11', 'Label': 1, 'Chance': '6.575996875762939453e-01'}
+{'Gene': 'mapk10', 'Label': 1, 'Chance': '4.689122736454010010e-01'}
+{'Gene': 'mapk10', 'Label': 2, 'Chance': '5.705235004425048828e-01'}
+{'Gene': 'cacna1c', 'Label': 1, 'Chance': '8.010398149490356445e-01'}
+{'Gene': 'cacna1c', 'Label': 2, 'Chance': '5.826301574707031250e-01'}
+{'Gene': 'cacna1d', 'Label': 1, 'Chance': '7.979348301887512207e-01'}
+{'Gene': 'cacna1d', 'Label': 2, 'Chance': '5.781268477439880371e-01'}
+{'Gene': 'cacna1s', 'Label': 1, 'Chance': '8.730581998825073242e-01'}
+{'Gene': 'cacna1s', 'Label': 2, 'Chance': '7.725228071212768555e-01'}
+{'Gene': 'cacna1f', 'Label': 1, 'Chance': '8.705613613128662109e-01'}
+{'Gene': 'cacna1f', 'Label': 2, 'Chance': '7.930011749267578125e-01'}
+{'Gene': 'scn1a', 'Label': 1, 'Chance': '8.182584643363952637e-01'}
+{'Gene': 'scn1a', 'Label': 2, 'Chance': '7.369373440742492676e-01'}
+{'Gene': 'mtnr1a', 'Label': 1, 'Chance': '6.938257217407226562e-01'}
+{'Gene': 'grm3', 'Label': 1, 'Chance': '7.467982172966003418e-01'}
+{'Gene': 'gabbr2', 'Label': 1, 'Chance': '7.697579264640808105e-01'}
+{'Gene': 'adcyap1r1', 'Label': 2, 'Chance': '6.814993619918823242e-01'}
+{'Gene': 'adcyap1r1', 'Label': 1, 'Chance': '7.824441790580749512e-01'}
+{'Gene': 'htr5b', 'Label': 1, 'Chance': '6.795274615287780762e-01'}
+{'Gene': 'grm7', 'Label': 1, 'Chance': '6.471024155616760254e-01'}
+{'Gene': 'chrm2', 'Label': 2, 'Chance': '4.389365315437316895e-01'}
+{'Gene': 'ptgfr', 'Label': 2, 'Chance': '7.469049692153930664e-01'}
+{'Gene': 'drd4', 'Label': 2, 'Chance': '6.408556103706359863e-01'}
+{'Gene': 'drd4', 'Label': 1, 'Chance': '7.288323640823364258e-01'}
+{'Gene': 'htr1b', 'Label': 2, 'Chance': '6.917800307273864746e-01'}
+{'Gene': 'htr1b', 'Label': 1, 'Chance': '7.662491202354431152e-01'}
+{'Gene': 'drd2', 'Label': 2, 'Chance': '5.200096964836120605e-01'}
+{'Gene': 'chrm4', 'Label': 2, 'Chance': '6.938401460647583008e-01'}
+{'Gene': 'chrm4', 'Label': 1, 'Chance': '8.175989985466003418e-01'}
+{'Gene': 'prkcg', 'Label': 2, 'Chance': '6.801443696022033691e-01'}
+{'Gene': 'prkcg', 'Label': 1, 'Chance': '8.025422096252441406e-01'}
+{'Gene': 'col6a4', 'Label': 2, 'Chance': '8.006334304809570312e-01'}
+{'Gene': 'htr1d', 'Label': 2, 'Chance': '4.345065057277679443e-01'}
+{'Gene': 'adora1', 'Label': 2, 'Chance': '7.650291919708251953e-01'}
+{'Gene': 'acvr1b', 'Label': 1, 'Chance': '7.961606979370117188e-01'}
+{'Gene': 'gabbr1', 'Label': 1, 'Chance': '7.280175089836120605e-01'}
+{'Gene': 'casr', 'Label': 2, 'Chance': '8.140456080436706543e-01'}
+{'Gene': 'prkacb', 'Label': 2, 'Chance': '6.064506769180297852e-01'}
+{'Gene': 'cnr1', 'Label': 1, 'Chance': '6.348995566368103027e-01'}
+{'Gene': 'htr7', 'Label': 1, 'Chance': '8.480089306831359863e-01'}
+{'Gene': 'grm2', 'Label': 1, 'Chance': '5.632421374320983887e-01'}
+{'Gene': 'serpinb2', 'Label': 2, 'Chance': '7.675760388374328613e-01'}
+
+----------------------------------------------------------------------
+
+- flt4:
+{'Grau total': '63'}
+{'Grau entrada': 57}
+{'Grau saida': 6}
+{'Gene': 'pgf', 'Label': 2, 'Chance': '6.752337217330932617e-01'}
+{'Gene': 'fgf16', 'Label': 1, 'Chance': '8.142620325088500977e-01'}
+{'Gene': 'fgf16', 'Label': 2, 'Chance': '8.219068050384521484e-01'}
+{'Gene': 'plg', 'Label': 2, 'Chance': '6.707051992416381836e-01'}
+{'Gene': 'hgf', 'Label': 2, 'Chance': '6.521281003952026367e-01'}
+{'Gene': 'angpt4', 'Label': 2, 'Chance': '6.732083559036254883e-01'}
+{'Gene': 'efna5', 'Label': 1, 'Chance': '5.867717266082763672e-01'}
+{'Gene': 'fgf20', 'Label': 1, 'Chance': '8.472947478294372559e-01'}
+{'Gene': 'fgf20', 'Label': 2, 'Chance': '7.362058758735656738e-01'}
+{'Gene': 'kitl', 'Label': 1, 'Chance': '6.637136936187744141e-01'}
+{'Gene': 'fgf1', 'Label': 1, 'Chance': '8.250833153724670410e-01'}
+{'Gene': 'fgf1', 'Label': 2, 'Chance': '8.239589333534240723e-01'}
+{'Gene': 'fgf12', 'Label': 2, 'Chance': '7.033804059028625488e-01'}
+{'Gene': 'pdgfb', 'Label': 1, 'Chance': '6.273006796836853027e-01'}
+{'Gene': 'pdgfb', 'Label': 2, 'Chance': '6.636991500854492188e-01'}
+{'Gene': 'tnxb', 'Label': 2, 'Chance': '7.790122032165527344e-01'}
+{'Gene': 'igf1', 'Label': 1, 'Chance': '6.175389885902404785e-01'}
+{'Gene': 'igf1', 'Label': 2, 'Chance': '6.629956364631652832e-01'}
+{'Gene': 'angpt2', 'Label': 1, 'Chance': '4.118226766586303711e-01'}
+{'Gene': 'fgf13', 'Label': 2, 'Chance': '7.439463138580322266e-01'}
+{'Gene': 'efna4', 'Label': 1, 'Chance': '6.855031251907348633e-01'}
+{'Gene': 'fgf5', 'Label': 1, 'Chance': '8.336499333381652832e-01'}
+{'Gene': 'fgf5', 'Label': 2, 'Chance': '8.527390360832214355e-01'}
+{'Gene': 'fgf6', 'Label': 1, 'Chance': '7.544968128204345703e-01'}
+{'Gene': 'grm2', 'Label': 1, 'Chance': '7.252746820449829102e-01'}
+{'Gene': 'fgf7', 'Label': 1, 'Chance': '7.853634357452392578e-01'}
+{'Gene': 'fgf7', 'Label': 2, 'Chance': '8.502825498580932617e-01'}
+{'Gene': 'vegfd', 'Label': 1, 'Chance': '6.021117568016052246e-01'}
+{'Gene': 'vegfd', 'Label': 2, 'Chance': '6.240336298942565918e-01'}
+{'Gene': 'fgf2', 'Label': 1, 'Chance': '6.781323552131652832e-01'}
+{'Gene': 'fgf9', 'Label': 1, 'Chance': '6.869021654129028320e-01'}
+{'Gene': 'pdgfd', 'Label': 1, 'Chance': '6.519900560379028320e-01'}
+{'Gene': 'pdgfd', 'Label': 2, 'Chance': '5.926937460899353027e-01'}
+{'Gene': 'fgf18', 'Label': 1, 'Chance': '7.214626669883728027e-01'}
+{'Gene': 'fgf18', 'Label': 2, 'Chance': '8.084223866462707520e-01'}
+{'Gene': 'ins2', 'Label': 2, 'Chance': '9.080396294593811035e-01'}
+{'Gene': 'efna1', 'Label': 1, 'Chance': '7.828411459922790527e-01'}
+{'Gene': 'efna1', 'Label': 2, 'Chance': '7.878478765487670898e-01'}
+{'Gene': 'vegfc', 'Label': 1, 'Chance': '6.316784620285034180e-01'}
+{'Gene': 'vegfc', 'Label': 2, 'Chance': '6.758295297622680664e-01'}
+{'Gene': 'fgf17', 'Label': 1, 'Chance': '8.001288175582885742e-01'}
+{'Gene': 'fgf10', 'Label': 1, 'Chance': '6.906656622886657715e-01'}
+{'Gene': 'fgf10', 'Label': 2, 'Chance': '7.788721919059753418e-01'}
+{'Gene': 'fgf23', 'Label': 1, 'Chance': '8.102174997329711914e-01'}
+{'Gene': 'fgf23', 'Label': 2, 'Chance': '8.079899549484252930e-01'}
+{'Gene': 'pdgfc', 'Label': 1, 'Chance': '6.813528537750244141e-01'}
+{'Gene': 'pdgfc', 'Label': 2, 'Chance': '6.446647047996520996e-01'}
+{'Gene': 'ins1', 'Label': 2, 'Chance': '9.152793288230895996e-01'}
+{'Gene': 'fgf22', 'Label': 1, 'Chance': '8.395289778709411621e-01'}
+{'Gene': 'fgf22', 'Label': 2, 'Chance': '8.669951558113098145e-01'}
+{'Gene': 'efna2', 'Label': 2, 'Chance': '5.850752592086791992e-01'}
+{'Gene': 'fgf8', 'Label': 1, 'Chance': '7.480763196945190430e-01'}
+{'Gene': 'shc3', 'Label': 2, 'Chance': '6.366395354270935059e-01'}
+{'Gene': 'shc3', 'Label': 1, 'Chance': '6.450023651123046875e-01'}
+{'Gene': 'shc2', 'Label': 2, 'Chance': '6.094655394554138184e-01'}
+{'Gene': 'plcb2', 'Label': 1, 'Chance': '4.417643845081329346e-01'}
+{'Gene': 'plcb2', 'Label': 2, 'Chance': '4.696956276893615723e-01'}
+{'Gene': 'plcb3', 'Label': 1, 'Chance': '5.888338685035705566e-01'}
+{'Gene': 'plcb3', 'Label': 2, 'Chance': '5.871258974075317383e-01'}
+{'Gene': 'irs1', 'Label': 1, 'Chance': '4.267504215240478516e-01'}
+{'Gene': 'irs1', 'Label': 1, 'Chance': '7.221458554267883301e-01'}
+{'Gene': 'tgfbr2', 'Label': 1, 'Chance': '4.620007574558258057e-01'}
+{'Gene': 'ngf', 'Label': 1, 'Chance': '7.197050452232360840e-01'}
+
+----------------------------------------------------------------------
+
+- kdr:
+{'Grau total': '61'}
+{'Grau entrada': 46}
+{'Grau saida': 15}
+{'Gene': 'fgf16', 'Label': 1, 'Chance': '8.133631944656372070e-01'}
+{'Gene': 'fgf16', 'Label': 2, 'Chance': '7.447903752326965332e-01'}
+{'Gene': 'col4a6', 'Label': 2, 'Chance': '5.856547951698303223e-01'}
+{'Gene': 'hgf', 'Label': 1, 'Chance': '6.023147702217102051e-01'}
+{'Gene': 'hgf', 'Label': 2, 'Chance': '6.066493988037109375e-01'}
+{'Gene': 'efna5', 'Label': 1, 'Chance': '6.046172380447387695e-01'}
+{'Gene': 'fgf20', 'Label': 1, 'Chance': '7.977993488311767578e-01'}
+{'Gene': 'kitl', 'Label': 1, 'Chance': '5.205643177032470703e-01'}
+{'Gene': 'kitl', 'Label': 2, 'Chance': '6.039338111877441406e-01'}
+{'Gene': 'fgf3', 'Label': 1, 'Chance': '6.567305922508239746e-01'}
+{'Gene': 'fgf1', 'Label': 1, 'Chance': '8.236286640167236328e-01'}
+{'Gene': 'fgf1', 'Label': 2, 'Chance': '7.707784175872802734e-01'}
+{'Gene': 'pdgfb', 'Label': 1, 'Chance': '5.616164207458496094e-01'}
+{'Gene': 'igf1', 'Label': 1, 'Chance': '5.834339857101440430e-01'}
+{'Gene': 'igf1', 'Label': 2, 'Chance': '6.530690789222717285e-01'}
+{'Gene': 'angpt2', 'Label': 2, 'Chance': '4.386249780654907227e-01'}
+{'Gene': 'angpt2', 'Label': 1, 'Chance': '4.908511042594909668e-01'}
+{'Gene': 'fgf13', 'Label': 1, 'Chance': '7.090735435485839844e-01'}
+{'Gene': 'fgf5', 'Label': 1, 'Chance': '8.444782495498657227e-01'}
+{'Gene': 'fgf5', 'Label': 2, 'Chance': '7.883166670799255371e-01'}
+{'Gene': 'fgf7', 'Label': 1, 'Chance': '7.861673235893249512e-01'}
+{'Gene': 'fgf7', 'Label': 2, 'Chance': '8.114220499992370605e-01'}
+{'Gene': 'vegfd', 'Label': 1, 'Chance': '6.029716730117797852e-01'}
+{'Gene': 'vegfd', 'Label': 2, 'Chance': '5.479496717453002930e-01'}
+{'Gene': 'fgf2', 'Label': 1, 'Chance': '6.445080637931823730e-01'}
+{'Gene': 'pdgfd', 'Label': 2, 'Chance': '6.036969423294067383e-01'}
+{'Gene': 'spata2l', 'Label': 2, 'Chance': '6.371821761131286621e-01'}
+{'Gene': 'fgf18', 'Label': 2, 'Chance': '7.186297178268432617e-01'}
+{'Gene': 'angpt1', 'Label': 1, 'Chance': '5.693461894989013672e-01'}
+{'Gene': 'ins2', 'Label': 2, 'Chance': '8.941762447357177734e-01'}
+{'Gene': 'efna1', 'Label': 1, 'Chance': '7.673203349113464355e-01'}
+{'Gene': 'efna1', 'Label': 2, 'Chance': '7.861258387565612793e-01'}
+{'Gene': 'vegfc', 'Label': 1, 'Chance': '6.349721550941467285e-01'}
+{'Gene': 'vegfc', 'Label': 2, 'Chance': '7.193940281867980957e-01'}
+{'Gene': 'gab1', 'Label': 2, 'Chance': '4.635631442070007324e-01'}
+{'Gene': 'jak2', 'Label': 2, 'Chance': '6.584407091140747070e-01'}
+{'Gene': 'shc3', 'Label': 1, 'Chance': '6.178487539291381836e-01'}
+{'Gene': 'plcb2', 'Label': 1, 'Chance': '5.355104207992553711e-01'}
+{'Gene': 'plcb2', 'Label': 1, 'Chance': '5.273834466934204102e-01'}
+{'Gene': 'plcb3', 'Label': 1, 'Chance': '6.697286367416381836e-01'}
+{'Gene': 'plcb3', 'Label': 2, 'Chance': '6.007155179977416992e-01'}
+{'Gene': 'plcb4', 'Label': 1, 'Chance': '5.436347723007202148e-01'}
+{'Gene': 'plcb4', 'Label': 2, 'Chance': '5.833997726440429688e-01'}
+{'Gene': 'irs1', 'Label': 1, 'Chance': '4.484766721725463867e-01'}
+{'Gene': 'irs1', 'Label': 1, 'Chance': '5.160328745841979980e-01'}
+{'Gene': 'pik3ca', 'Label': 2, 'Chance': '6.659875512123107910e-01'}
+{'Gene': 'pik3cb', 'Label': 2, 'Chance': '6.398079395294189453e-01'}
+{'Gene': 'itgav', 'Label': 2, 'Chance': '5.806414484977722168e-01'}
+{'Gene': 'itgb3', 'Label': 1, 'Chance': '5.533316731452941895e-01'}
+{'Gene': 'itgb3', 'Label': 2, 'Chance': '5.753722190856933594e-01'}
+{'Gene': 'fgf17', 'Label': 1, 'Chance': '6.698709726333618164e-01'}
+{'Gene': 'fgf10', 'Label': 1, 'Chance': '7.154513597488403320e-01'}
+{'Gene': 'fgf10', 'Label': 2, 'Chance': '7.245703339576721191e-01'}
+{'Gene': 'fgf23', 'Label': 1, 'Chance': '7.817716598510742188e-01'}
+{'Gene': 'fgf23', 'Label': 2, 'Chance': '7.738005518913269043e-01'}
+{'Gene': 'pdgfc', 'Label': 1, 'Chance': '6.499789953231811523e-01'}
+{'Gene': 'ins1', 'Label': 2, 'Chance': '8.075722455978393555e-01'}
+{'Gene': 'fgf22', 'Label': 1, 'Chance': '8.359484672546386719e-01'}
+{'Gene': 'fgf22', 'Label': 2, 'Chance': '7.692867517471313477e-01'}
+{'Gene': 'fgf11', 'Label': 1, 'Chance': '6.130875945091247559e-01'}
+{'Gene': 'fgf8', 'Label': 1, 'Chance': '6.609107851982116699e-01'}
+
+----------------------------------------------------------------------
+
+- itga2:
+{'Grau total': '60'}
+{'Grau entrada': 34}
+{'Grau saida': 26}
+{'Gene': 'tnxb', 'Label': 1, 'Chance': '7.102534770965576172e-01'}
+{'Gene': 'tnxb', 'Label': 2, 'Chance': '5.893003940582275391e-01'}
+{'Gene': 'vwf', 'Label': 2, 'Chance': '4.662861824035644531e-01'}
+{'Gene': 'vwf', 'Label': 1, 'Chance': '5.361332297325134277e-01'}
+{'Gene': 'thbs1', 'Label': 2, 'Chance': '4.351886808872222900e-01'}
+{'Gene': 'col3a1', 'Label': 1, 'Chance': '6.322007179260253906e-01'}
+{'Gene': 'col3a1', 'Label': 2, 'Chance': '4.383211731910705566e-01'}
+{'Gene': 'col2a1', 'Label': 1, 'Chance': '7.722051143646240234e-01'}
+{'Gene': 'col2a1', 'Label': 2, 'Chance': '6.807952523231506348e-01'}
+{'Gene': 'col4a1', 'Label': 2, 'Chance': '4.997925460338592529e-01'}
+{'Gene': 'col4a1', 'Label': 1, 'Chance': '4.945278167724609375e-01'}
+{'Gene': 'col6a3', 'Label': 1, 'Chance': '7.485235929489135742e-01'}
+{'Gene': 'col6a3', 'Label': 2, 'Chance': '5.964007377624511719e-01'}
+{'Gene': 'reln', 'Label': 1, 'Chance': '4.810654819011688232e-01'}
+{'Gene': 'lamb3', 'Label': 2, 'Chance': '5.587295293807983398e-01'}
+{'Gene': 'lamb3', 'Label': 1, 'Chance': '5.326226949691772461e-01'}
+{'Gene': 'fn1', 'Label': 1, 'Chance': '4.782216250896453857e-01'}
+{'Gene': 'fn1', 'Label': 1, 'Chance': '4.386121332645416260e-01'}
+{'Gene': 'lamb1', 'Label': 2, 'Chance': '4.896027147769927979e-01'}
+{'Gene': 'lamb1', 'Label': 1, 'Chance': '5.032171010971069336e-01'}
+{'Gene': 'vtn', 'Label': 2, 'Chance': '5.723356008529663086e-01'}
+{'Gene': 'lama3', 'Label': 2, 'Chance': '4.605607688426971436e-01'}
+{'Gene': 'lama1', 'Label': 1, 'Chance': '7.958956360816955566e-01'}
+{'Gene': 'lama1', 'Label': 2, 'Chance': '6.458629369735717773e-01'}
+{'Gene': 'pik3r2', 'Label': 1, 'Chance': '5.029269456863403320e-01'}
+{'Gene': 'prkacb', 'Label': 2, 'Chance': '5.596518516540527344e-01'}
+{'Gene': 'col4a3', 'Label': 2, 'Chance': '5.862143039703369141e-01'}
+{'Gene': 'lamc3', 'Label': 1, 'Chance': '5.089684128761291504e-01'}
+{'Gene': 'lama5', 'Label': 2, 'Chance': '5.524961948394775391e-01'}
+{'Gene': 'lama5', 'Label': 1, 'Chance': '5.228579044342041016e-01'}
+{'Gene': 'col9a2', 'Label': 2, 'Chance': '6.722725629806518555e-01'}
+{'Gene': 'tnc', 'Label': 1, 'Chance': '5.909423232078552246e-01'}
+{'Gene': 'tnc', 'Label': 1, 'Chance': '4.808816909790039062e-01'}
+{'Gene': 'col1a2', 'Label': 1, 'Chance': '6.581814885139465332e-01'}
+{'Gene': 'col1a2', 'Label': 1, 'Chance': '4.192868471145629883e-01'}
+{'Gene': 'hspg2', 'Label': 2, 'Chance': '4.603284597396850586e-01'}
+{'Gene': 'hspg2', 'Label': 2, 'Chance': '5.239853858947753906e-01'}
+{'Gene': 'col9a1', 'Label': 1, 'Chance': '6.727002859115600586e-01'}
+{'Gene': 'col6a4', 'Label': 2, 'Chance': '4.733541607856750488e-01'}
+{'Gene': 'col6a4', 'Label': 2, 'Chance': '5.037231445312500000e-01'}
+{'Gene': 'thbs4', 'Label': 2, 'Chance': '6.205552220344543457e-01'}
+{'Gene': 'lama4', 'Label': 2, 'Chance': '4.498366713523864746e-01'}
+{'Gene': 'col6a1', 'Label': 1, 'Chance': '5.332351326942443848e-01'}
+{'Gene': 'col4a5', 'Label': 1, 'Chance': '5.572059154510498047e-01'}
+{'Gene': 'lama2', 'Label': 2, 'Chance': '4.293367862701416016e-01'}
+{'Gene': 'lamc2', 'Label': 2, 'Chance': '5.166710019111633301e-01'}
+{'Gene': 'col4a6', 'Label': 1, 'Chance': '6.356607079505920410e-01'}
+{'Gene': 'col4a6', 'Label': 2, 'Chance': '5.975554585456848145e-01'}
+{'Gene': 'col6a2', 'Label': 1, 'Chance': '5.062374472618103027e-01'}
+{'Gene': 'lamb2', 'Label': 2, 'Chance': '4.699054956436157227e-01'}
+{'Gene': 'col4a2', 'Label': 2, 'Chance': '5.015746355056762695e-01'}
+{'Gene': 'col6a5', 'Label': 1, 'Chance': '8.494396209716796875e-01'}
+{'Gene': 'col6a5', 'Label': 2, 'Chance': '8.085761666297912598e-01'}
+{'Gene': 'col1a1', 'Label': 1, 'Chance': '6.576443314552307129e-01'}
+{'Gene': 'col1a1', 'Label': 1, 'Chance': '4.332502186298370361e-01'}
+{'Gene': 'wnt10b', 'Label': 1, 'Chance': '6.311823725700378418e-01'}
+{'Gene': 'col6a6', 'Label': 1, 'Chance': '4.101075530052185059e-01'}
+{'Gene': 'col6a6', 'Label': 1, 'Chance': '4.596436023712158203e-01'}
+{'Gene': 'thbs2', 'Label': 1, 'Chance': '7.556716799736022949e-01'}
+{'Gene': 'thbs2', 'Label': 1, 'Chance': '4.807721674442291260e-01'}
+
+----------------------------------------------------------------------
+
+- pdgfrb:
+{'Grau total': '60'}
+{'Grau entrada': 50}
+{'Grau saida': 10}
+{'Gene': 'pgf', 'Label': 1, 'Chance': '7.786228656768798828e-01'}
+{'Gene': 'pgf', 'Label': 2, 'Chance': '6.636224389076232910e-01'}
+{'Gene': 'fgf16', 'Label': 1, 'Chance': '8.221191763877868652e-01'}
+{'Gene': 'hgf', 'Label': 1, 'Chance': '5.663221478462219238e-01'}
+{'Gene': 'hgf', 'Label': 2, 'Chance': '5.679112076759338379e-01'}
+{'Gene': 'fgf20', 'Label': 1, 'Chance': '7.496426701545715332e-01'}
+{'Gene': 'kitl', 'Label': 1, 'Chance': '5.683962106704711914e-01'}
+{'Gene': 'fgf3', 'Label': 1, 'Chance': '7.593305110931396484e-01'}
+{'Gene': 'fgf1', 'Label': 1, 'Chance': '8.351580500602722168e-01'}
+{'Gene': 'fgf1', 'Label': 2, 'Chance': '7.788513898849487305e-01'}
+{'Gene': 'angpt2', 'Label': 1, 'Chance': '4.197338819503784180e-01'}
+{'Gene': 'efna3', 'Label': 1, 'Chance': '7.421556711196899414e-01'}
+{'Gene': 'fgf5', 'Label': 1, 'Chance': '8.725045919418334961e-01'}
+{'Gene': 'fgf5', 'Label': 2, 'Chance': '8.147479891777038574e-01'}
+{'Gene': 'tgfa', 'Label': 1, 'Chance': '7.032312750816345215e-01'}
+{'Gene': 'fgf7', 'Label': 1, 'Chance': '8.388062119483947754e-01'}
+{'Gene': 'fgf7', 'Label': 2, 'Chance': '7.335841655731201172e-01'}
+{'Gene': 'vegfd', 'Label': 1, 'Chance': '5.373134016990661621e-01'}
+{'Gene': 'vegfd', 'Label': 2, 'Chance': '5.041999220848083496e-01'}
+{'Gene': 'fgf2', 'Label': 1, 'Chance': '6.532131433486938477e-01'}
+{'Gene': 'plcg1', 'Label': 2, 'Chance': '5.336130261421203613e-01'}
+{'Gene': 'shc3', 'Label': 1, 'Chance': '5.435376167297363281e-01'}
+{'Gene': 'src', 'Label': 1, 'Chance': '5.573779344558715820e-01'}
+{'Gene': 'src', 'Label': 2, 'Chance': '4.162048101425170898e-01'}
+{'Gene': 'shc2', 'Label': 2, 'Chance': '4.854988157749176025e-01'}
+{'Gene': 'shc2', 'Label': 1, 'Chance': '6.411076784133911133e-01'}
+{'Gene': 'plcb2', 'Label': 1, 'Chance': '4.464778006076812744e-01'}
+{'Gene': 'plcb2', 'Label': 2, 'Chance': '5.006927847862243652e-01'}
+{'Gene': 'plcb3', 'Label': 1, 'Chance': '5.885936021804809570e-01'}
+{'Gene': 'plcb3', 'Label': 2, 'Chance': '6.047664880752563477e-01'}
+{'Gene': 'pik3r2', 'Label': 1, 'Chance': '4.774982929229736328e-01'}
+{'Gene': 'pik3r2', 'Label': 2, 'Chance': '4.645348191261291504e-01'}
+{'Gene': 'irs1', 'Label': 2, 'Chance': '4.993660151958465576e-01'}
+{'Gene': 'irs1', 'Label': 1, 'Chance': '6.836463212966918945e-01'}
+{'Gene': 'pdgfd', 'Label': 1, 'Chance': '7.157009840011596680e-01'}
+{'Gene': 'pdgfd', 'Label': 2, 'Chance': '6.697059273719787598e-01'}
+{'Gene': 'il13', 'Label': 1, 'Chance': '7.053866982460021973e-01'}
+{'Gene': 'fgf18', 'Label': 1, 'Chance': '6.325268745422363281e-01'}
+{'Gene': 'fgf18', 'Label': 2, 'Chance': '6.161260008811950684e-01'}
+{'Gene': 'angpt1', 'Label': 1, 'Chance': '5.759447216987609863e-01'}
+{'Gene': 'ins2', 'Label': 2, 'Chance': '9.171684384346008301e-01'}
+{'Gene': 'efna1', 'Label': 1, 'Chance': '7.868716120719909668e-01'}
+{'Gene': 'efna1', 'Label': 2, 'Chance': '7.596089839935302734e-01'}
+{'Gene': 'vegfc', 'Label': 1, 'Chance': '6.185261011123657227e-01'}
+{'Gene': 'vegfc', 'Label': 2, 'Chance': '6.079741120338439941e-01'}
+{'Gene': 'fgf17', 'Label': 1, 'Chance': '8.099548220634460449e-01'}
+{'Gene': 'fgf10', 'Label': 1, 'Chance': '7.320681810379028320e-01'}
+{'Gene': 'fgf10', 'Label': 2, 'Chance': '7.167694568634033203e-01'}
+{'Gene': 'fgf23', 'Label': 1, 'Chance': '8.491069674491882324e-01'}
+{'Gene': 'gli2', 'Label': 2, 'Chance': '5.349166989326477051e-01'}
+{'Gene': 'pdgfc', 'Label': 1, 'Chance': '5.978766083717346191e-01'}
+{'Gene': 'ins1', 'Label': 2, 'Chance': '8.865805268287658691e-01'}
+{'Gene': 'fgf22', 'Label': 1, 'Chance': '8.484860062599182129e-01'}
+{'Gene': 'a2m', 'Label': 1, 'Chance': '8.066669106483459473e-01'}
+{'Gene': 'efna2', 'Label': 1, 'Chance': '6.687260866165161133e-01'}
+{'Gene': 'efna2', 'Label': 2, 'Chance': '5.796970129013061523e-01'}
+{'Gene': 'fgf11', 'Label': 1, 'Chance': '6.848307251930236816e-01'}
+{'Gene': 'fgf11', 'Label': 2, 'Chance': '5.480867624282836914e-01'}
+{'Gene': 'ngf', 'Label': 1, 'Chance': '7.477270364761352539e-01'}
+{'Gene': 'ngf', 'Label': 2, 'Chance': '6.716655492782592773e-01'}
+
+----------------------------------------------------------------------
+
+- pdgfra:
+{'Grau total': '57'}
+{'Grau entrada': 47}
+{'Grau saida': 10}
+{'Gene': 'pgf', 'Label': 1, 'Chance': '7.648567557334899902e-01'}
+{'Gene': 'pgf', 'Label': 2, 'Chance': '6.348533630371093750e-01'}
+{'Gene': 'fgf16', 'Label': 1, 'Chance': '8.221369981765747070e-01'}
+{'Gene': 'angpt4', 'Label': 1, 'Chance': '5.529353618621826172e-01'}
+{'Gene': 'efna5', 'Label': 1, 'Chance': '5.607438087463378906e-01'}
+{'Gene': 'efna5', 'Label': 2, 'Chance': '5.622156858444213867e-01'}
+{'Gene': 'fgf20', 'Label': 1, 'Chance': '7.821217179298400879e-01'}
+{'Gene': 'pth1r', 'Label': 2, 'Chance': '4.168575406074523926e-01'}
+{'Gene': 'shc3', 'Label': 1, 'Chance': '5.363881587982177734e-01'}
+{'Gene': 'src', 'Label': 2, 'Chance': '4.296523332595825195e-01'}
+{'Gene': 'plcb2', 'Label': 1, 'Chance': '4.669319987297058105e-01'}
+{'Gene': 'plcb2', 'Label': 1, 'Chance': '4.618748426437377930e-01'}
+{'Gene': 'plcb3', 'Label': 1, 'Chance': '5.917388200759887695e-01'}
+{'Gene': 'plcb3', 'Label': 2, 'Chance': '6.501861214637756348e-01'}
+{'Gene': 'pik3r1', 'Label': 1, 'Chance': '4.667403697967529297e-01'}
+{'Gene': 'pik3r1', 'Label': 2, 'Chance': '4.113763868808746338e-01'}
+{'Gene': 'pik3r2', 'Label': 1, 'Chance': '4.954124391078948975e-01'}
+{'Gene': 'irs1', 'Label': 1, 'Chance': '4.321423470973968506e-01'}
+{'Gene': 'irs1', 'Label': 1, 'Chance': '5.455201864242553711e-01'}
+{'Gene': 'kitl', 'Label': 1, 'Chance': '5.612034201622009277e-01'}
+{'Gene': 'kitl', 'Label': 2, 'Chance': '6.149078607559204102e-01'}
+{'Gene': 'fgf1', 'Label': 1, 'Chance': '8.431269526481628418e-01'}
+{'Gene': 'fgf1', 'Label': 2, 'Chance': '7.661551237106323242e-01'}
+{'Gene': 'fgf21', 'Label': 1, 'Chance': '7.951281070709228516e-01'}
+{'Gene': 'ptgfr', 'Label': 1, 'Chance': '6.686341762542724609e-01'}
+{'Gene': 'erbb2', 'Label': 2, 'Chance': '4.948217868804931641e-01'}
+{'Gene': 'igf1', 'Label': 1, 'Chance': '5.640991330146789551e-01'}
+{'Gene': 'igf1', 'Label': 2, 'Chance': '6.314395666122436523e-01'}
+{'Gene': 'fgf5', 'Label': 1, 'Chance': '8.698988556861877441e-01'}
+{'Gene': 'fgf5', 'Label': 2, 'Chance': '7.766304612159729004e-01'}
+{'Gene': 'tgfa', 'Label': 1, 'Chance': '6.821492314338684082e-01'}
+{'Gene': 'tgfa', 'Label': 2, 'Chance': '5.616787672042846680e-01'}
+{'Gene': 'fgf7', 'Label': 1, 'Chance': '7.956432104110717773e-01'}
+{'Gene': 'fgf7', 'Label': 2, 'Chance': '7.528650760650634766e-01'}
+{'Gene': 'vegfd', 'Label': 1, 'Chance': '5.520106554031372070e-01'}
+{'Gene': 'vegfd', 'Label': 2, 'Chance': '5.048400759696960449e-01'}
+{'Gene': 'fgf2', 'Label': 1, 'Chance': '6.238676309585571289e-01'}
+{'Gene': 'fgf18', 'Label': 1, 'Chance': '5.994213223457336426e-01'}
+{'Gene': 'fgf18', 'Label': 2, 'Chance': '6.078847050666809082e-01'}
+{'Gene': 'angpt1', 'Label': 1, 'Chance': '5.805014371871948242e-01'}
+{'Gene': 'ins2', 'Label': 2, 'Chance': '9.586225748062133789e-01'}
+{'Gene': 'efna1', 'Label': 1, 'Chance': '7.546698451042175293e-01'}
+{'Gene': 'efna1', 'Label': 2, 'Chance': '7.157813310623168945e-01'}
+{'Gene': 'vegfc', 'Label': 1, 'Chance': '5.890858173370361328e-01'}
+{'Gene': 'vegfc', 'Label': 2, 'Chance': '6.168113946914672852e-01'}
+{'Gene': 'fgf17', 'Label': 1, 'Chance': '7.897434830665588379e-01'}
+{'Gene': 'fgf10', 'Label': 1, 'Chance': '7.630183100700378418e-01'}
+{'Gene': 'fgf10', 'Label': 2, 'Chance': '7.484250068664550781e-01'}
+{'Gene': 'fgf23', 'Label': 1, 'Chance': '8.177126049995422363e-01'}
+{'Gene': 'fgf23', 'Label': 2, 'Chance': '7.691945433616638184e-01'}
+{'Gene': 'pdgfc', 'Label': 1, 'Chance': '6.073344945907592773e-01'}
+{'Gene': 'pdgfc', 'Label': 2, 'Chance': '5.646662712097167969e-01'}
+{'Gene': 'ins1', 'Label': 2, 'Chance': '8.536933660507202148e-01'}
+{'Gene': 'fgf22', 'Label': 1, 'Chance': '8.747236728668212891e-01'}
+{'Gene': 'fgf22', 'Label': 2, 'Chance': '7.620912194252014160e-01'}
+{'Gene': 'fgf11', 'Label': 1, 'Chance': '5.859756469726562500e-01'}
+{'Gene': 'fgf11', 'Label': 2, 'Chance': '5.598037242889404297e-01'}
+
+----------------------------------------------------------------------
+
+- xcr1:
+{'Grau total': '57'}
+{'Grau entrada': 57}
+{'Grau saida': 0}
+{'Gene': 'gm21586', 'Label': 1, 'Chance': '8.233240842819213867e-01'}
+{'Gene': 'gm21586', 'Label': 2, 'Chance': '8.361221551895141602e-01'}
+{'Gene': 'ccl3', 'Label': 1, 'Chance': '7.272214293479919434e-01'}
+{'Gene': 'ccl3', 'Label': 2, 'Chance': '7.866163849830627441e-01'}
+{'Gene': 'ccl5', 'Label': 1, 'Chance': '6.318938136100769043e-01'}
+{'Gene': 'ccl5', 'Label': 2, 'Chance': '7.783060669898986816e-01'}
+{'Gene': 'gm21541', 'Label': 1, 'Chance': '6.781576871871948242e-01'}
+{'Gene': 'gm21541', 'Label': 2, 'Chance': '7.491972446441650391e-01'}
+{'Gene': 'ccl19', 'Label': 1, 'Chance': '7.476797699928283691e-01'}
+{'Gene': 'ccl19', 'Label': 2, 'Chance': '6.776025295257568359e-01'}
+{'Gene': 'cxcl10', 'Label': 1, 'Chance': '8.395730257034301758e-01'}
+{'Gene': 'cxcl10', 'Label': 2, 'Chance': '7.791121006011962891e-01'}
+{'Gene': 'gm13306', 'Label': 2, 'Chance': '7.038952112197875977e-01'}
+{'Gene': 'ccl8', 'Label': 1, 'Chance': '8.625351190567016602e-01'}
+{'Gene': 'ccl8', 'Label': 2, 'Chance': '8.768208026885986328e-01'}
+{'Gene': 'cxcl3', 'Label': 1, 'Chance': '7.723379135131835938e-01'}
+{'Gene': 'cxcl3', 'Label': 2, 'Chance': '7.151068449020385742e-01'}
+{'Gene': 'ccl22', 'Label': 1, 'Chance': '8.008760213851928711e-01'}
+{'Gene': 'ccl22', 'Label': 2, 'Chance': '8.167209625244140625e-01'}
+{'Gene': 'ccl11', 'Label': 1, 'Chance': '8.406025171279907227e-01'}
+{'Gene': 'ccl11', 'Label': 2, 'Chance': '7.525733113288879395e-01'}
+{'Gene': 'cxcl9', 'Label': 1, 'Chance': '7.535876631736755371e-01'}
+{'Gene': 'cxcl9', 'Label': 2, 'Chance': '7.108202576637268066e-01'}
+{'Gene': 'ccl24', 'Label': 1, 'Chance': '5.395817756652832031e-01'}
+{'Gene': 'gm20878', 'Label': 1, 'Chance': '7.700147032737731934e-01'}
+{'Gene': 'gm20878', 'Label': 2, 'Chance': '7.096932530403137207e-01'}
+{'Gene': 'cxcl13', 'Label': 1, 'Chance': '7.747518420219421387e-01'}
+{'Gene': 'cxcl13', 'Label': 2, 'Chance': '6.508631706237792969e-01'}
+{'Gene': 'ccl17', 'Label': 1, 'Chance': '8.673781752586364746e-01'}
+{'Gene': 'ccl17', 'Label': 2, 'Chance': '8.770003914833068848e-01'}
+{'Gene': 'cxcl1', 'Label': 1, 'Chance': '7.794664502143859863e-01'}
+{'Gene': 'cxcl1', 'Label': 2, 'Chance': '7.161263227462768555e-01'}
+{'Gene': 'ccl12', 'Label': 2, 'Chance': '7.529895901679992676e-01'}
+{'Gene': 'ccl1', 'Label': 1, 'Chance': '7.821740508079528809e-01'}
+{'Gene': 'ccl1', 'Label': 2, 'Chance': '7.375345826148986816e-01'}
+{'Gene': 'ccl20', 'Label': 1, 'Chance': '8.557140231132507324e-01'}
+{'Gene': 'ccl20', 'Label': 2, 'Chance': '7.644302248954772949e-01'}
+{'Gene': 'ccl7', 'Label': 1, 'Chance': '7.538607120513916016e-01'}
+{'Gene': 'ccl7', 'Label': 2, 'Chance': '7.434055805206298828e-01'}
+{'Gene': 'ccr4', 'Label': 1, 'Chance': '5.844599604606628418e-01'}
+{'Gene': 'gm10591', 'Label': 1, 'Chance': '7.440477609634399414e-01'}
+{'Gene': 'gm10591', 'Label': 2, 'Chance': '7.875648736953735352e-01'}
+{'Gene': 'ccl21b', 'Label': 1, 'Chance': '7.574950456619262695e-01'}
+{'Gene': 'ccl21b', 'Label': 2, 'Chance': '7.838373780250549316e-01'}
+{'Gene': 'ccl4', 'Label': 1, 'Chance': '6.758146286010742188e-01'}
+{'Gene': 'ccl4', 'Label': 2, 'Chance': '7.304928898811340332e-01'}
+{'Gene': 'cxcl15', 'Label': 1, 'Chance': '5.568339824676513672e-01'}
+{'Gene': 'cxcl15', 'Label': 2, 'Chance': '6.104933023452758789e-01'}
+{'Gene': 'cxcl5', 'Label': 1, 'Chance': '6.268959641456604004e-01'}
+{'Gene': 'xcl1', 'Label': 1, 'Chance': '8.493256568908691406e-01'}
+{'Gene': 'xcl1', 'Label': 2, 'Chance': '8.658770918846130371e-01'}
+{'Gene': 'gm13304', 'Label': 1, 'Chance': '7.113547921180725098e-01'}
+{'Gene': 'cxcl2', 'Label': 1, 'Chance': '7.450950145721435547e-01'}
+{'Gene': 'cxcl2', 'Label': 2, 'Chance': '6.501071453094482422e-01'}
+{'Gene': 'ccl21a', 'Label': 1, 'Chance': '7.403662204742431641e-01'}
+{'Gene': 'ccl21a', 'Label': 2, 'Chance': '7.480611205101013184e-01'}
+{'Gene': 'ppbp', 'Label': 1, 'Chance': '5.803641080856323242e-01'}
+
+----------------------------------------------------------------------
+
+- ccr9:
+{'Grau total': '56'}
+{'Grau entrada': 56}
+{'Grau saida': 0}
+{'Gene': 'gm21586', 'Label': 1, 'Chance': '8.775827288627624512e-01'}
+{'Gene': 'gm21586', 'Label': 2, 'Chance': '8.708516359329223633e-01'}
+{'Gene': 'ccl3', 'Label': 2, 'Chance': '7.986460328102111816e-01'}
+{'Gene': 'ccl5', 'Label': 1, 'Chance': '6.387232542037963867e-01'}
+{'Gene': 'ccl5', 'Label': 2, 'Chance': '7.155948877334594727e-01'}
+{'Gene': 'gm21541', 'Label': 1, 'Chance': '8.509256243705749512e-01'}
+{'Gene': 'gm21541', 'Label': 2, 'Chance': '8.887797594070434570e-01'}
+{'Gene': 'ccl19', 'Label': 1, 'Chance': '8.484545946121215820e-01'}
+{'Gene': 'ccl19', 'Label': 2, 'Chance': '8.226720690727233887e-01'}
+{'Gene': 'cxcl10', 'Label': 1, 'Chance': '8.700770139694213867e-01'}
+{'Gene': 'cxcl10', 'Label': 2, 'Chance': '8.605604171752929688e-01'}
+{'Gene': 'gm13306', 'Label': 2, 'Chance': '7.666938900947570801e-01'}
+{'Gene': 'ccl8', 'Label': 1, 'Chance': '8.783195614814758301e-01'}
+{'Gene': 'ccl8', 'Label': 2, 'Chance': '8.299415707588195801e-01'}
+{'Gene': 'cxcl3', 'Label': 1, 'Chance': '7.823655009269714355e-01'}
+{'Gene': 'cxcl3', 'Label': 2, 'Chance': '7.690154910087585449e-01'}
+{'Gene': 'ccl22', 'Label': 1, 'Chance': '8.677585721015930176e-01'}
+{'Gene': 'ccl22', 'Label': 2, 'Chance': '8.511971235275268555e-01'}
+{'Gene': 'ccl11', 'Label': 1, 'Chance': '8.498452901840209961e-01'}
+{'Gene': 'ccl11', 'Label': 2, 'Chance': '6.563952565193176270e-01'}
+{'Gene': 'cxcl9', 'Label': 1, 'Chance': '7.979359626770019531e-01'}
+{'Gene': 'cxcl9', 'Label': 2, 'Chance': '7.782962918281555176e-01'}
+{'Gene': 'ccl24', 'Label': 2, 'Chance': '7.147579193115234375e-01'}
+{'Gene': 'gm20878', 'Label': 1, 'Chance': '8.104466795921325684e-01'}
+{'Gene': 'gm20878', 'Label': 2, 'Chance': '7.125635743141174316e-01'}
+{'Gene': 'cxcl13', 'Label': 1, 'Chance': '8.155556321144104004e-01'}
+{'Gene': 'cxcl13', 'Label': 2, 'Chance': '6.338605880737304688e-01'}
+{'Gene': 'ccl17', 'Label': 1, 'Chance': '8.899043798446655273e-01'}
+{'Gene': 'ccl17', 'Label': 2, 'Chance': '9.004514813423156738e-01'}
+{'Gene': 'ccl12', 'Label': 2, 'Chance': '7.110337615013122559e-01'}
+{'Gene': 'ccl1', 'Label': 1, 'Chance': '8.013892769813537598e-01'}
+{'Gene': 'ccl1', 'Label': 2, 'Chance': '8.686503171920776367e-01'}
+{'Gene': 'ccl20', 'Label': 1, 'Chance': '8.220502734184265137e-01'}
+{'Gene': 'ccl20', 'Label': 2, 'Chance': '7.394127249717712402e-01'}
+{'Gene': 'cdkn2b', 'Label': 1, 'Chance': '7.867875695228576660e-01'}
+{'Gene': 'plau', 'Label': 1, 'Chance': '6.467314362525939941e-01'}
+{'Gene': 'gm10591', 'Label': 1, 'Chance': '8.883396387100219727e-01'}
+{'Gene': 'gm10591', 'Label': 2, 'Chance': '8.903037309646606445e-01'}
+{'Gene': 'ccl21b', 'Label': 1, 'Chance': '9.111288189888000488e-01'}
+{'Gene': 'ccl21b', 'Label': 2, 'Chance': '8.931789398193359375e-01'}
+{'Gene': 'ccl28', 'Label': 1, 'Chance': '6.352964639663696289e-01'}
+{'Gene': 'ccl4', 'Label': 1, 'Chance': '7.417269349098205566e-01'}
+{'Gene': 'ccl4', 'Label': 2, 'Chance': '7.484188675880432129e-01'}
+{'Gene': 'cxcl15', 'Label': 1, 'Chance': '7.387651801109313965e-01'}
+{'Gene': 'cxcl15', 'Label': 2, 'Chance': '7.196600437164306641e-01'}
+{'Gene': 'cxcl5', 'Label': 1, 'Chance': '6.987316608428955078e-01'}
+{'Gene': 'xcl1', 'Label': 1, 'Chance': '8.727713823318481445e-01'}
+{'Gene': 'xcl1', 'Label': 2, 'Chance': '9.259011745452880859e-01'}
+{'Gene': 'il25', 'Label': 2, 'Chance': '7.123628854751586914e-01'}
+{'Gene': 'gm13304', 'Label': 1, 'Chance': '8.563210964202880859e-01'}
+{'Gene': 'gm13304', 'Label': 2, 'Chance': '8.430370092391967773e-01'}
+{'Gene': 'cxcl2', 'Label': 1, 'Chance': '7.546159029006958008e-01'}
+{'Gene': 'cxcl2', 'Label': 2, 'Chance': '6.346331238746643066e-01'}
+{'Gene': 'ccl21a', 'Label': 1, 'Chance': '8.613716959953308105e-01'}
+{'Gene': 'ccl21a', 'Label': 2, 'Chance': '8.695220351219177246e-01'}
+{'Gene': 'ppbp', 'Label': 1, 'Chance': '4.967067539691925049e-01'}
+
+----------------------------------------------------------------------
+
+- ccr6:
+{'Grau total': '56'}
+{'Grau entrada': 55}
+{'Grau saida': 1}
+{'Gene': 'gm21586', 'Label': 1, 'Chance': '7.849670648574829102e-01'}
+{'Gene': 'gm21586', 'Label': 2, 'Chance': '8.040555715560913086e-01'}
+{'Gene': 'ccl5', 'Label': 1, 'Chance': '6.008435487747192383e-01'}
+{'Gene': 'ccl5', 'Label': 2, 'Chance': '8.256741762161254883e-01'}
+{'Gene': 'gm21541', 'Label': 1, 'Chance': '8.174336552619934082e-01'}
+{'Gene': 'gm21541', 'Label': 2, 'Chance': '8.800414800643920898e-01'}
+{'Gene': 'ccl19', 'Label': 1, 'Chance': '4.593939483165740967e-01'}
+{'Gene': 'ccl19', 'Label': 2, 'Chance': '7.097062468528747559e-01'}
+{'Gene': 'cxcl10', 'Label': 1, 'Chance': '6.395949125289916992e-01'}
+{'Gene': 'cxcl10', 'Label': 2, 'Chance': '7.582478523254394531e-01'}
+{'Gene': 'ccl8', 'Label': 1, 'Chance': '8.576067090034484863e-01'}
+{'Gene': 'ccl8', 'Label': 2, 'Chance': '9.251797795295715332e-01'}
+{'Gene': 'cxcl3', 'Label': 1, 'Chance': '7.361203432083129883e-01'}
+{'Gene': 'cxcl3', 'Label': 2, 'Chance': '8.495298027992248535e-01'}
+{'Gene': 'ccl22', 'Label': 1, 'Chance': '7.281715869903564453e-01'}
+{'Gene': 'ccl22', 'Label': 2, 'Chance': '9.062786698341369629e-01'}
+{'Gene': 'ccl11', 'Label': 1, 'Chance': '7.092783451080322266e-01'}
+{'Gene': 'ccl11', 'Label': 2, 'Chance': '7.350555062294006348e-01'}
+{'Gene': 'cxcl9', 'Label': 1, 'Chance': '6.702526211738586426e-01'}
+{'Gene': 'cxcl9', 'Label': 2, 'Chance': '7.334192395210266113e-01'}
+{'Gene': 'htr2b', 'Label': 2, 'Chance': '6.684632301330566406e-01'}
+{'Gene': 'gm20878', 'Label': 1, 'Chance': '6.138222813606262207e-01'}
+{'Gene': 'gm20878', 'Label': 2, 'Chance': '6.579169034957885742e-01'}
+{'Gene': 'cxcl13', 'Label': 1, 'Chance': '7.549362182617187500e-01'}
+{'Gene': 'cxcl13', 'Label': 2, 'Chance': '7.751787900924682617e-01'}
+{'Gene': 'ccl17', 'Label': 1, 'Chance': '8.868862390518188477e-01'}
+{'Gene': 'ccl17', 'Label': 2, 'Chance': '9.483523368835449219e-01'}
+{'Gene': 'cxcl1', 'Label': 1, 'Chance': '7.579798102378845215e-01'}
+{'Gene': 'cxcl1', 'Label': 2, 'Chance': '7.768760919570922852e-01'}
+{'Gene': 'ccl12', 'Label': 2, 'Chance': '8.120625615119934082e-01'}
+{'Gene': 'ccl1', 'Label': 1, 'Chance': '6.721916198730468750e-01'}
+{'Gene': 'ccl1', 'Label': 2, 'Chance': '6.962867379188537598e-01'}
+{'Gene': 'ccl20', 'Label': 2, 'Chance': '7.633358836174011230e-01'}
+{'Gene': 'ccl7', 'Label': 1, 'Chance': '7.439639568328857422e-01'}
+{'Gene': 'ccl7', 'Label': 2, 'Chance': '8.129538893699645996e-01'}
+{'Gene': 'jak2', 'Label': 1, 'Chance': '6.464945077896118164e-01'}
+{'Gene': 'gm10591', 'Label': 1, 'Chance': '7.993386387825012207e-01'}
+{'Gene': 'gm10591', 'Label': 2, 'Chance': '8.904524445533752441e-01'}
+{'Gene': 'csf2rb2', 'Label': 1, 'Chance': '4.573096334934234619e-01'}
+{'Gene': 'ccl21b', 'Label': 1, 'Chance': '8.299751877784729004e-01'}
+{'Gene': 'ccl21b', 'Label': 2, 'Chance': '8.961132168769836426e-01'}
+{'Gene': 'ccl4', 'Label': 1, 'Chance': '6.253390312194824219e-01'}
+{'Gene': 'ccl4', 'Label': 2, 'Chance': '7.195724248886108398e-01'}
+{'Gene': 'cxcl15', 'Label': 1, 'Chance': '7.078738808631896973e-01'}
+{'Gene': 'cxcl15', 'Label': 2, 'Chance': '7.163559198379516602e-01'}
+{'Gene': 'cxcl5', 'Label': 1, 'Chance': '5.997459292411804199e-01'}
+{'Gene': 'cxcl5', 'Label': 2, 'Chance': '6.266562342643737793e-01'}
+{'Gene': 'xcl1', 'Label': 1, 'Chance': '8.460772633552551270e-01'}
+{'Gene': 'xcl1', 'Label': 2, 'Chance': '9.214478731155395508e-01'}
+{'Gene': 'gm13304', 'Label': 1, 'Chance': '8.254044055938720703e-01'}
+{'Gene': 'gm13304', 'Label': 2, 'Chance': '8.724862337112426758e-01'}
+{'Gene': 'cxcl2', 'Label': 1, 'Chance': '6.851624250411987305e-01'}
+{'Gene': 'cxcl2', 'Label': 2, 'Chance': '7.443315982818603516e-01'}
+{'Gene': 'ccl21a', 'Label': 1, 'Chance': '6.544918417930603027e-01'}
+{'Gene': 'ccl21a', 'Label': 2, 'Chance': '6.574292778968811035e-01'}
+{'Gene': 'pik3r5', 'Label': 2, 'Chance': '4.536715447902679443e-01'}
+
+----------------------------------------------------------------------
+
+- gnai1:
+{'Grau total': '56'}
+{'Grau entrada': 8}
+{'Grau saida': 48}
+{'Gene': 'rgs9', 'Label': 2, 'Chance': '4.461083114147186279e-01'}
+{'Gene': 'rgs9', 'Label': 1, 'Chance': '5.010854601860046387e-01'}
+{'Gene': 'grm4', 'Label': 1, 'Chance': '5.490348339080810547e-01'}
+{'Gene': 'grm3', 'Label': 1, 'Chance': '4.262757003307342529e-01'}
+{'Gene': 'grm3', 'Label': 1, 'Chance': '4.426689147949218750e-01'}
+{'Gene': 'grm1', 'Label': 2, 'Chance': '4.409861564636230469e-01'}
+{'Gene': 'grm1', 'Label': 1, 'Chance': '4.558177888393402100e-01'}
+{'Gene': 'adcy3', 'Label': 1, 'Chance': '5.434110164642333984e-01'}
+{'Gene': 'adcy8', 'Label': 1, 'Chance': '4.500038027763366699e-01'}
+{'Gene': 'adcy8', 'Label': 2, 'Chance': '4.376632869243621826e-01'}
+{'Gene': 'adcy9', 'Label': 1, 'Chance': '5.320432782173156738e-01'}
+{'Gene': 'adcy2', 'Label': 1, 'Chance': '4.814274311065673828e-01'}
+{'Gene': 'adcy2', 'Label': 2, 'Chance': '4.429464340209960938e-01'}
+{'Gene': 'adcy5', 'Label': 1, 'Chance': '5.860385298728942871e-01'}
+{'Gene': 'adcy5', 'Label': 2, 'Chance': '5.355243086814880371e-01'}
+{'Gene': 'adcy1', 'Label': 1, 'Chance': '5.535728335380554199e-01'}
+{'Gene': 'pik3ca', 'Label': 1, 'Chance': '6.235018968582153320e-01'}
+{'Gene': 'pik3r3', 'Label': 1, 'Chance': '4.087767302989959717e-01'}
+{'Gene': 'pik3r3', 'Label': 2, 'Chance': '4.839143455028533936e-01'}
+{'Gene': 'plcb1', 'Label': 1, 'Chance': '4.559101760387420654e-01'}
+{'Gene': 'mapk1', 'Label': 2, 'Chance': '4.164993762969970703e-01'}
+{'Gene': 'prkce', 'Label': 1, 'Chance': '4.538002908229827881e-01'}
+{'Gene': 'prkce', 'Label': 1, 'Chance': '4.195876121520996094e-01'}
+{'Gene': 'rapgef3', 'Label': 1, 'Chance': '6.310423016548156738e-01'}
+{'Gene': 'rapgef4', 'Label': 1, 'Chance': '4.673983156681060791e-01'}
+{'Gene': 'rapgef4', 'Label': 2, 'Chance': '4.562574028968811035e-01'}
+{'Gene': 'kcnj3', 'Label': 2, 'Chance': '4.766077399253845215e-01'}
+{'Gene': 'kcnj3', 'Label': 2, 'Chance': '4.185632169246673584e-01'}
+{'Gene': 'kcnj6', 'Label': 2, 'Chance': '4.780514538288116455e-01'}
+{'Gene': 'cacna1a', 'Label': 1, 'Chance': '5.127440690994262695e-01'}
+{'Gene': 'cacna1a', 'Label': 2, 'Chance': '4.504905939102172852e-01'}
+{'Gene': 'cacna1b', 'Label': 1, 'Chance': '4.868670403957366943e-01'}
+{'Gene': 'cacna1b', 'Label': 2, 'Chance': '4.612281024456024170e-01'}
+{'Gene': 'mapk10', 'Label': 1, 'Chance': '4.842258095741271973e-01'}
+{'Gene': 'mapk10', 'Label': 2, 'Chance': '4.590723514556884766e-01'}
+{'Gene': 'mapk8', 'Label': 1, 'Chance': '5.102714300155639648e-01'}
+{'Gene': 'cacna1c', 'Label': 1, 'Chance': '5.721616744995117188e-01'}
+{'Gene': 'cacna1c', 'Label': 2, 'Chance': '4.823006391525268555e-01'}
+{'Gene': 'cacna1d', 'Label': 1, 'Chance': '4.679349362850189209e-01'}
+{'Gene': 'cacna1d', 'Label': 2, 'Chance': '4.545503258705139160e-01'}
+{'Gene': 'scn1a', 'Label': 1, 'Chance': '4.941208064556121826e-01'}
+{'Gene': 'scn1a', 'Label': 2, 'Chance': '4.732205271720886230e-01'}
+{'Gene': 'gabbr2', 'Label': 2, 'Chance': '4.238504469394683838e-01'}
+{'Gene': 'ptger3', 'Label': 1, 'Chance': '4.701066911220550537e-01'}
+{'Gene': 'grm7', 'Label': 2, 'Chance': '4.687556922435760498e-01'}
+{'Gene': 'grm7', 'Label': 1, 'Chance': '4.823526144027709961e-01'}
+{'Gene': 'htr1b', 'Label': 1, 'Chance': '4.365435242652893066e-01'}
+{'Gene': 'prkcb', 'Label': 1, 'Chance': '5.210517048835754395e-01'}
+{'Gene': 'prkcg', 'Label': 2, 'Chance': '4.879733324050903320e-01'}
+{'Gene': 'prkcg', 'Label': 1, 'Chance': '5.552276968955993652e-01'}
+{'Gene': 'oprm1', 'Label': 2, 'Chance': '4.253366291522979736e-01'}
+{'Gene': 'pak1', 'Label': 1, 'Chance': '4.407362043857574463e-01'}
+{'Gene': 'adora1', 'Label': 1, 'Chance': '5.186375975608825684e-01'}
+{'Gene': 'prkacb', 'Label': 1, 'Chance': '5.330245494842529297e-01'}
+{'Gene': 'prkacb', 'Label': 2, 'Chance': '6.694791316986083984e-01'}
+{'Gene': 'sstr2', 'Label': 1, 'Chance': '4.277012944221496582e-01'}
+
+----------------------------------------------------------------------
+
+- gng8:
+{'Grau total': '56'}
+{'Grau entrada': 1}
+{'Grau saida': 55}
+{'Gene': 'grm4', 'Label': 1, 'Chance': '7.140117883682250977e-01'}
+{'Gene': 'axin2', 'Label': 2, 'Chance': '7.638773322105407715e-01'}
+{'Gene': 'tlr4', 'Label': 1, 'Chance': '8.353001475334167480e-01'}
+{'Gene': 'adcyap1r1', 'Label': 2, 'Chance': '7.032873630523681641e-01'}
+{'Gene': 'grm7', 'Label': 1, 'Chance': '7.311775088310241699e-01'}
+{'Gene': 'chrm2', 'Label': 1, 'Chance': '5.058613419532775879e-01'}
+{'Gene': 'drd4', 'Label': 2, 'Chance': '6.341550350189208984e-01'}
+{'Gene': 'drd4', 'Label': 1, 'Chance': '6.782829761505126953e-01'}
+{'Gene': 'htr1b', 'Label': 1, 'Chance': '6.837767958641052246e-01'}
+{'Gene': 'drd2', 'Label': 2, 'Chance': '4.307826757431030273e-01'}
+{'Gene': 'chrm4', 'Label': 1, 'Chance': '7.499635815620422363e-01'}
+{'Gene': 'grm8', 'Label': 1, 'Chance': '6.842319369316101074e-01'}
+{'Gene': 'htr1d', 'Label': 1, 'Chance': '4.846767187118530273e-01'}
+{'Gene': 'kcnma1', 'Label': 1, 'Chance': '7.182481288909912109e-01'}
+{'Gene': 'bmp6', 'Label': 1, 'Chance': '7.962439060211181641e-01'}
+{'Gene': 'kl', 'Label': 1, 'Chance': '8.725103139877319336e-01'}
+{'Gene': 'pik3ca', 'Label': 1, 'Chance': '7.576605081558227539e-01'}
+{'Gene': 'pik3cd', 'Label': 1, 'Chance': '8.391060829162597656e-01'}
+{'Gene': 'pik3cd', 'Label': 2, 'Chance': '8.304839730262756348e-01'}
+{'Gene': 'plcb2', 'Label': 1, 'Chance': '8.481418490409851074e-01'}
+{'Gene': 'plcb2', 'Label': 2, 'Chance': '8.598978519439697266e-01'}
+{'Gene': 'plcb3', 'Label': 1, 'Chance': '8.353934288024902344e-01'}
+{'Gene': 'plcb3', 'Label': 2, 'Chance': '8.710185289382934570e-01'}
+{'Gene': 'plcb4', 'Label': 1, 'Chance': '7.545702457427978516e-01'}
+{'Gene': 'prex1', 'Label': 1, 'Chance': '8.805047273635864258e-01'}
+{'Gene': 'prex1', 'Label': 2, 'Chance': '7.504460215568542480e-01'}
+{'Gene': 'pik3cb', 'Label': 1, 'Chance': '8.511209487915039062e-01'}
+{'Gene': 'pik3r6', 'Label': 1, 'Chance': '8.734788894653320312e-01'}
+{'Gene': 'pik3r6', 'Label': 2, 'Chance': '8.020734786987304688e-01'}
+{'Gene': 'pik3cg', 'Label': 1, 'Chance': '8.818209767341613770e-01'}
+{'Gene': 'pik3cg', 'Label': 2, 'Chance': '8.283020853996276855e-01'}
+{'Gene': 'pik3r5', 'Label': 1, 'Chance': '8.383864164352416992e-01'}
+{'Gene': 'pik3r5', 'Label': 2, 'Chance': '7.628165483474731445e-01'}
+{'Gene': 'adcy4', 'Label': 1, 'Chance': '7.659068703651428223e-01'}
+{'Gene': 'adcy4', 'Label': 2, 'Chance': '7.847787141799926758e-01'}
+{'Gene': 'adcy3', 'Label': 1, 'Chance': '7.755576968193054199e-01'}
+{'Gene': 'adcy6', 'Label': 1, 'Chance': '8.428590893745422363e-01'}
+{'Gene': 'adcy6', 'Label': 2, 'Chance': '8.175597786903381348e-01'}
+{'Gene': 'adcy7', 'Label': 1, 'Chance': '8.132252693176269531e-01'}
+{'Gene': 'adcy7', 'Label': 2, 'Chance': '8.189525008201599121e-01'}
+{'Gene': 'adcy9', 'Label': 1, 'Chance': '8.319496512413024902e-01'}
+{'Gene': 'adcy2', 'Label': 1, 'Chance': '7.788317203521728516e-01'}
+{'Gene': 'adcy5', 'Label': 1, 'Chance': '7.982897162437438965e-01'}
+{'Gene': 'adcy1', 'Label': 1, 'Chance': '7.953231334686279297e-01'}
+{'Gene': 'kcnj5', 'Label': 1, 'Chance': '7.792881131172180176e-01'}
+{'Gene': 'kcnj5', 'Label': 2, 'Chance': '8.043770790100097656e-01'}
+{'Gene': 'cacna1b', 'Label': 1, 'Chance': '7.529471516609191895e-01'}
+{'Gene': 'mapk13', 'Label': 1, 'Chance': '7.511348724365234375e-01'}
+{'Gene': 'cacna1c', 'Label': 1, 'Chance': '7.779404520988464355e-01'}
+{'Gene': 'cacna1d', 'Label': 1, 'Chance': '7.874768376350402832e-01'}
+{'Gene': 'cacna1s', 'Label': 1, 'Chance': '8.290185332298278809e-01'}
+{'Gene': 'cacna1s', 'Label': 2, 'Chance': '8.061441779136657715e-01'}
+{'Gene': 'cacna1f', 'Label': 1, 'Chance': '8.571593761444091797e-01'}
+{'Gene': 'cacna1f', 'Label': 2, 'Chance': '8.169299960136413574e-01'}
+{'Gene': 'scn1a', 'Label': 1, 'Chance': '6.742621064186096191e-01'}
+{'Gene': 'htr7', 'Label': 1, 'Chance': '6.668546795845031738e-01'}
+
+----------------------------------------------------------------------
+
+- ccr7:
+{'Grau total': '55'}
+{'Grau entrada': 54}
+{'Grau saida': 1}
+{'Gene': 'gm21586', 'Label': 1, 'Chance': '9.266063570976257324e-01'}
+{'Gene': 'gm21586', 'Label': 2, 'Chance': '8.696541190147399902e-01'}
+{'Gene': 'ccl5', 'Label': 1, 'Chance': '5.007302165031433105e-01'}
+{'Gene': 'ccl5', 'Label': 2, 'Chance': '6.520084738731384277e-01'}
+{'Gene': 'gm21541', 'Label': 1, 'Chance': '9.230119585990905762e-01'}
+{'Gene': 'gm21541', 'Label': 2, 'Chance': '8.938781023025512695e-01'}
+{'Gene': 'ccl19', 'Label': 1, 'Chance': '7.411897182464599609e-01'}
+{'Gene': 'ccl19', 'Label': 2, 'Chance': '7.893440127372741699e-01'}
+{'Gene': 'ccl9', 'Label': 1, 'Chance': '5.988566875457763672e-01'}
+{'Gene': 'ccl9', 'Label': 2, 'Chance': '6.723617911338806152e-01'}
+{'Gene': 'cxcl10', 'Label': 1, 'Chance': '7.323331832885742188e-01'}
+{'Gene': 'cxcl10', 'Label': 2, 'Chance': '7.714086771011352539e-01'}
+{'Gene': 'gm13306', 'Label': 1, 'Chance': '7.915552258491516113e-01'}
+{'Gene': 'gm13306', 'Label': 2, 'Chance': '6.959660053253173828e-01'}
+{'Gene': 'ccl8', 'Label': 1, 'Chance': '8.720288276672363281e-01'}
+{'Gene': 'ccl8', 'Label': 2, 'Chance': '9.091082215309143066e-01'}
+{'Gene': 'ccl27b', 'Label': 1, 'Chance': '8.854517936706542969e-01'}
+{'Gene': 'cxcl3', 'Label': 1, 'Chance': '5.164948701858520508e-01'}
+{'Gene': 'cxcl3', 'Label': 2, 'Chance': '5.915032625198364258e-01'}
+{'Gene': 'ccl22', 'Label': 1, 'Chance': '5.867779254913330078e-01'}
+{'Gene': 'ccl22', 'Label': 1, 'Chance': '4.699032604694366455e-01'}
+{'Gene': 'ccl11', 'Label': 1, 'Chance': '8.437544703483581543e-01'}
+{'Gene': 'ccl11', 'Label': 2, 'Chance': '8.438340425491333008e-01'}
+{'Gene': 'cxcl9', 'Label': 1, 'Chance': '6.343908309936523438e-01'}
+{'Gene': 'cxcl9', 'Label': 2, 'Chance': '6.957889199256896973e-01'}
+{'Gene': 'ccl24', 'Label': 1, 'Chance': '7.637900114059448242e-01'}
+{'Gene': 'ccl24', 'Label': 2, 'Chance': '7.922236919403076172e-01'}
+{'Gene': 'gper1', 'Label': 2, 'Chance': '4.909957945346832275e-01'}
+{'Gene': 'gm20878', 'Label': 1, 'Chance': '8.469515442848205566e-01'}
+{'Gene': 'gm20878', 'Label': 2, 'Chance': '8.221228718757629395e-01'}
+{'Gene': 'cxcl13', 'Label': 1, 'Chance': '8.665418624877929688e-01'}
+{'Gene': 'cxcl13', 'Label': 2, 'Chance': '8.431921005249023438e-01'}
+{'Gene': 'ccl17', 'Label': 1, 'Chance': '7.409116029739379883e-01'}
+{'Gene': 'ccl17', 'Label': 2, 'Chance': '7.724640965461730957e-01'}
+{'Gene': 'cxcl1', 'Label': 1, 'Chance': '7.083595991134643555e-01'}
+{'Gene': 'cxcl1', 'Label': 2, 'Chance': '7.716150283813476562e-01'}
+{'Gene': 'cxcl16', 'Label': 1, 'Chance': '5.161854624748229980e-01'}
+{'Gene': 'cxcl16', 'Label': 2, 'Chance': '6.030089855194091797e-01'}
+{'Gene': 'ccl1', 'Label': 1, 'Chance': '5.910541415214538574e-01'}
+{'Gene': 'ccl1', 'Label': 2, 'Chance': '6.947798728942871094e-01'}
+{'Gene': 'ccl20', 'Label': 1, 'Chance': '8.719682097434997559e-01'}
+{'Gene': 'ccl20', 'Label': 2, 'Chance': '8.675490021705627441e-01'}
+{'Gene': 'ccl7', 'Label': 2, 'Chance': '7.465558648109436035e-01'}
+{'Gene': 'gm10591', 'Label': 1, 'Chance': '8.894104361534118652e-01'}
+{'Gene': 'gm10591', 'Label': 2, 'Chance': '8.488543033599853516e-01'}
+{'Gene': 'ccl21b', 'Label': 1, 'Chance': '9.079407453536987305e-01'}
+{'Gene': 'ccl21b', 'Label': 2, 'Chance': '8.570426106452941895e-01'}
+{'Gene': 'cxcl15', 'Label': 1, 'Chance': '7.614431977272033691e-01'}
+{'Gene': 'cxcl15', 'Label': 2, 'Chance': '6.535122990608215332e-01'}
+{'Gene': 'xcl1', 'Label': 1, 'Chance': '9.240378737449645996e-01'}
+{'Gene': 'xcl1', 'Label': 2, 'Chance': '8.801339864730834961e-01'}
+{'Gene': 'gm13304', 'Label': 1, 'Chance': '8.840084075927734375e-01'}
+{'Gene': 'gm13304', 'Label': 2, 'Chance': '8.085607290267944336e-01'}
+{'Gene': 'ccl21a', 'Label': 1, 'Chance': '8.772466778755187988e-01'}
+{'Gene': 'ccl21a', 'Label': 2, 'Chance': '8.120090365409851074e-01'}
+
+----------------------------------------------------------------------
+
+- col6a3:
+{'Grau total': '55'}
+{'Grau entrada': 4}
+{'Grau saida': 51}
+{'Gene': 'ntf5', 'Label': 1, 'Chance': '5.542767047882080078e-01'}
+{'Gene': 'itga9', 'Label': 1, 'Chance': '7.656347155570983887e-01'}
+{'Gene': 'itga9', 'Label': 2, 'Chance': '7.337267994880676270e-01'}
+{'Gene': 'itga1', 'Label': 1, 'Chance': '8.697645664215087891e-01'}
+{'Gene': 'itga1', 'Label': 2, 'Chance': '6.548812985420227051e-01'}
+{'Gene': 'itga2', 'Label': 1, 'Chance': '7.485235929489135742e-01'}
+{'Gene': 'itga2', 'Label': 2, 'Chance': '5.964007377624511719e-01'}
+{'Gene': 'itga2b', 'Label': 1, 'Chance': '8.594536781311035156e-01'}
+{'Gene': 'itga2b', 'Label': 2, 'Chance': '7.986121773719787598e-01'}
+{'Gene': 'itga3', 'Label': 1, 'Chance': '8.594188094139099121e-01'}
+{'Gene': 'itga3', 'Label': 2, 'Chance': '7.696676850318908691e-01'}
+{'Gene': 'itga4', 'Label': 1, 'Chance': '8.647868633270263672e-01'}
+{'Gene': 'itga4', 'Label': 2, 'Chance': '7.397525906562805176e-01'}
+{'Gene': 'itga5', 'Label': 1, 'Chance': '8.612917065620422363e-01'}
+{'Gene': 'itga5', 'Label': 2, 'Chance': '7.338023185729980469e-01'}
+{'Gene': 'itga6', 'Label': 1, 'Chance': '8.921810388565063477e-01'}
+{'Gene': 'itga6', 'Label': 2, 'Chance': '7.514777779579162598e-01'}
+{'Gene': 'itga7', 'Label': 1, 'Chance': '8.498162627220153809e-01'}
+{'Gene': 'itga7', 'Label': 2, 'Chance': '6.954292058944702148e-01'}
+{'Gene': 'itgav', 'Label': 1, 'Chance': '8.681288957595825195e-01'}
+{'Gene': 'itgav', 'Label': 2, 'Chance': '6.539595723152160645e-01'}
+{'Gene': 'itgb1', 'Label': 1, 'Chance': '7.957364320755004883e-01'}
+{'Gene': 'itgb3', 'Label': 1, 'Chance': '8.993238806724548340e-01'}
+{'Gene': 'itgb3', 'Label': 2, 'Chance': '7.990303635597229004e-01'}
+{'Gene': 'itgb5', 'Label': 1, 'Chance': '7.831703424453735352e-01'}
+{'Gene': 'itgb5', 'Label': 2, 'Chance': '5.427990555763244629e-01'}
+{'Gene': 'itgb6', 'Label': 1, 'Chance': '6.316690444946289062e-01'}
+{'Gene': 'itgb6', 'Label': 2, 'Chance': '5.904577374458312988e-01'}
+{'Gene': 'itgb7', 'Label': 1, 'Chance': '7.941235303878784180e-01'}
+{'Gene': 'itgb7', 'Label': 2, 'Chance': '7.409302592277526855e-01'}
+{'Gene': 'itgb4', 'Label': 1, 'Chance': '9.044491052627563477e-01'}
+{'Gene': 'itgb4', 'Label': 2, 'Chance': '8.242901563644409180e-01'}
+{'Gene': 'itga10', 'Label': 1, 'Chance': '8.308785557746887207e-01'}
+{'Gene': 'itga8', 'Label': 1, 'Chance': '8.129628300666809082e-01'}
+{'Gene': 'itga8', 'Label': 2, 'Chance': '6.030908823013305664e-01'}
+{'Gene': 'itga11', 'Label': 1, 'Chance': '7.218359112739562988e-01'}
+{'Gene': 'itga11', 'Label': 2, 'Chance': '5.728856921195983887e-01'}
+{'Gene': 'itgb8', 'Label': 1, 'Chance': '7.684376239776611328e-01'}
+{'Gene': 'itgb8', 'Label': 2, 'Chance': '6.531438827514648438e-01'}
+{'Gene': 'cd44', 'Label': 1, 'Chance': '6.127517819404602051e-01'}
+{'Gene': 'cd44', 'Label': 1, 'Chance': '4.977020621299743652e-01'}
+{'Gene': 'sdc1', 'Label': 1, 'Chance': '7.227920293807983398e-01'}
+{'Gene': 'sdc1', 'Label': 2, 'Chance': '5.268680453300476074e-01'}
+{'Gene': 'sdc4', 'Label': 1, 'Chance': '5.965849161148071289e-01'}
+{'Gene': 'gp6', 'Label': 1, 'Chance': '5.920935273170471191e-01'}
+{'Gene': 'epha2', 'Label': 1, 'Chance': '8.986588120460510254e-01'}
+{'Gene': 'il2', 'Label': 1, 'Chance': '7.934536933898925781e-01'}
+{'Gene': 'atg7', 'Label': 1, 'Chance': '7.468468546867370605e-01'}
+{'Gene': 'kif3a', 'Label': 2, 'Chance': '7.233437895774841309e-01'}
+{'Gene': 'fgf2', 'Label': 1, 'Chance': '5.397316813468933105e-01'}
+{'Gene': 'fgf10', 'Label': 1, 'Chance': '5.109193325042724609e-01'}
+{'Gene': 'hbegf', 'Label': 1, 'Chance': '4.135431647300720215e-01'}
+{'Gene': 'mknk2', 'Label': 1, 'Chance': '4.913277626037597656e-01'}
+{'Gene': 'smo', 'Label': 1, 'Chance': '8.681643009185791016e-01'}
+{'Gene': 'limk1', 'Label': 1, 'Chance': '8.421297073364257812e-01'}
+
+----------------------------------------------------------------------
+
+- gnao1:
+{'Grau total': '54'}
+{'Grau entrada': 4}
+{'Grau saida': 50}
+{'Gene': 'mapk1', 'Label': 1, 'Chance': '4.472426772117614746e-01'}
+{'Gene': 'adcy3', 'Label': 1, 'Chance': '4.872079491615295410e-01'}
+{'Gene': 'adcy8', 'Label': 1, 'Chance': '5.289259552955627441e-01'}
+{'Gene': 'adcy9', 'Label': 1, 'Chance': '4.870841503143310547e-01'}
+{'Gene': 'cacna1a', 'Label': 1, 'Chance': '5.080899000167846680e-01'}
+{'Gene': 'cacna1a', 'Label': 2, 'Chance': '4.748538136482238770e-01'}
+{'Gene': 'cacna1b', 'Label': 1, 'Chance': '4.920313954353332520e-01'}
+{'Gene': 'cacna1b', 'Label': 2, 'Chance': '4.611760079860687256e-01'}
+{'Gene': 'kcnj3', 'Label': 1, 'Chance': '4.931581914424896240e-01'}
+{'Gene': 'kcnj6', 'Label': 2, 'Chance': '4.657705724239349365e-01'}
+{'Gene': 'mapk11', 'Label': 1, 'Chance': '5.038692951202392578e-01'}
+{'Gene': 'adcy2', 'Label': 1, 'Chance': '4.233562648296356201e-01'}
+{'Gene': 'adcy5', 'Label': 1, 'Chance': '7.894333600997924805e-01'}
+{'Gene': 'adcy5', 'Label': 2, 'Chance': '5.249268412590026855e-01'}
+{'Gene': 'mapk10', 'Label': 1, 'Chance': '6.703042984008789062e-01'}
+{'Gene': 'mapk10', 'Label': 2, 'Chance': '4.434914886951446533e-01'}
+{'Gene': 'adcy1', 'Label': 1, 'Chance': '5.447232723236083984e-01'}
+{'Gene': 'plcb1', 'Label': 1, 'Chance': '5.093600749969482422e-01'}
+{'Gene': 'plcb4', 'Label': 1, 'Chance': '5.883420705795288086e-01'}
+{'Gene': 'cacna1c', 'Label': 1, 'Chance': '5.721789598464965820e-01'}
+{'Gene': 'cacna1c', 'Label': 2, 'Chance': '4.534817039966583252e-01'}
+{'Gene': 'cacna1d', 'Label': 1, 'Chance': '5.166125297546386719e-01'}
+{'Gene': 'cacna1d', 'Label': 2, 'Chance': '4.502497613430023193e-01'}
+{'Gene': 'cacna1f', 'Label': 1, 'Chance': '7.061564922332763672e-01'}
+{'Gene': 'cacna1f', 'Label': 2, 'Chance': '6.001769900321960449e-01'}
+{'Gene': 'scn1a', 'Label': 1, 'Chance': '6.208622455596923828e-01'}
+{'Gene': 'scn1a', 'Label': 2, 'Chance': '4.609600007534027100e-01'}
+{'Gene': 'pla2g4b', 'Label': 1, 'Chance': '5.149326920509338379e-01'}
+{'Gene': 'dvl3', 'Label': 1, 'Chance': '4.877353012561798096e-01'}
+{'Gene': 'grm4', 'Label': 1, 'Chance': '5.645554661750793457e-01'}
+{'Gene': 'grm3', 'Label': 1, 'Chance': '4.026709198951721191e-01'}
+{'Gene': 'grm3', 'Label': 1, 'Chance': '4.777702689170837402e-01'}
+{'Gene': 'grm1', 'Label': 1, 'Chance': '5.513114333152770996e-01'}
+{'Gene': 'gabbr2', 'Label': 2, 'Chance': '4.358183145523071289e-01'}
+{'Gene': 'gabbr2', 'Label': 1, 'Chance': '5.386379361152648926e-01'}
+{'Gene': 'ephb1', 'Label': 2, 'Chance': '4.236891567707061768e-01'}
+{'Gene': 'htr5b', 'Label': 1, 'Chance': '4.127058386802673340e-01'}
+{'Gene': 'grm7', 'Label': 1, 'Chance': '6.234781742095947266e-01'}
+{'Gene': 'prkcb', 'Label': 1, 'Chance': '5.672297477722167969e-01'}
+{'Gene': 'chrm4', 'Label': 1, 'Chance': '5.763868689537048340e-01'}
+{'Gene': 'prkcg', 'Label': 2, 'Chance': '4.959811270236968994e-01'}
+{'Gene': 'prkcg', 'Label': 1, 'Chance': '6.621019840240478516e-01'}
+{'Gene': 'oprm1', 'Label': 1, 'Chance': '4.945007562637329102e-01'}
+{'Gene': 'htr1d', 'Label': 1, 'Chance': '5.293927192687988281e-01'}
+{'Gene': 'gabbr1', 'Label': 2, 'Chance': '5.446944236755371094e-01'}
+{'Gene': 'gabbr1', 'Label': 1, 'Chance': '6.435663700103759766e-01'}
+{'Gene': 'fzd3', 'Label': 2, 'Chance': '4.130538702011108398e-01'}
+{'Gene': 'fzd3', 'Label': 1, 'Chance': '5.094004273414611816e-01'}
+{'Gene': 'gria2', 'Label': 2, 'Chance': '4.621607065200805664e-01'}
+{'Gene': 'prkacb', 'Label': 1, 'Chance': '5.416100621223449707e-01'}
+{'Gene': 'prkacb', 'Label': 2, 'Chance': '7.095165252685546875e-01'}
+{'Gene': 'grm6', 'Label': 2, 'Chance': '6.392318606376647949e-01'}
+{'Gene': 'grm6', 'Label': 1, 'Chance': '8.384717702865600586e-01'}
+{'Gene': 'oxtr', 'Label': 1, 'Chance': '5.931439995765686035e-01'}
+
+----------------------------------------------------------------------
+
+- itga2b:
+{'Grau total': '54'}
+{'Grau entrada': 50}
+{'Grau saida': 4}
+{'Gene': 'tnxb', 'Label': 1, 'Chance': '8.056614995002746582e-01'}
+{'Gene': 'tnxb', 'Label': 2, 'Chance': '6.018809080123901367e-01'}
+{'Gene': 'vwf', 'Label': 1, 'Chance': '6.235231757164001465e-01'}
+{'Gene': 'vwf', 'Label': 2, 'Chance': '7.724033594131469727e-01'}
+{'Gene': 'dab2ip', 'Label': 2, 'Chance': '5.895019173622131348e-01'}
+{'Gene': 'col2a1', 'Label': 1, 'Chance': '7.925689816474914551e-01'}
+{'Gene': 'col2a1', 'Label': 2, 'Chance': '8.417478203773498535e-01'}
+{'Gene': 'col4a1', 'Label': 1, 'Chance': '4.335379302501678467e-01'}
+{'Gene': 'col4a1', 'Label': 2, 'Chance': '5.870852470397949219e-01'}
+{'Gene': 'col6a3', 'Label': 1, 'Chance': '8.594536781311035156e-01'}
+{'Gene': 'col6a3', 'Label': 2, 'Chance': '7.986121773719787598e-01'}
+{'Gene': 'reln', 'Label': 1, 'Chance': '7.562906742095947266e-01'}
+{'Gene': 'lamb3', 'Label': 1, 'Chance': '5.044450163841247559e-01'}
+{'Gene': 'fn1', 'Label': 1, 'Chance': '7.220696210861206055e-01'}
+{'Gene': 'fn1', 'Label': 2, 'Chance': '6.506263613700866699e-01'}
+{'Gene': 'lamb1', 'Label': 1, 'Chance': '5.854018926620483398e-01'}
+{'Gene': 'lamb1', 'Label': 2, 'Chance': '5.937792658805847168e-01'}
+{'Gene': 'vtn', 'Label': 1, 'Chance': '6.886331439018249512e-01'}
+{'Gene': 'tln1', 'Label': 2, 'Chance': '5.215736627578735352e-01'}
+{'Gene': 'lama1', 'Label': 1, 'Chance': '8.813187479972839355e-01'}
+{'Gene': 'lama1', 'Label': 2, 'Chance': '7.591698169708251953e-01'}
+{'Gene': 'col4a3', 'Label': 2, 'Chance': '4.563745558261871338e-01'}
+{'Gene': 'lamc3', 'Label': 1, 'Chance': '6.759699583053588867e-01'}
+{'Gene': 'thbs3', 'Label': 1, 'Chance': '4.626531302928924561e-01'}
+{'Gene': 'lama5', 'Label': 2, 'Chance': '4.498889744281768799e-01'}
+{'Gene': 'col9a2', 'Label': 2, 'Chance': '7.534503340721130371e-01'}
+{'Gene': 'tnc', 'Label': 1, 'Chance': '8.030361533164978027e-01'}
+{'Gene': 'tnc', 'Label': 2, 'Chance': '7.694403529167175293e-01'}
+{'Gene': 'col1a2', 'Label': 1, 'Chance': '7.270897030830383301e-01'}
+{'Gene': 'col1a2', 'Label': 2, 'Chance': '6.924746036529541016e-01'}
+{'Gene': 'fermt3', 'Label': 1, 'Chance': '5.061950087547302246e-01'}
+{'Gene': 'col9a1', 'Label': 1, 'Chance': '6.728226542472839355e-01'}
+{'Gene': 'thbs4', 'Label': 1, 'Chance': '8.030035495758056641e-01'}
+{'Gene': 'thbs4', 'Label': 2, 'Chance': '7.308862209320068359e-01'}
+{'Gene': 'lama4', 'Label': 1, 'Chance': '4.883405268192291260e-01'}
+{'Gene': 'col6a1', 'Label': 1, 'Chance': '5.463402867317199707e-01'}
+{'Gene': 'col4a5', 'Label': 1, 'Chance': '6.324973106384277344e-01'}
+{'Gene': 'lama2', 'Label': 1, 'Chance': '4.768818318843841553e-01'}
+{'Gene': 'lamc2', 'Label': 1, 'Chance': '5.616000294685363770e-01'}
+{'Gene': 'col4a6', 'Label': 1, 'Chance': '7.875484824180603027e-01'}
+{'Gene': 'col4a6', 'Label': 2, 'Chance': '7.823821902275085449e-01'}
+{'Gene': 'col6a2', 'Label': 1, 'Chance': '6.051126718521118164e-01'}
+{'Gene': 'lamb2', 'Label': 1, 'Chance': '5.108746290206909180e-01'}
+{'Gene': 'col4a2', 'Label': 1, 'Chance': '4.241913557052612305e-01'}
+{'Gene': 'col4a2', 'Label': 2, 'Chance': '6.077468395233154297e-01'}
+{'Gene': 'col6a5', 'Label': 1, 'Chance': '8.741337656974792480e-01'}
+{'Gene': 'col6a5', 'Label': 2, 'Chance': '7.414513230323791504e-01'}
+{'Gene': 'col1a1', 'Label': 1, 'Chance': '7.065525054931640625e-01'}
+{'Gene': 'col1a1', 'Label': 2, 'Chance': '7.132378220558166504e-01'}
+{'Gene': 'tln2', 'Label': 1, 'Chance': '5.994365215301513672e-01'}
+{'Gene': 'tln2', 'Label': 2, 'Chance': '6.646319031715393066e-01'}
+{'Gene': 'col6a6', 'Label': 1, 'Chance': '6.385758519172668457e-01'}
+{'Gene': 'thbs2', 'Label': 1, 'Chance': '8.297196030616760254e-01'}
+{'Gene': 'thbs2', 'Label': 2, 'Chance': '7.943994998931884766e-01'}
+
+----------------------------------------------------------------------
+
+- itga7:
+{'Grau total': '53'}
+{'Grau entrada': 42}
+{'Grau saida': 11}
+{'Gene': 'tnxb', 'Label': 1, 'Chance': '7.423349618911743164e-01'}
+{'Gene': 'tnxb', 'Label': 1, 'Chance': '4.919334053993225098e-01'}
+{'Gene': 'vwf', 'Label': 1, 'Chance': '6.325190663337707520e-01'}
+{'Gene': 'vwf', 'Label': 1, 'Chance': '4.360774457454681396e-01'}
+{'Gene': 'pgf', 'Label': 1, 'Chance': '7.639520764350891113e-01'}
+{'Gene': 'col2a1', 'Label': 1, 'Chance': '8.518449664115905762e-01'}
+{'Gene': 'col2a1', 'Label': 2, 'Chance': '7.326303720474243164e-01'}
+{'Gene': 'col4a1', 'Label': 2, 'Chance': '4.518629610538482666e-01'}
+{'Gene': 'col4a1', 'Label': 1, 'Chance': '4.512033164501190186e-01'}
+{'Gene': 'col6a3', 'Label': 1, 'Chance': '8.498162627220153809e-01'}
+{'Gene': 'col6a3', 'Label': 2, 'Chance': '6.954292058944702148e-01'}
+{'Gene': 'reln', 'Label': 1, 'Chance': '5.658749938011169434e-01'}
+{'Gene': 'lamb3', 'Label': 1, 'Chance': '4.389075338840484619e-01'}
+{'Gene': 'fn1', 'Label': 1, 'Chance': '5.505053997039794922e-01'}
+{'Gene': 'fn1', 'Label': 1, 'Chance': '4.927482903003692627e-01'}
+{'Gene': 'lamb1', 'Label': 1, 'Chance': '5.736227631568908691e-01'}
+{'Gene': 'lamb1', 'Label': 1, 'Chance': '4.669151604175567627e-01'}
+{'Gene': 'vtn', 'Label': 1, 'Chance': '6.344975829124450684e-01'}
+{'Gene': 'vtn', 'Label': 2, 'Chance': '5.463118553161621094e-01'}
+{'Gene': 'lama3', 'Label': 1, 'Chance': '4.953323602676391602e-01'}
+{'Gene': 'lama3', 'Label': 1, 'Chance': '4.325522184371948242e-01'}
+{'Gene': 'lama1', 'Label': 1, 'Chance': '7.847838401794433594e-01'}
+{'Gene': 'lama1', 'Label': 2, 'Chance': '5.336247086524963379e-01'}
+{'Gene': 'lamc3', 'Label': 1, 'Chance': '6.417785882949829102e-01'}
+{'Gene': 'lamc3', 'Label': 2, 'Chance': '4.727670252323150635e-01'}
+{'Gene': 'thbs3', 'Label': 1, 'Chance': '4.438225924968719482e-01'}
+{'Gene': 'lama5', 'Label': 2, 'Chance': '4.410439431667327881e-01'}
+{'Gene': 'tnc', 'Label': 1, 'Chance': '7.010493874549865723e-01'}
+{'Gene': 'tnc', 'Label': 2, 'Chance': '5.580253005027770996e-01'}
+{'Gene': 'col1a2', 'Label': 1, 'Chance': '8.027418851852416992e-01'}
+{'Gene': 'col1a2', 'Label': 2, 'Chance': '5.358522534370422363e-01'}
+{'Gene': 'thbs4', 'Label': 1, 'Chance': '7.659275531768798828e-01'}
+{'Gene': 'thbs4', 'Label': 2, 'Chance': '6.311604380607604980e-01'}
+{'Gene': 'lama4', 'Label': 1, 'Chance': '5.380657911300659180e-01'}
+{'Gene': 'col6a1', 'Label': 1, 'Chance': '5.999259352684020996e-01'}
+{'Gene': 'col4a5', 'Label': 1, 'Chance': '6.116117238998413086e-01'}
+{'Gene': 'lama2', 'Label': 1, 'Chance': '4.556766152381896973e-01'}
+{'Gene': 'lama2', 'Label': 2, 'Chance': '4.711519479751586914e-01'}
+{'Gene': 'lamc2', 'Label': 1, 'Chance': '5.371588468551635742e-01'}
+{'Gene': 'lamc2', 'Label': 2, 'Chance': '4.555040895938873291e-01'}
+{'Gene': 'col4a6', 'Label': 1, 'Chance': '6.641232371330261230e-01'}
+{'Gene': 'col4a6', 'Label': 2, 'Chance': '5.684004426002502441e-01'}
+{'Gene': 'col6a2', 'Label': 1, 'Chance': '6.487253308296203613e-01'}
+{'Gene': 'lamb2', 'Label': 1, 'Chance': '5.031326413154602051e-01'}
+{'Gene': 'col9a3', 'Label': 1, 'Chance': '5.214310884475708008e-01'}
+{'Gene': 'col4a2', 'Label': 2, 'Chance': '4.880896806716918945e-01'}
+{'Gene': 'col4a2', 'Label': 1, 'Chance': '4.659978449344635010e-01'}
+{'Gene': 'col6a5', 'Label': 1, 'Chance': '7.858758568763732910e-01'}
+{'Gene': 'col6a5', 'Label': 2, 'Chance': '7.415956258773803711e-01'}
+{'Gene': 'col1a1', 'Label': 1, 'Chance': '7.749502062797546387e-01'}
+{'Gene': 'col6a6', 'Label': 1, 'Chance': '4.241769313812255859e-01'}
+{'Gene': 'thbs2', 'Label': 1, 'Chance': '8.028672337532043457e-01'}
+{'Gene': 'thbs2', 'Label': 2, 'Chance': '4.623136520385742188e-01'}
+
+----------------------------------------------------------------------
+
+- ccr3:
+{'Grau total': '53'}
+{'Grau entrada': 51}
+{'Grau saida': 2}
+{'Gene': 'gm21586', 'Label': 2, 'Chance': '9.023941159248352051e-01'}
+{'Gene': 'ccl3', 'Label': 1, 'Chance': '6.289144158363342285e-01'}
+{'Gene': 'ccl5', 'Label': 1, 'Chance': '5.156739950180053711e-01'}
+{'Gene': 'ccl5', 'Label': 2, 'Chance': '6.301278471946716309e-01'}
+{'Gene': 'clec4e', 'Label': 2, 'Chance': '8.031062483787536621e-01'}
+{'Gene': 'gm21541', 'Label': 2, 'Chance': '7.595508098602294922e-01'}
+{'Gene': 'ccl19', 'Label': 2, 'Chance': '4.652530848979949951e-01'}
+{'Gene': 'ccl19', 'Label': 2, 'Chance': '6.314778327941894531e-01'}
+{'Gene': 'ccl9', 'Label': 1, 'Chance': '6.165337562561035156e-01'}
+{'Gene': 'cxcl10', 'Label': 1, 'Chance': '6.896411180496215820e-01'}
+{'Gene': 'gm13306', 'Label': 1, 'Chance': '4.319941401481628418e-01'}
+{'Gene': 'ccl8', 'Label': 1, 'Chance': '7.186686396598815918e-01'}
+{'Gene': 'ccl8', 'Label': 2, 'Chance': '8.632112741470336914e-01'}
+{'Gene': 'cxcl3', 'Label': 1, 'Chance': '6.917856931686401367e-01'}
+{'Gene': 'cxcl3', 'Label': 2, 'Chance': '8.701291680335998535e-01'}
+{'Gene': 'ccl22', 'Label': 1, 'Chance': '4.944889843463897705e-01'}
+{'Gene': 'ccl22', 'Label': 2, 'Chance': '7.991533279418945312e-01'}
+{'Gene': 'ccl11', 'Label': 1, 'Chance': '7.484109997749328613e-01'}
+{'Gene': 'ccl11', 'Label': 2, 'Chance': '7.281096577644348145e-01'}
+{'Gene': 'cxcl9', 'Label': 1, 'Chance': '5.978727340698242188e-01'}
+{'Gene': 'cxcl9', 'Label': 2, 'Chance': '7.498388886451721191e-01'}
+{'Gene': 'gm20878', 'Label': 1, 'Chance': '6.144443154335021973e-01'}
+{'Gene': 'gm20878', 'Label': 2, 'Chance': '7.407058477401733398e-01'}
+{'Gene': 'cxcl13', 'Label': 1, 'Chance': '6.956552863121032715e-01'}
+{'Gene': 'cxcl13', 'Label': 2, 'Chance': '5.821774005889892578e-01'}
+{'Gene': 'ccl17', 'Label': 1, 'Chance': '8.205547928810119629e-01'}
+{'Gene': 'ccl17', 'Label': 2, 'Chance': '9.031323194503784180e-01'}
+{'Gene': 'cxcl1', 'Label': 1, 'Chance': '7.253877520561218262e-01'}
+{'Gene': 'cxcl1', 'Label': 2, 'Chance': '7.614037990570068359e-01'}
+{'Gene': 'ccl12', 'Label': 2, 'Chance': '7.774130702018737793e-01'}
+{'Gene': 'ccl1', 'Label': 2, 'Chance': '7.694146633148193359e-01'}
+{'Gene': 'ccl20', 'Label': 1, 'Chance': '7.126046419143676758e-01'}
+{'Gene': 'ccl20', 'Label': 2, 'Chance': '7.883312702178955078e-01'}
+{'Gene': 'jak2', 'Label': 1, 'Chance': '9.127898216247558594e-01'}
+{'Gene': 'ccl7', 'Label': 1, 'Chance': '7.414494156837463379e-01'}
+{'Gene': 'ccl7', 'Label': 2, 'Chance': '7.147397994995117188e-01'}
+{'Gene': 'gm10591', 'Label': 1, 'Chance': '6.699582338333129883e-01'}
+{'Gene': 'gm10591', 'Label': 2, 'Chance': '8.021053075790405273e-01'}
+{'Gene': 'ccl21b', 'Label': 1, 'Chance': '6.876667737960815430e-01'}
+{'Gene': 'ccl21b', 'Label': 2, 'Chance': '7.974187135696411133e-01'}
+{'Gene': 'ccl4', 'Label': 1, 'Chance': '6.317234039306640625e-01'}
+{'Gene': 'cxcl15', 'Label': 2, 'Chance': '5.064409971237182617e-01'}
+{'Gene': 'cxcl15', 'Label': 2, 'Chance': '7.253965139389038086e-01'}
+{'Gene': 'cxcl5', 'Label': 1, 'Chance': '5.218105912208557129e-01'}
+{'Gene': 'cxcl5', 'Label': 2, 'Chance': '6.323770880699157715e-01'}
+{'Gene': 'xcl1', 'Label': 1, 'Chance': '7.106629610061645508e-01'}
+{'Gene': 'xcl1', 'Label': 2, 'Chance': '8.741921782493591309e-01'}
+{'Gene': 'gm13304', 'Label': 1, 'Chance': '6.445413231849670410e-01'}
+{'Gene': 'cxcl2', 'Label': 1, 'Chance': '5.085620284080505371e-01'}
+{'Gene': 'cxcl2', 'Label': 2, 'Chance': '6.398787498474121094e-01'}
+{'Gene': 'ccl21a', 'Label': 1, 'Chance': '5.417751669883728027e-01'}
+{'Gene': 'ppbp', 'Label': 1, 'Chance': '5.111285448074340820e-01'}
+{'Gene': 'ppbp', 'Label': 2, 'Chance': '5.235013961791992188e-01'}
+
+----------------------------------------------------------------------
+
+- itgb4:
+{'Grau total': '52'}
+{'Grau entrada': 51}
+{'Grau saida': 1}
+{'Gene': 'tnxb', 'Label': 1, 'Chance': '8.883798122406005859e-01'}
+{'Gene': 'tnxb', 'Label': 2, 'Chance': '7.591984272003173828e-01'}
+{'Gene': 'vwf', 'Label': 1, 'Chance': '7.280312776565551758e-01'}
+{'Gene': 'vwf', 'Label': 2, 'Chance': '7.421906590461730957e-01'}
+{'Gene': 'thbs1', 'Label': 1, 'Chance': '5.927426218986511230e-01'}
+{'Gene': 'col2a1', 'Label': 1, 'Chance': '8.949400782585144043e-01'}
+{'Gene': 'col2a1', 'Label': 2, 'Chance': '7.695460915565490723e-01'}
+{'Gene': 'col4a1', 'Label': 1, 'Chance': '6.368961930274963379e-01'}
+{'Gene': 'col4a1', 'Label': 2, 'Chance': '6.328421831130981445e-01'}
+{'Gene': 'col6a3', 'Label': 1, 'Chance': '9.044491052627563477e-01'}
+{'Gene': 'col6a3', 'Label': 2, 'Chance': '8.242901563644409180e-01'}
+{'Gene': 'lamb3', 'Label': 1, 'Chance': '6.444860696792602539e-01'}
+{'Gene': 'lamb3', 'Label': 2, 'Chance': '6.584977507591247559e-01'}
+{'Gene': 'fn1', 'Label': 1, 'Chance': '7.234420180320739746e-01'}
+{'Gene': 'fn1', 'Label': 2, 'Chance': '7.082483172416687012e-01'}
+{'Gene': 'lamb1', 'Label': 1, 'Chance': '7.931898832321166992e-01'}
+{'Gene': 'lamb1', 'Label': 2, 'Chance': '7.828296422958374023e-01'}
+{'Gene': 'lama3', 'Label': 1, 'Chance': '5.335314273834228516e-01'}
+{'Gene': 'lama3', 'Label': 2, 'Chance': '5.691626071929931641e-01'}
+{'Gene': 'lama1', 'Label': 1, 'Chance': '9.082822799682617188e-01'}
+{'Gene': 'lama1', 'Label': 2, 'Chance': '8.533596992492675781e-01'}
+{'Gene': 'lamc3', 'Label': 1, 'Chance': '5.278071761131286621e-01'}
+{'Gene': 'lama5', 'Label': 2, 'Chance': '5.085791945457458496e-01'}
+{'Gene': 'lama5', 'Label': 2, 'Chance': '4.541961252689361572e-01'}
+{'Gene': 'tnn', 'Label': 1, 'Chance': '6.272372007369995117e-01'}
+{'Gene': 'tnn', 'Label': 2, 'Chance': '5.526075959205627441e-01'}
+{'Gene': 'src', 'Label': 1, 'Chance': '4.348098337650299072e-01'}
+{'Gene': 'tnc', 'Label': 1, 'Chance': '8.271075487136840820e-01'}
+{'Gene': 'tnc', 'Label': 2, 'Chance': '8.243939876556396484e-01'}
+{'Gene': 'col1a2', 'Label': 1, 'Chance': '8.567525148391723633e-01'}
+{'Gene': 'col1a2', 'Label': 2, 'Chance': '7.471830844879150391e-01'}
+{'Gene': 'col6a4', 'Label': 2, 'Chance': '4.939264655113220215e-01'}
+{'Gene': 'thbs4', 'Label': 1, 'Chance': '7.078636884689331055e-01'}
+{'Gene': 'thbs4', 'Label': 2, 'Chance': '7.293557524681091309e-01'}
+{'Gene': 'col6a1', 'Label': 1, 'Chance': '7.609385848045349121e-01'}
+{'Gene': 'col4a5', 'Label': 1, 'Chance': '5.625271797180175781e-01'}
+{'Gene': 'lamc2', 'Label': 1, 'Chance': '5.862610340118408203e-01'}
+{'Gene': 'lamc2', 'Label': 2, 'Chance': '6.071152091026306152e-01'}
+{'Gene': 'col4a6', 'Label': 1, 'Chance': '5.923609137535095215e-01'}
+{'Gene': 'col6a2', 'Label': 1, 'Chance': '7.795720696449279785e-01'}
+{'Gene': 'lamb2', 'Label': 1, 'Chance': '7.050715088844299316e-01'}
+{'Gene': 'lamb2', 'Label': 2, 'Chance': '7.068999409675598145e-01'}
+{'Gene': 'col4a2', 'Label': 1, 'Chance': '5.381996631622314453e-01'}
+{'Gene': 'col4a2', 'Label': 2, 'Chance': '6.875616312026977539e-01'}
+{'Gene': 'col6a5', 'Label': 1, 'Chance': '8.858537673950195312e-01'}
+{'Gene': 'col6a5', 'Label': 2, 'Chance': '7.788936495780944824e-01'}
+{'Gene': 'a2m', 'Label': 1, 'Chance': '8.549652695655822754e-01'}
+{'Gene': 'col1a1', 'Label': 1, 'Chance': '8.828243017196655273e-01'}
+{'Gene': 'col1a1', 'Label': 2, 'Chance': '6.177468299865722656e-01'}
+{'Gene': 'col6a6', 'Label': 2, 'Chance': '6.173806190490722656e-01'}
+{'Gene': 'thbs2', 'Label': 1, 'Chance': '8.979697227478027344e-01'}
+{'Gene': 'thbs2', 'Label': 2, 'Chance': '7.981107234954833984e-01'}
+
+----------------------------------------------------------------------
+
+- cxcr3:
+{'Grau total': '50'}
+{'Grau entrada': 50}
+{'Grau saida': 0}
+{'Gene': 'gm21586', 'Label': 1, 'Chance': '8.010407686233520508e-01'}
+{'Gene': 'gm21586', 'Label': 2, 'Chance': '8.548292517662048340e-01'}
+{'Gene': 'ccl5', 'Label': 1, 'Chance': '6.059597730636596680e-01'}
+{'Gene': 'ccl5', 'Label': 2, 'Chance': '6.564726233482360840e-01'}
+{'Gene': 'gm21541', 'Label': 1, 'Chance': '8.369535207748413086e-01'}
+{'Gene': 'gm21541', 'Label': 2, 'Chance': '8.142704963684082031e-01'}
+{'Gene': 'ccl19', 'Label': 1, 'Chance': '6.397789716720581055e-01'}
+{'Gene': 'ccl19', 'Label': 2, 'Chance': '7.269021868705749512e-01'}
+{'Gene': 'cxcl10', 'Label': 1, 'Chance': '7.467089891433715820e-01'}
+{'Gene': 'cxcl10', 'Label': 2, 'Chance': '7.212062478065490723e-01'}
+{'Gene': 'gm13306', 'Label': 1, 'Chance': '7.664615511894226074e-01'}
+{'Gene': 'gm13306', 'Label': 2, 'Chance': '7.418587207794189453e-01'}
+{'Gene': 'ccl8', 'Label': 1, 'Chance': '8.118453621864318848e-01'}
+{'Gene': 'ccl8', 'Label': 2, 'Chance': '8.188040852546691895e-01'}
+{'Gene': 'ccl27b', 'Label': 2, 'Chance': '8.015829920768737793e-01'}
+{'Gene': 'cxcl3', 'Label': 1, 'Chance': '6.416278481483459473e-01'}
+{'Gene': 'cxcl3', 'Label': 2, 'Chance': '6.151733994483947754e-01'}
+{'Gene': 'ccl22', 'Label': 1, 'Chance': '6.070084571838378906e-01'}
+{'Gene': 'ccl22', 'Label': 2, 'Chance': '7.345581650733947754e-01'}
+{'Gene': 'ccl11', 'Label': 1, 'Chance': '7.476110458374023438e-01'}
+{'Gene': 'ccl11', 'Label': 2, 'Chance': '7.354906797409057617e-01'}
+{'Gene': 'cxcl9', 'Label': 1, 'Chance': '6.881090998649597168e-01'}
+{'Gene': 'cxcl9', 'Label': 2, 'Chance': '6.560535430908203125e-01'}
+{'Gene': 'ccl24', 'Label': 1, 'Chance': '6.769178509712219238e-01'}
+{'Gene': 'gm20878', 'Label': 1, 'Chance': '6.385726928710937500e-01'}
+{'Gene': 'gm20878', 'Label': 2, 'Chance': '7.304323315620422363e-01'}
+{'Gene': 'cxcl13', 'Label': 1, 'Chance': '7.245867848396301270e-01'}
+{'Gene': 'cxcl13', 'Label': 2, 'Chance': '5.251539945602416992e-01'}
+{'Gene': 'ccl17', 'Label': 2, 'Chance': '7.232013940811157227e-01'}
+{'Gene': 'cxcl1', 'Label': 1, 'Chance': '8.778733015060424805e-01'}
+{'Gene': 'cxcl1', 'Label': 2, 'Chance': '7.910994887351989746e-01'}
+{'Gene': 'ccl1', 'Label': 1, 'Chance': '6.909157037734985352e-01'}
+{'Gene': 'ccl1', 'Label': 2, 'Chance': '7.086891531944274902e-01'}
+{'Gene': 'ccl20', 'Label': 2, 'Chance': '7.037331461906433105e-01'}
+{'Gene': 'ccl7', 'Label': 1, 'Chance': '8.347511291503906250e-01'}
+{'Gene': 'ccl7', 'Label': 2, 'Chance': '7.696689367294311523e-01'}
+{'Gene': 'gm10591', 'Label': 1, 'Chance': '7.910981774330139160e-01'}
+{'Gene': 'gm10591', 'Label': 2, 'Chance': '7.501806616783142090e-01'}
+{'Gene': 'ccl21b', 'Label': 1, 'Chance': '7.986176013946533203e-01'}
+{'Gene': 'ccl21b', 'Label': 2, 'Chance': '7.468180060386657715e-01'}
+{'Gene': 'cxcl15', 'Label': 2, 'Chance': '6.591156125068664551e-01'}
+{'Gene': 'cxcl5', 'Label': 1, 'Chance': '6.878894567489624023e-01'}
+{'Gene': 'cxcl5', 'Label': 2, 'Chance': '5.017387270927429199e-01'}
+{'Gene': 'xcl1', 'Label': 1, 'Chance': '6.679304242134094238e-01'}
+{'Gene': 'xcl1', 'Label': 2, 'Chance': '7.412923574447631836e-01'}
+{'Gene': 'gm13304', 'Label': 1, 'Chance': '8.282474875450134277e-01'}
+{'Gene': 'gm13304', 'Label': 2, 'Chance': '7.246555089950561523e-01'}
+{'Gene': 'cxcl2', 'Label': 1, 'Chance': '6.894127130508422852e-01'}
+{'Gene': 'ccl21a', 'Label': 1, 'Chance': '8.290909528732299805e-01'}
+{'Gene': 'ccl21a', 'Label': 2, 'Chance': '8.122637271881103516e-01'}
+
+----------------------------------------------------------------------
+
+- fgfr3:
+{'Grau total': '50'}
+{'Grau entrada': 50}
+{'Grau saida': 0}
+{'Gene': 'pgf', 'Label': 2, 'Chance': '8.577021360397338867e-01'}
+{'Gene': 'hgf', 'Label': 2, 'Chance': '8.179901242256164551e-01'}
+{'Gene': 'angpt4', 'Label': 1, 'Chance': '7.951279878616333008e-01'}
+{'Gene': 'angpt4', 'Label': 2, 'Chance': '8.748912811279296875e-01'}
+{'Gene': 'fgf20', 'Label': 1, 'Chance': '8.973271250724792480e-01'}
+{'Gene': 'fgf20', 'Label': 2, 'Chance': '9.198645353317260742e-01'}
+{'Gene': 'wnt2b', 'Label': 2, 'Chance': '8.188456892967224121e-01'}
+{'Gene': 'fgf15', 'Label': 2, 'Chance': '8.576387763023376465e-01'}
+{'Gene': 'sh2d1a', 'Label': 1, 'Chance': '7.935293316841125488e-01'}
+{'Gene': 'fgf3', 'Label': 1, 'Chance': '8.212550878524780273e-01'}
+{'Gene': 'fgf3', 'Label': 2, 'Chance': '9.344115853309631348e-01'}
+{'Gene': 'fgf1', 'Label': 2, 'Chance': '8.421477675437927246e-01'}
+{'Gene': 'fgf21', 'Label': 1, 'Chance': '8.659088611602783203e-01'}
+{'Gene': 'fgf21', 'Label': 2, 'Chance': '8.995005488395690918e-01'}
+{'Gene': 'fgf4', 'Label': 2, 'Chance': '8.641301393508911133e-01'}
+{'Gene': 'mpst', 'Label': 2, 'Chance': '8.598475456237792969e-01'}
+{'Gene': 'efna3', 'Label': 1, 'Chance': '8.000801801681518555e-01'}
+{'Gene': 'efna3', 'Label': 2, 'Chance': '9.229924678802490234e-01'}
+{'Gene': 'efna4', 'Label': 2, 'Chance': '8.469688296318054199e-01'}
+{'Gene': 'klk1b4', 'Label': 1, 'Chance': '8.704741597175598145e-01'}
+{'Gene': 'klk1b4', 'Label': 2, 'Chance': '9.441679120063781738e-01'}
+{'Gene': 'fgf5', 'Label': 1, 'Chance': '8.500605821609497070e-01'}
+{'Gene': 'fgf5', 'Label': 2, 'Chance': '8.548239469528198242e-01'}
+{'Gene': 'fgf6', 'Label': 1, 'Chance': '8.971762657165527344e-01'}
+{'Gene': 'fgf6', 'Label': 2, 'Chance': '8.674197196960449219e-01'}
+{'Gene': 'src', 'Label': 2, 'Chance': '8.131998181343078613e-01'}
+{'Gene': 'shc2', 'Label': 2, 'Chance': '9.396789669990539551e-01'}
+{'Gene': 'shc2', 'Label': 1, 'Chance': '7.906414866447448730e-01'}
+{'Gene': 'irs1', 'Label': 2, 'Chance': '8.290021419525146484e-01'}
+{'Gene': 'pik3r2', 'Label': 2, 'Chance': '7.575752735137939453e-01'}
+{'Gene': 'fgf7', 'Label': 1, 'Chance': '8.011238574981689453e-01'}
+{'Gene': 'fgf7', 'Label': 2, 'Chance': '7.996670603752136230e-01'}
+{'Gene': 'vegfd', 'Label': 1, 'Chance': '7.862370610237121582e-01'}
+{'Gene': 'vegfd', 'Label': 2, 'Chance': '8.107375502586364746e-01'}
+{'Gene': 'fgf9', 'Label': 1, 'Chance': '7.872896790504455566e-01'}
+{'Gene': 'fgf9', 'Label': 2, 'Chance': '8.508914709091186523e-01'}
+{'Gene': 'efna1', 'Label': 1, 'Chance': '7.833112478256225586e-01'}
+{'Gene': 'efna1', 'Label': 2, 'Chance': '8.400292992591857910e-01'}
+{'Gene': 'fgf17', 'Label': 2, 'Chance': '8.705130219459533691e-01'}
+{'Gene': 'fgf10', 'Label': 1, 'Chance': '7.511784434318542480e-01'}
+{'Gene': 'fgf10', 'Label': 2, 'Chance': '7.933286428451538086e-01'}
+{'Gene': 'fgf23', 'Label': 1, 'Chance': '7.937226891517639160e-01'}
+{'Gene': 'fgf23', 'Label': 2, 'Chance': '8.058578372001647949e-01'}
+{'Gene': 'ins1', 'Label': 1, 'Chance': '8.367100358009338379e-01'}
+{'Gene': 'fgf22', 'Label': 1, 'Chance': '8.957439661026000977e-01'}
+{'Gene': 'fgf22', 'Label': 2, 'Chance': '9.182018041610717773e-01'}
+{'Gene': 'fgf11', 'Label': 2, 'Chance': '8.424816727638244629e-01'}
+{'Gene': 'fgf8', 'Label': 2, 'Chance': '8.502691984176635742e-01'}
+{'Gene': 'ngf', 'Label': 1, 'Chance': '8.112982511520385742e-01'}
+{'Gene': 'ngf', 'Label': 2, 'Chance': '9.006437063217163086e-01'}
+
+----------------------------------------------------------------------
+
