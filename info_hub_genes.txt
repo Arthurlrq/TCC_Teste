@@ -1,0 +1,4959 @@
+Informações quanto ao grau dos possíveis genes hub:
+
+- prkacb:
+Grau total:   197
+Grau entrada: 3
+Grau saida:   194
+
+- gnb5:
+Grau total:   59
+Grau entrada: 10
+Grau saida:   49
+
+- gng7:
+Grau total:   55
+Grau entrada: 15
+Grau saida:   40
+
+- gng4:
+Grau total:   64
+Grau entrada: 4
+Grau saida:   60
+
+- flt4:
+Grau total:   43
+Grau entrada: 39
+Grau saida:   4
+
+- kdr:
+Grau total:   42
+Grau entrada: 31
+Grau saida:   11
+
+- itga2:
+Grau total:   40
+Grau entrada: 25
+Grau saida:   15
+
+- pdgfrb:
+Grau total:   40
+Grau entrada: 34
+Grau saida:   6
+
+- pdgfra:
+Grau total:   36
+Grau entrada: 28
+Grau saida:   8
+
+- xcr1:
+Grau total:   32
+Grau entrada: 32
+Grau saida:   0
+
+- ccr9:
+Grau total:   33
+Grau entrada: 33
+Grau saida:   0
+
+- ccr6:
+Grau total:   31
+Grau entrada: 30
+Grau saida:   1
+
+- gnai1:
+Grau total:   37
+Grau entrada: 6
+Grau saida:   31
+
+- gng8:
+Grau total:   42
+Grau entrada: 1
+Grau saida:   41
+
+- ccr7:
+Grau total:   29
+Grau entrada: 29
+Grau saida:   0
+
+- col6a3:
+Grau total:   35
+Grau entrada: 3
+Grau saida:   32
+
+- gnao1:
+Grau total:   39
+Grau entrada: 3
+Grau saida:   36
+
+- itga2b:
+Grau total:   37
+Grau entrada: 33
+Grau saida:   4
+
+- itga7:
+Grau total:   33
+Grau entrada: 29
+Grau saida:   4
+
+- ccr3:
+Grau total:   33
+Grau entrada: 31
+Grau saida:   2
+
+- itgb4:
+Grau total:   31
+Grau entrada: 30
+Grau saida:   1
+
+- cxcr3:
+Grau total:   28
+Grau entrada: 28
+Grau saida:   0
+
+- fgfr3:
+Grau total:   33
+Grau entrada: 33
+Grau saida:   0
+
+- gng13:
+Grau total:   42
+Grau entrada: 12
+Grau saida:   30
+
+- gng3:
+Grau total:   39
+Grau entrada: 8
+Grau saida:   31
+
+- itgb3:
+Grau total:   31
+Grau entrada: 29
+Grau saida:   2
+
+- il5:
+Grau total:   33
+Grau entrada: 1
+Grau saida:   32
+
+- cxcr6:
+Grau total:   27
+Grau entrada: 26
+Grau saida:   1
+
+- camk2a:
+Grau total:   30
+Grau entrada: 6
+Grau saida:   24
+
+- lama1:
+Grau total:   28
+Grau entrada: 2
+Grau saida:   26
+
+- met:
+Grau total:   31
+Grau entrada: 24
+Grau saida:   7
+
+- tnc:
+Grau total:   27
+Grau entrada: 4
+Grau saida:   23
+
+- cacna1f:
+Grau total:   28
+Grau entrada: 25
+Grau saida:   3
+
+- il10rb:
+Grau total:   26
+Grau entrada: 0
+Grau saida:   26
+
+- fn1:
+Grau total:   27
+Grau entrada: 4
+Grau saida:   23
+
+- ccr8:
+Grau total:   25
+Grau entrada: 23
+Grau saida:   2
+
+- cx3cr1:
+Grau total:   28
+Grau entrada: 27
+Grau saida:   1
+
+- gnaq:
+Grau total:   38
+Grau entrada: 38
+Grau saida:   0
+
+- gngt1:
+Grau total:   33
+Grau entrada: 4
+Grau saida:   29
+
+- lamb1:
+Grau total:   24
+Grau entrada: 2
+Grau saida:   22
+
+- col1a2:
+Grau total:   25
+Grau entrada: 1
+Grau saida:   24
+
+- mapk1:
+Grau total:   33
+Grau entrada: 30
+Grau saida:   3
+
+- ccr1l1:
+Grau total:   29
+Grau entrada: 29
+Grau saida:   0
+
+- il2rb:
+Grau total:   31
+Grau entrada: 26
+Grau saida:   5
+
+- col6a5:
+Grau total:   26
+Grau entrada: 2
+Grau saida:   24
+
+- ins2:
+Grau total:   40
+Grau entrada: 1
+Grau saida:   39
+
+- ins1:
+Grau total:   39
+Grau entrada: 1
+Grau saida:   38
+
+- plcb2:
+Grau total:   30
+Grau entrada: 19
+Grau saida:   11
+
+- plcb3:
+Grau total:   31
+Grau entrada: 25
+Grau saida:   6
+
+- itga5:
+Grau total:   21
+Grau entrada: 21
+Grau saida:   0
+
+- itga3:
+Grau total:   23
+Grau entrada: 22
+Grau saida:   1
+
+- akt2:
+Grau total:   33
+Grau entrada: 8
+Grau saida:   25
+
+- cxcl13:
+Grau total:   22
+Grau entrada: 4
+Grau saida:   18
+
+- vwf:
+Grau total:   25
+Grau entrada: 5
+Grau saida:   20
+
+- ccr10:
+Grau total:   25
+Grau entrada: 23
+Grau saida:   2
+
+- csf2rb2:
+Grau total:   23
+Grau entrada: 22
+Grau saida:   1
+
+- gnb3:
+Grau total:   28
+Grau entrada: 4
+Grau saida:   24
+
+- thbs2:
+Grau total:   23
+Grau entrada: 0
+Grau saida:   23
+
+- il13ra2:
+Grau total:   24
+Grau entrada: 23
+Grau saida:   1
+
+- tnxb:
+Grau total:   22
+Grau entrada: 1
+Grau saida:   21
+
+- ghrl:
+Grau total:   22
+Grau entrada: 0
+Grau saida:   22
+
+- ppp2r2b:
+Grau total:   25
+Grau entrada: 6
+Grau saida:   19
+
+- ccl8:
+Grau total:   18
+Grau entrada: 0
+Grau saida:   18
+
+- cacna1c:
+Grau total:   22
+Grau entrada: 19
+Grau saida:   3
+
+- col1a1:
+Grau total:   24
+Grau entrada: 1
+Grau saida:   23
+
+- cxcr2:
+Grau total:   20
+Grau entrada: 19
+Grau saida:   1
+
+- jak1:
+Grau total:   21
+Grau entrada: 0
+Grau saida:   21
+
+- epo:
+Grau total:   25
+Grau entrada: 2
+Grau saida:   23
+
+- col4a1:
+Grau total:   19
+Grau entrada: 5
+Grau saida:   14
+
+- adcy5:
+Grau total:   20
+Grau entrada: 19
+Grau saida:   1
+
+- ccr1:
+Grau total:   21
+Grau entrada: 21
+Grau saida:   0
+
+- ccl22:
+Grau total:   18
+Grau entrada: 1
+Grau saida:   17
+
+- itga11:
+Grau total:   20
+Grau entrada: 18
+Grau saida:   2
+
+- col2a1:
+Grau total:   21
+Grau entrada: 1
+Grau saida:   20
+
+- xcl1:
+Grau total:   21
+Grau entrada: 1
+Grau saida:   20
+
+- ccr5:
+Grau total:   21
+Grau entrada: 21
+Grau saida:   0
+
+- ccl11:
+Grau total:   17
+Grau entrada: 0
+Grau saida:   17
+
+- itgb5:
+Grau total:   20
+Grau entrada: 17
+Grau saida:   3
+
+- itgb6:
+Grau total:   22
+Grau entrada: 15
+Grau saida:   7
+
+- ccl17:
+Grau total:   18
+Grau entrada: 0
+Grau saida:   18
+
+- cxcl10:
+Grau total:   18
+Grau entrada: 0
+Grau saida:   18
+
+- pik3cd:
+Grau total:   22
+Grau entrada: 21
+Grau saida:   1
+
+- mapk10:
+Grau total:   18
+Grau entrada: 15
+Grau saida:   3
+
+- cd8b1:
+Grau total:   18
+Grau entrada: 18
+Grau saida:   0
+
+- cd8a:
+Grau total:   22
+Grau entrada: 22
+Grau saida:   0
+
+
+----------------------------------------------------------------------
+Genes: 
+
+- prkacb:
+{'Grau total': 197}
+{'Grau entrada': 3}
+{'Grau saida': 194}
+{'Gene': 'itga2'}
+{'Gene': 'lhcgr'}
+{'Gene': 'il13'}
+{'Gene': 'braf'}
+{'Gene': 'raf1'}
+{'Gene': 'araf'}
+{'Gene': 'esr2'}
+{'Gene': 'fos'}
+{'Gene': 'jun'}
+{'Gene': 'ncoa3'}
+{'Gene': 'med1'}
+{'Gene': 'sp1'}
+{'Gene': 'carm1'}
+{'Gene': 'rps6kb1'}
+{'Gene': 'rasgrf1'}
+{'Gene': 'orai1'}
+{'Gene': 'rhoa'}
+{'Gene': 'atp2b2'}
+{'Gene': 'bad'}
+{'Gene': 'cacna1c'}
+{'Gene': 'cacna1d'}
+{'Gene': 'cacna1s'}
+{'Gene': 'cftr'}
+{'Gene': 'creb1'}
+{'Gene': 'creb3'}
+{'Gene': 'crebbp'}
+{'Gene': 'gli3'}
+{'Gene': 'gria1'}
+{'Gene': 'gria2'}
+{'Gene': 'gria4'}
+{'Gene': 'grin1'}
+{'Gene': 'grin2a'}
+{'Gene': 'grin2b'}
+{'Gene': 'grin2c'}
+{'Gene': 'grin2d'}
+{'Gene': 'nfatc1'}
+{'Gene': 'pde3b'}
+{'Gene': 'pde4a'}
+{'Gene': 'pde4b'}
+{'Gene': 'rela'}
+{'Gene': 'ryr2'}
+{'Gene': 'slc9a1'}
+{'Gene': 'creb3l2'}
+{'Gene': 'tnni3'}
+{'Gene': 'creb5'}
+{'Gene': 'pde4d'}
+{'Gene': 'grin3a'}
+{'Gene': 'creb3l1'}
+{'Gene': 'atp2b3'}
+{'Gene': 'ep300'}
+{'Gene': 'atp2b4'}
+{'Gene': 'gria3'}
+{'Gene': 'pde3a'}
+{'Gene': 'cacna1f'}
+{'Gene': '4930544g11rik'}
+{'Gene': 'atp2b1'}
+{'Gene': 'prkaa1'}
+{'Gene': 'prkaa2'}
+{'Gene': 'ulk1'}
+{'Gene': 'ulk2'}
+{'Gene': 'atg13'}
+{'Gene': 'gabarapl1'}
+{'Gene': 'gabarapl2'}
+{'Gene': 'foxo1'}
+{'Gene': 'foxo3'}
+{'Gene': 'atf2'}
+{'Gene': 'atp1a1'}
+{'Gene': 'atp1b1'}
+{'Gene': 'atp1b2'}
+{'Gene': 'atp1b3'}
+{'Gene': 'cacna2d1'}
+{'Gene': 'cacnb1'}
+{'Gene': 'cacnb2'}
+{'Gene': 'cacnb4'}
+{'Gene': 'cacng1'}
+{'Gene': 'cacng2'}
+{'Gene': 'atf6b'}
+{'Gene': 'kcne1'}
+{'Gene': 'kcnq1'}
+{'Gene': 'scn1b'}
+{'Gene': 'scn5a'}
+{'Gene': 'scn7a'}
+{'Gene': 'atp1a3'}
+{'Gene': 'atp1a4'}
+{'Gene': 'cacna2d4'}
+{'Gene': 'scn4b'}
+{'Gene': 'cacng3'}
+{'Gene': 'cacng4'}
+{'Gene': 'cacng6'}
+{'Gene': 'cacna2d2'}
+{'Gene': 'ppp1r1a'}
+{'Gene': 'atp1b4'}
+{'Gene': 'cacng7'}
+{'Gene': 'cacng8'}
+{'Gene': 'kcnmb3'}
+{'Gene': 'mylk'}
+{'Gene': 'itpr1'}
+{'Gene': 'itpr2'}
+{'Gene': 'itpr3'}
+{'Gene': 'kcnma1'}
+{'Gene': 'kcnu1'}
+{'Gene': 'mylk2'}
+{'Gene': 'mylk4'}
+{'Gene': 'kcnmb4'}
+{'Gene': 'kcnmb2'}
+{'Gene': 'gsk3b'}
+{'Gene': 'rps6ka5'}
+{'Gene': 'rap1a'}
+{'Gene': 'mapk1'}
+{'Gene': 'mapk3'}
+{'Gene': 'ndufb11'}
+{'Gene': 'ndufa2'}
+{'Gene': 'ndufs4'}
+{'Gene': 'ndufv1'}
+{'Gene': 'ndufs2'}
+{'Gene': 'ndufs1'}
+{'Gene': 'ndufb6'}
+{'Gene': 'ndufs6'}
+{'Gene': 'ndufa1'}
+{'Gene': 'ndufs5'}
+{'Gene': 'ndufa9'}
+{'Gene': 'ndufc1'}
+{'Gene': 'ndufb3'}
+{'Gene': 'ndufa10'}
+{'Gene': 'ndufb4'}
+{'Gene': 'ndufc2'}
+{'Gene': 'ndufb2'}
+{'Gene': 'ndufa5'}
+{'Gene': 'ndufs3'}
+{'Gene': 'ndufa8'}
+{'Gene': 'ndufab1'}
+{'Gene': 'ndufv2'}
+{'Gene': 'ndufs7'}
+{'Gene': 'ndufv3'}
+{'Gene': 'scn1a'}
+{'Gene': 'mapk10'}
+{'Gene': 'mapk14'}
+{'Gene': 'mapk8'}
+{'Gene': 'mapk9'}
+{'Gene': 'gm13769'}
+{'Gene': 'trpm8'}
+{'Gene': 'trpv1'}
+{'Gene': 'trpv4'}
+{'Gene': 'pdx1'}
+{'Gene': 'abcc8'}
+{'Gene': 'kcnj3'}
+{'Gene': 'kcnj6'}
+{'Gene': 'kcnj9'}
+{'Gene': 'pax8'}
+{'Gene': 'ttf1'}
+{'Gene': 'map2k1'}
+{'Gene': 'map2k2'}
+{'Gene': 'phkb'}
+{'Gene': 'ppp4r3b'}
+{'Gene': 'prkab2'}
+{'Gene': 'prkag2'}
+{'Gene': 'phka2'}
+{'Gene': 'calm3'}
+{'Gene': 'gys1'}
+{'Gene': 'phka1'}
+{'Gene': 'prkab1'}
+{'Gene': 'prkag1'}
+{'Gene': 'gys2'}
+{'Gene': 'sik2'}
+{'Gene': '4932429p05rik'}
+{'Gene': '4930415l06rik'}
+{'Gene': 'calm5'}
+{'Gene': 'ppp4c'}
+{'Gene': 'ppp4r3a'}
+{'Gene': 'phkg2'}
+{'Gene': 'calm4'}
+{'Gene': 'plin1'}
+{'Gene': 'atf1'}
+{'Gene': 'trpv5'}
+{'Gene': 'aqp2'}
+{'Gene': 'arhgdia'}
+{'Gene': 'gnai1'}
+{'Gene': 'gnai2'}
+{'Gene': 'gnai3'}
+{'Gene': 'gnao1'}
+{'Gene': 'gnb1'}
+{'Gene': 'gnb2'}
+{'Gene': 'gnb4'}
+{'Gene': 'gnb5'}
+{'Gene': 'gngt1'}
+{'Gene': 'gng10'}
+{'Gene': 'gng12'}
+{'Gene': 'gng2'}
+{'Gene': 'gng3'}
+{'Gene': 'gng4'}
+{'Gene': 'gng5'}
+{'Gene': 'gng7'}
+{'Gene': 'gng13'}
+{'Gene': 'bax'}
+{'Gene': 'crem'}
+{'Gene': 'xbp1'}
+{'Gene': 'ptk2'}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+
+----------------------------------------------------------------------
+
+- gnb5:
+{'Grau total': 59}
+{'Grau entrada': 10}
+{'Grau saida': 49}
+{'Gene': 'apln'}
+{'Gene': 'grm4'}
+{'Gene': 'grm3'}
+{'Gene': 'gabbr2'}
+{'Gene': 'grm7'}
+{'Gene': 'htr1b'}
+{'Gene': 'drd2'}
+{'Gene': 'prkcb'}
+{'Gene': 'chrm4'}
+{'Gene': 'prkcg'}
+{'Gene': 'oprm1'}
+{'Gene': 'htr1d'}
+{'Gene': 'gabbr1'}
+{'Gene': 'rasgrf1'}
+{'Gene': 'pik3ca'}
+{'Gene': 'pik3r2'}
+{'Gene': 'pik3r3'}
+{'Gene': 'plcb1'}
+{'Gene': 'plcb2'}
+{'Gene': 'plcb3'}
+{'Gene': 'plcb4'}
+{'Gene': 'prex1'}
+{'Gene': 'pik3r6'}
+{'Gene': 'adcy4'}
+{'Gene': 'adcy3'}
+{'Gene': 'prkaa2'}
+{'Gene': 'prkab2'}
+{'Gene': 'prkag2'}
+{'Gene': 'adcy6'}
+{'Gene': 'adcy9'}
+{'Gene': 'camk4'}
+{'Gene': 'hras'}
+{'Gene': 'kras'}
+{'Gene': 'mras'}
+{'Gene': 'prkce'}
+{'Gene': 'prkag1'}
+{'Gene': 'adcy2'}
+{'Gene': 'adcy5'}
+{'Gene': 'adcy1'}
+{'Gene': 'kcnj3'}
+{'Gene': 'kcnj6'}
+{'Gene': 'kcnj9'}
+{'Gene': 'mapk1'}
+{'Gene': 'cacna1a'}
+{'Gene': 'cacna1b'}
+{'Gene': 'mapk11'}
+{'Gene': 'mapk10'}
+{'Gene': 'mapk8'}
+{'Gene': 'mapk9'}
+{'Gene': 'cacna1c'}
+{'Gene': 'cacna1d'}
+{'Gene': 'cacna1s'}
+{'Gene': 'cacna1f'}
+{'Gene': 'scn1a'}
+{'Gene': 'prkacb'}
+{'Gene': 'cnr1'}
+{'Gene': 'ppp1r3f'}
+{'Gene': 'prkaca'}
+{'Gene': 'drd3'}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+
+----------------------------------------------------------------------
+
+- gng7:
+{'Grau total': 55}
+{'Grau entrada': 15}
+{'Grau saida': 40}
+{'Gene': 'comp'}
+{'Gene': 'grm4'}
+{'Gene': 'mtnr1a'}
+{'Gene': 'grm3'}
+{'Gene': 'gabbr2'}
+{'Gene': 'adcyap1r1'}
+{'Gene': 'grm7'}
+{'Gene': 'chrm2'}
+{'Gene': 'rasgrf1'}
+{'Gene': 'pik3cd'}
+{'Gene': 'pik3r2'}
+{'Gene': 'plcb3'}
+{'Gene': 'prex1'}
+{'Gene': 'pik3r5'}
+{'Gene': 'adcy4'}
+{'Gene': 'adcy3'}
+{'Gene': 'prkaa2'}
+{'Gene': 'adcy6'}
+{'Gene': 'adcy7'}
+{'Gene': 'adcy8'}
+{'Gene': 'camk4'}
+{'Gene': 'mras'}
+{'Gene': 'prkce'}
+{'Gene': 'adcy2'}
+{'Gene': 'adcy5'}
+{'Gene': 'adcy10'}
+{'Gene': 'adcy1'}
+{'Gene': 'kcnj3'}
+{'Gene': 'kcnj5'}
+{'Gene': 'kcnj9'}
+{'Gene': 'cacna1b'}
+{'Gene': 'mapk10'}
+{'Gene': 'cacna1c'}
+{'Gene': 'cacna1s'}
+{'Gene': 'cacna1f'}
+{'Gene': 'scn1a'}
+{'Gene': 'drd4'}
+{'Gene': 'htr1b'}
+{'Gene': 'drd2'}
+{'Gene': 'chrm4'}
+{'Gene': 'prkcg'}
+{'Gene': 'htr1a'}
+{'Gene': 'htr1d'}
+{'Gene': 'ntrk2'}
+{'Gene': 'gabbr1'}
+{'Gene': 'htr1f'}
+{'Gene': 'gm13769'}
+{'Gene': 'wnt11'}
+{'Gene': 'prkacb'}
+{'Gene': 'mtnr1b'}
+{'Gene': 'cnr1'}
+{'Gene': 'htr7'}
+{'Gene': 'grm2'}
+{'Gene': 'htr5a'}
+{'Gene': 'drd3'}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+
+----------------------------------------------------------------------
+
+- gng4:
+{'Grau total': 64}
+{'Grau entrada': 4}
+{'Grau saida': 60}
+{'Gene': 'rasd1'}
+{'Gene': 'grm4'}
+{'Gene': 'rasgrf1'}
+{'Gene': 'pik3ca'}
+{'Gene': 'pik3cd'}
+{'Gene': 'plcb2'}
+{'Gene': 'plcb3'}
+{'Gene': 'plcb4'}
+{'Gene': 'prex1'}
+{'Gene': 'pik3cb'}
+{'Gene': 'pik3r6'}
+{'Gene': 'pik3cg'}
+{'Gene': 'pik3r5'}
+{'Gene': 'adcy4'}
+{'Gene': 'adcy3'}
+{'Gene': 'prkaa2'}
+{'Gene': 'prkab2'}
+{'Gene': 'adcy6'}
+{'Gene': 'adcy7'}
+{'Gene': 'adcy8'}
+{'Gene': 'adcy9'}
+{'Gene': 'camk4'}
+{'Gene': 'prkce'}
+{'Gene': 'adcy2'}
+{'Gene': 'adcy5'}
+{'Gene': 'adcy10'}
+{'Gene': 'adcy1'}
+{'Gene': 'kcnj3'}
+{'Gene': 'kcnj5'}
+{'Gene': 'kcnj6'}
+{'Gene': 'kcnj9'}
+{'Gene': 'cacna1a'}
+{'Gene': 'cacna1b'}
+{'Gene': 'mapk11'}
+{'Gene': 'mapk10'}
+{'Gene': 'cacna1c'}
+{'Gene': 'cacna1d'}
+{'Gene': 'cacna1s'}
+{'Gene': 'cacna1f'}
+{'Gene': 'scn1a'}
+{'Gene': 'mtnr1a'}
+{'Gene': 'grm3'}
+{'Gene': 'gabbr2'}
+{'Gene': 'adcyap1r1'}
+{'Gene': 'htr5b'}
+{'Gene': 'grm7'}
+{'Gene': 'chrm2'}
+{'Gene': 'ptgfr'}
+{'Gene': 'drd4'}
+{'Gene': 'htr1b'}
+{'Gene': 'drd2'}
+{'Gene': 'chrm4'}
+{'Gene': 'prkcg'}
+{'Gene': 'col6a4'}
+{'Gene': 'htr1d'}
+{'Gene': 'adora1'}
+{'Gene': 'acvr1b'}
+{'Gene': 'gabbr1'}
+{'Gene': 'casr'}
+{'Gene': 'prkacb'}
+{'Gene': 'cnr1'}
+{'Gene': 'htr7'}
+{'Gene': 'grm2'}
+{'Gene': 'serpinb2'}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+
+----------------------------------------------------------------------
+
+- flt4:
+{'Grau total': 43}
+{'Grau entrada': 39}
+{'Grau saida': 4}
+{'Gene': 'pgf'}
+{'Gene': 'fgf16'}
+{'Gene': 'plg'}
+{'Gene': 'hgf'}
+{'Gene': 'angpt4'}
+{'Gene': 'efna5'}
+{'Gene': 'fgf20'}
+{'Gene': 'kitl'}
+{'Gene': 'fgf1'}
+{'Gene': 'fgf12'}
+{'Gene': 'pdgfb'}
+{'Gene': 'tnxb'}
+{'Gene': 'igf1'}
+{'Gene': 'angpt2'}
+{'Gene': 'fgf13'}
+{'Gene': 'efna4'}
+{'Gene': 'fgf5'}
+{'Gene': 'fgf6'}
+{'Gene': 'grm2'}
+{'Gene': 'fgf7'}
+{'Gene': 'vegfd'}
+{'Gene': 'fgf2'}
+{'Gene': 'fgf9'}
+{'Gene': 'pdgfd'}
+{'Gene': 'fgf18'}
+{'Gene': 'ins2'}
+{'Gene': 'efna1'}
+{'Gene': 'vegfc'}
+{'Gene': 'fgf17'}
+{'Gene': 'fgf10'}
+{'Gene': 'fgf23'}
+{'Gene': 'pdgfc'}
+{'Gene': 'ins1'}
+{'Gene': 'fgf22'}
+{'Gene': 'efna2'}
+{'Gene': 'fgf8'}
+{'Gene': 'shc3'}
+{'Gene': 'shc2'}
+{'Gene': 'plcb2'}
+{'Gene': 'plcb3'}
+{'Gene': 'irs1'}
+{'Gene': 'tgfbr2'}
+{'Gene': 'ngf'}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+
+----------------------------------------------------------------------
+
+- kdr:
+{'Grau total': 42}
+{'Grau entrada': 31}
+{'Grau saida': 11}
+{'Gene': 'fgf16'}
+{'Gene': 'col4a6'}
+{'Gene': 'hgf'}
+{'Gene': 'efna5'}
+{'Gene': 'fgf20'}
+{'Gene': 'kitl'}
+{'Gene': 'fgf3'}
+{'Gene': 'fgf1'}
+{'Gene': 'pdgfb'}
+{'Gene': 'igf1'}
+{'Gene': 'angpt2'}
+{'Gene': 'fgf13'}
+{'Gene': 'fgf5'}
+{'Gene': 'fgf7'}
+{'Gene': 'vegfd'}
+{'Gene': 'fgf2'}
+{'Gene': 'pdgfd'}
+{'Gene': 'spata2l'}
+{'Gene': 'fgf18'}
+{'Gene': 'angpt1'}
+{'Gene': 'ins2'}
+{'Gene': 'efna1'}
+{'Gene': 'vegfc'}
+{'Gene': 'gab1'}
+{'Gene': 'jak2'}
+{'Gene': 'shc3'}
+{'Gene': 'plcb2'}
+{'Gene': 'plcb3'}
+{'Gene': 'plcb4'}
+{'Gene': 'irs1'}
+{'Gene': 'pik3ca'}
+{'Gene': 'pik3cb'}
+{'Gene': 'itgav'}
+{'Gene': 'itgb3'}
+{'Gene': 'fgf17'}
+{'Gene': 'fgf10'}
+{'Gene': 'fgf23'}
+{'Gene': 'pdgfc'}
+{'Gene': 'ins1'}
+{'Gene': 'fgf22'}
+{'Gene': 'fgf11'}
+{'Gene': 'fgf8'}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+
+----------------------------------------------------------------------
+
+- itga2:
+{'Grau total': 40}
+{'Grau entrada': 25}
+{'Grau saida': 15}
+{'Gene': 'tnxb'}
+{'Gene': 'vwf'}
+{'Gene': 'thbs1'}
+{'Gene': 'col3a1'}
+{'Gene': 'col2a1'}
+{'Gene': 'col4a1'}
+{'Gene': 'col6a3'}
+{'Gene': 'reln'}
+{'Gene': 'lamb3'}
+{'Gene': 'fn1'}
+{'Gene': 'lamb1'}
+{'Gene': 'vtn'}
+{'Gene': 'lama3'}
+{'Gene': 'lama1'}
+{'Gene': 'pik3r2'}
+{'Gene': 'prkacb'}
+{'Gene': 'col4a3'}
+{'Gene': 'lamc3'}
+{'Gene': 'lama5'}
+{'Gene': 'col9a2'}
+{'Gene': 'tnc'}
+{'Gene': 'col1a2'}
+{'Gene': 'hspg2'}
+{'Gene': 'col9a1'}
+{'Gene': 'col6a4'}
+{'Gene': 'thbs4'}
+{'Gene': 'lama4'}
+{'Gene': 'col6a1'}
+{'Gene': 'col4a5'}
+{'Gene': 'lama2'}
+{'Gene': 'lamc2'}
+{'Gene': 'col4a6'}
+{'Gene': 'col6a2'}
+{'Gene': 'lamb2'}
+{'Gene': 'col4a2'}
+{'Gene': 'col6a5'}
+{'Gene': 'col1a1'}
+{'Gene': 'wnt10b'}
+{'Gene': 'col6a6'}
+{'Gene': 'thbs2'}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+
+----------------------------------------------------------------------
+
+- pdgfrb:
+{'Grau total': 40}
+{'Grau entrada': 34}
+{'Grau saida': 6}
+{'Gene': 'pgf'}
+{'Gene': 'fgf16'}
+{'Gene': 'hgf'}
+{'Gene': 'fgf20'}
+{'Gene': 'kitl'}
+{'Gene': 'fgf3'}
+{'Gene': 'fgf1'}
+{'Gene': 'angpt2'}
+{'Gene': 'efna3'}
+{'Gene': 'fgf5'}
+{'Gene': 'tgfa'}
+{'Gene': 'fgf7'}
+{'Gene': 'vegfd'}
+{'Gene': 'fgf2'}
+{'Gene': 'plcg1'}
+{'Gene': 'shc3'}
+{'Gene': 'src'}
+{'Gene': 'shc2'}
+{'Gene': 'plcb2'}
+{'Gene': 'plcb3'}
+{'Gene': 'pik3r2'}
+{'Gene': 'irs1'}
+{'Gene': 'pdgfd'}
+{'Gene': 'il13'}
+{'Gene': 'fgf18'}
+{'Gene': 'angpt1'}
+{'Gene': 'ins2'}
+{'Gene': 'efna1'}
+{'Gene': 'vegfc'}
+{'Gene': 'fgf17'}
+{'Gene': 'fgf10'}
+{'Gene': 'fgf23'}
+{'Gene': 'gli2'}
+{'Gene': 'pdgfc'}
+{'Gene': 'ins1'}
+{'Gene': 'fgf22'}
+{'Gene': 'a2m'}
+{'Gene': 'efna2'}
+{'Gene': 'fgf11'}
+{'Gene': 'ngf'}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+
+----------------------------------------------------------------------
+
+- pdgfra:
+{'Grau total': 36}
+{'Grau entrada': 28}
+{'Grau saida': 8}
+{'Gene': 'pgf'}
+{'Gene': 'fgf16'}
+{'Gene': 'angpt4'}
+{'Gene': 'efna5'}
+{'Gene': 'fgf20'}
+{'Gene': 'pth1r'}
+{'Gene': 'shc3'}
+{'Gene': 'src'}
+{'Gene': 'plcb2'}
+{'Gene': 'plcb3'}
+{'Gene': 'pik3r1'}
+{'Gene': 'pik3r2'}
+{'Gene': 'irs1'}
+{'Gene': 'kitl'}
+{'Gene': 'fgf1'}
+{'Gene': 'fgf21'}
+{'Gene': 'ptgfr'}
+{'Gene': 'erbb2'}
+{'Gene': 'igf1'}
+{'Gene': 'fgf5'}
+{'Gene': 'tgfa'}
+{'Gene': 'fgf7'}
+{'Gene': 'vegfd'}
+{'Gene': 'fgf2'}
+{'Gene': 'fgf18'}
+{'Gene': 'angpt1'}
+{'Gene': 'ins2'}
+{'Gene': 'efna1'}
+{'Gene': 'vegfc'}
+{'Gene': 'fgf17'}
+{'Gene': 'fgf10'}
+{'Gene': 'fgf23'}
+{'Gene': 'pdgfc'}
+{'Gene': 'ins1'}
+{'Gene': 'fgf22'}
+{'Gene': 'fgf11'}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+
+----------------------------------------------------------------------
+
+- xcr1:
+{'Grau total': 32}
+{'Grau entrada': 32}
+{'Grau saida': 0}
+{'Gene': 'gm21586'}
+{'Gene': 'ccl3'}
+{'Gene': 'ccl5'}
+{'Gene': 'gm21541'}
+{'Gene': 'ccl19'}
+{'Gene': 'cxcl10'}
+{'Gene': 'gm13306'}
+{'Gene': 'ccl8'}
+{'Gene': 'cxcl3'}
+{'Gene': 'ccl22'}
+{'Gene': 'ccl11'}
+{'Gene': 'cxcl9'}
+{'Gene': 'ccl24'}
+{'Gene': 'gm20878'}
+{'Gene': 'cxcl13'}
+{'Gene': 'ccl17'}
+{'Gene': 'cxcl1'}
+{'Gene': 'ccl12'}
+{'Gene': 'ccl1'}
+{'Gene': 'ccl20'}
+{'Gene': 'ccl7'}
+{'Gene': 'ccr4'}
+{'Gene': 'gm10591'}
+{'Gene': 'ccl21b'}
+{'Gene': 'ccl4'}
+{'Gene': 'cxcl15'}
+{'Gene': 'cxcl5'}
+{'Gene': 'xcl1'}
+{'Gene': 'gm13304'}
+{'Gene': 'cxcl2'}
+{'Gene': 'ccl21a'}
+{'Gene': 'ppbp'}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+
+----------------------------------------------------------------------
+
+- ccr9:
+{'Grau total': 33}
+{'Grau entrada': 33}
+{'Grau saida': 0}
+{'Gene': 'gm21586'}
+{'Gene': 'ccl3'}
+{'Gene': 'ccl5'}
+{'Gene': 'gm21541'}
+{'Gene': 'ccl19'}
+{'Gene': 'cxcl10'}
+{'Gene': 'gm13306'}
+{'Gene': 'ccl8'}
+{'Gene': 'cxcl3'}
+{'Gene': 'ccl22'}
+{'Gene': 'ccl11'}
+{'Gene': 'cxcl9'}
+{'Gene': 'ccl24'}
+{'Gene': 'gm20878'}
+{'Gene': 'cxcl13'}
+{'Gene': 'ccl17'}
+{'Gene': 'ccl12'}
+{'Gene': 'ccl1'}
+{'Gene': 'ccl20'}
+{'Gene': 'cdkn2b'}
+{'Gene': 'plau'}
+{'Gene': 'gm10591'}
+{'Gene': 'ccl21b'}
+{'Gene': 'ccl28'}
+{'Gene': 'ccl4'}
+{'Gene': 'cxcl15'}
+{'Gene': 'cxcl5'}
+{'Gene': 'xcl1'}
+{'Gene': 'il25'}
+{'Gene': 'gm13304'}
+{'Gene': 'cxcl2'}
+{'Gene': 'ccl21a'}
+{'Gene': 'ppbp'}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+
+----------------------------------------------------------------------
+
+- ccr6:
+{'Grau total': 31}
+{'Grau entrada': 30}
+{'Grau saida': 1}
+{'Gene': 'gm21586'}
+{'Gene': 'ccl5'}
+{'Gene': 'gm21541'}
+{'Gene': 'ccl19'}
+{'Gene': 'cxcl10'}
+{'Gene': 'ccl8'}
+{'Gene': 'cxcl3'}
+{'Gene': 'ccl22'}
+{'Gene': 'ccl11'}
+{'Gene': 'cxcl9'}
+{'Gene': 'htr2b'}
+{'Gene': 'gm20878'}
+{'Gene': 'cxcl13'}
+{'Gene': 'ccl17'}
+{'Gene': 'cxcl1'}
+{'Gene': 'ccl12'}
+{'Gene': 'ccl1'}
+{'Gene': 'ccl20'}
+{'Gene': 'ccl7'}
+{'Gene': 'jak2'}
+{'Gene': 'gm10591'}
+{'Gene': 'csf2rb2'}
+{'Gene': 'ccl21b'}
+{'Gene': 'ccl4'}
+{'Gene': 'cxcl15'}
+{'Gene': 'cxcl5'}
+{'Gene': 'xcl1'}
+{'Gene': 'gm13304'}
+{'Gene': 'cxcl2'}
+{'Gene': 'ccl21a'}
+{'Gene': 'pik3r5'}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+
+----------------------------------------------------------------------
+
+- gnai1:
+{'Grau total': 37}
+{'Grau entrada': 6}
+{'Grau saida': 31}
+{'Gene': 'rgs9'}
+{'Gene': 'grm4'}
+{'Gene': 'grm3'}
+{'Gene': 'grm1'}
+{'Gene': 'adcy3'}
+{'Gene': 'adcy8'}
+{'Gene': 'adcy9'}
+{'Gene': 'adcy2'}
+{'Gene': 'adcy5'}
+{'Gene': 'adcy1'}
+{'Gene': 'pik3ca'}
+{'Gene': 'pik3r3'}
+{'Gene': 'plcb1'}
+{'Gene': 'mapk1'}
+{'Gene': 'prkce'}
+{'Gene': 'rapgef3'}
+{'Gene': 'rapgef4'}
+{'Gene': 'kcnj3'}
+{'Gene': 'kcnj6'}
+{'Gene': 'cacna1a'}
+{'Gene': 'cacna1b'}
+{'Gene': 'mapk10'}
+{'Gene': 'mapk8'}
+{'Gene': 'cacna1c'}
+{'Gene': 'cacna1d'}
+{'Gene': 'scn1a'}
+{'Gene': 'gabbr2'}
+{'Gene': 'ptger3'}
+{'Gene': 'grm7'}
+{'Gene': 'htr1b'}
+{'Gene': 'prkcb'}
+{'Gene': 'prkcg'}
+{'Gene': 'oprm1'}
+{'Gene': 'pak1'}
+{'Gene': 'adora1'}
+{'Gene': 'prkacb'}
+{'Gene': 'sstr2'}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+
+----------------------------------------------------------------------
+
+- gng8:
+{'Grau total': 42}
+{'Grau entrada': 1}
+{'Grau saida': 41}
+{'Gene': 'grm4'}
+{'Gene': 'axin2'}
+{'Gene': 'tlr4'}
+{'Gene': 'adcyap1r1'}
+{'Gene': 'grm7'}
+{'Gene': 'chrm2'}
+{'Gene': 'drd4'}
+{'Gene': 'htr1b'}
+{'Gene': 'drd2'}
+{'Gene': 'chrm4'}
+{'Gene': 'grm8'}
+{'Gene': 'htr1d'}
+{'Gene': 'kcnma1'}
+{'Gene': 'bmp6'}
+{'Gene': 'kl'}
+{'Gene': 'pik3ca'}
+{'Gene': 'pik3cd'}
+{'Gene': 'plcb2'}
+{'Gene': 'plcb3'}
+{'Gene': 'plcb4'}
+{'Gene': 'prex1'}
+{'Gene': 'pik3cb'}
+{'Gene': 'pik3r6'}
+{'Gene': 'pik3cg'}
+{'Gene': 'pik3r5'}
+{'Gene': 'adcy4'}
+{'Gene': 'adcy3'}
+{'Gene': 'adcy6'}
+{'Gene': 'adcy7'}
+{'Gene': 'adcy9'}
+{'Gene': 'adcy2'}
+{'Gene': 'adcy5'}
+{'Gene': 'adcy1'}
+{'Gene': 'kcnj5'}
+{'Gene': 'cacna1b'}
+{'Gene': 'mapk13'}
+{'Gene': 'cacna1c'}
+{'Gene': 'cacna1d'}
+{'Gene': 'cacna1s'}
+{'Gene': 'cacna1f'}
+{'Gene': 'scn1a'}
+{'Gene': 'htr7'}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+
+----------------------------------------------------------------------
+
+- ccr7:
+{'Grau total': 29}
+{'Grau entrada': 29}
+{'Grau saida': 0}
+{'Gene': 'gm21586'}
+{'Gene': 'ccl5'}
+{'Gene': 'gm21541'}
+{'Gene': 'ccl19'}
+{'Gene': 'ccl9'}
+{'Gene': 'cxcl10'}
+{'Gene': 'gm13306'}
+{'Gene': 'ccl8'}
+{'Gene': 'ccl27b'}
+{'Gene': 'cxcl3'}
+{'Gene': 'ccl22'}
+{'Gene': 'ccl11'}
+{'Gene': 'cxcl9'}
+{'Gene': 'ccl24'}
+{'Gene': 'gper1'}
+{'Gene': 'gm20878'}
+{'Gene': 'cxcl13'}
+{'Gene': 'ccl17'}
+{'Gene': 'cxcl1'}
+{'Gene': 'cxcl16'}
+{'Gene': 'ccl1'}
+{'Gene': 'ccl20'}
+{'Gene': 'ccl7'}
+{'Gene': 'gm10591'}
+{'Gene': 'ccl21b'}
+{'Gene': 'cxcl15'}
+{'Gene': 'xcl1'}
+{'Gene': 'gm13304'}
+{'Gene': 'ccl21a'}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+
+----------------------------------------------------------------------
+
+- col6a3:
+{'Grau total': 35}
+{'Grau entrada': 3}
+{'Grau saida': 32}
+{'Gene': 'ntf5'}
+{'Gene': 'itga9'}
+{'Gene': 'itga1'}
+{'Gene': 'itga2'}
+{'Gene': 'itga2b'}
+{'Gene': 'itga3'}
+{'Gene': 'itga4'}
+{'Gene': 'itga5'}
+{'Gene': 'itga6'}
+{'Gene': 'itga7'}
+{'Gene': 'itgav'}
+{'Gene': 'itgb1'}
+{'Gene': 'itgb3'}
+{'Gene': 'itgb5'}
+{'Gene': 'itgb6'}
+{'Gene': 'itgb7'}
+{'Gene': 'itgb4'}
+{'Gene': 'itga10'}
+{'Gene': 'itga8'}
+{'Gene': 'itga11'}
+{'Gene': 'itgb8'}
+{'Gene': 'cd44'}
+{'Gene': 'sdc1'}
+{'Gene': 'sdc4'}
+{'Gene': 'gp6'}
+{'Gene': 'epha2'}
+{'Gene': 'il2'}
+{'Gene': 'atg7'}
+{'Gene': 'kif3a'}
+{'Gene': 'fgf2'}
+{'Gene': 'fgf10'}
+{'Gene': 'hbegf'}
+{'Gene': 'mknk2'}
+{'Gene': 'smo'}
+{'Gene': 'limk1'}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+
+----------------------------------------------------------------------
+
+- gnao1:
+{'Grau total': 39}
+{'Grau entrada': 3}
+{'Grau saida': 36}
+{'Gene': 'mapk1'}
+{'Gene': 'adcy3'}
+{'Gene': 'adcy8'}
+{'Gene': 'adcy9'}
+{'Gene': 'cacna1a'}
+{'Gene': 'cacna1b'}
+{'Gene': 'kcnj3'}
+{'Gene': 'kcnj6'}
+{'Gene': 'mapk11'}
+{'Gene': 'adcy2'}
+{'Gene': 'adcy5'}
+{'Gene': 'mapk10'}
+{'Gene': 'adcy1'}
+{'Gene': 'plcb1'}
+{'Gene': 'plcb4'}
+{'Gene': 'cacna1c'}
+{'Gene': 'cacna1d'}
+{'Gene': 'cacna1f'}
+{'Gene': 'scn1a'}
+{'Gene': 'pla2g4b'}
+{'Gene': 'dvl3'}
+{'Gene': 'grm4'}
+{'Gene': 'grm3'}
+{'Gene': 'grm1'}
+{'Gene': 'gabbr2'}
+{'Gene': 'ephb1'}
+{'Gene': 'htr5b'}
+{'Gene': 'grm7'}
+{'Gene': 'prkcb'}
+{'Gene': 'chrm4'}
+{'Gene': 'prkcg'}
+{'Gene': 'oprm1'}
+{'Gene': 'htr1d'}
+{'Gene': 'gabbr1'}
+{'Gene': 'fzd3'}
+{'Gene': 'gria2'}
+{'Gene': 'prkacb'}
+{'Gene': 'grm6'}
+{'Gene': 'oxtr'}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+
+----------------------------------------------------------------------
+
+- itga2b:
+{'Grau total': 37}
+{'Grau entrada': 33}
+{'Grau saida': 4}
+{'Gene': 'tnxb'}
+{'Gene': 'vwf'}
+{'Gene': 'dab2ip'}
+{'Gene': 'col2a1'}
+{'Gene': 'col4a1'}
+{'Gene': 'col6a3'}
+{'Gene': 'reln'}
+{'Gene': 'lamb3'}
+{'Gene': 'fn1'}
+{'Gene': 'lamb1'}
+{'Gene': 'vtn'}
+{'Gene': 'tln1'}
+{'Gene': 'lama1'}
+{'Gene': 'col4a3'}
+{'Gene': 'lamc3'}
+{'Gene': 'thbs3'}
+{'Gene': 'lama5'}
+{'Gene': 'col9a2'}
+{'Gene': 'tnc'}
+{'Gene': 'col1a2'}
+{'Gene': 'fermt3'}
+{'Gene': 'col9a1'}
+{'Gene': 'thbs4'}
+{'Gene': 'lama4'}
+{'Gene': 'col6a1'}
+{'Gene': 'col4a5'}
+{'Gene': 'lama2'}
+{'Gene': 'lamc2'}
+{'Gene': 'col4a6'}
+{'Gene': 'col6a2'}
+{'Gene': 'lamb2'}
+{'Gene': 'col4a2'}
+{'Gene': 'col6a5'}
+{'Gene': 'col1a1'}
+{'Gene': 'tln2'}
+{'Gene': 'col6a6'}
+{'Gene': 'thbs2'}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+
+----------------------------------------------------------------------
+
+- itga7:
+{'Grau total': 33}
+{'Grau entrada': 29}
+{'Grau saida': 4}
+{'Gene': 'tnxb'}
+{'Gene': 'vwf'}
+{'Gene': 'pgf'}
+{'Gene': 'col2a1'}
+{'Gene': 'col4a1'}
+{'Gene': 'col6a3'}
+{'Gene': 'reln'}
+{'Gene': 'lamb3'}
+{'Gene': 'fn1'}
+{'Gene': 'lamb1'}
+{'Gene': 'vtn'}
+{'Gene': 'lama3'}
+{'Gene': 'lama1'}
+{'Gene': 'lamc3'}
+{'Gene': 'thbs3'}
+{'Gene': 'lama5'}
+{'Gene': 'tnc'}
+{'Gene': 'col1a2'}
+{'Gene': 'thbs4'}
+{'Gene': 'lama4'}
+{'Gene': 'col6a1'}
+{'Gene': 'col4a5'}
+{'Gene': 'lama2'}
+{'Gene': 'lamc2'}
+{'Gene': 'col4a6'}
+{'Gene': 'col6a2'}
+{'Gene': 'lamb2'}
+{'Gene': 'col9a3'}
+{'Gene': 'col4a2'}
+{'Gene': 'col6a5'}
+{'Gene': 'col1a1'}
+{'Gene': 'col6a6'}
+{'Gene': 'thbs2'}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+
+----------------------------------------------------------------------
+
+- ccr3:
+{'Grau total': 33}
+{'Grau entrada': 31}
+{'Grau saida': 2}
+{'Gene': 'gm21586'}
+{'Gene': 'ccl3'}
+{'Gene': 'ccl5'}
+{'Gene': 'clec4e'}
+{'Gene': 'gm21541'}
+{'Gene': 'ccl19'}
+{'Gene': 'ccl9'}
+{'Gene': 'cxcl10'}
+{'Gene': 'gm13306'}
+{'Gene': 'ccl8'}
+{'Gene': 'cxcl3'}
+{'Gene': 'ccl22'}
+{'Gene': 'ccl11'}
+{'Gene': 'cxcl9'}
+{'Gene': 'gm20878'}
+{'Gene': 'cxcl13'}
+{'Gene': 'ccl17'}
+{'Gene': 'cxcl1'}
+{'Gene': 'ccl12'}
+{'Gene': 'ccl1'}
+{'Gene': 'ccl20'}
+{'Gene': 'jak2'}
+{'Gene': 'ccl7'}
+{'Gene': 'gm10591'}
+{'Gene': 'ccl21b'}
+{'Gene': 'ccl4'}
+{'Gene': 'cxcl15'}
+{'Gene': 'cxcl5'}
+{'Gene': 'xcl1'}
+{'Gene': 'gm13304'}
+{'Gene': 'cxcl2'}
+{'Gene': 'ccl21a'}
+{'Gene': 'ppbp'}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+
+----------------------------------------------------------------------
+
+- itgb4:
+{'Grau total': 31}
+{'Grau entrada': 30}
+{'Grau saida': 1}
+{'Gene': 'tnxb'}
+{'Gene': 'vwf'}
+{'Gene': 'thbs1'}
+{'Gene': 'col2a1'}
+{'Gene': 'col4a1'}
+{'Gene': 'col6a3'}
+{'Gene': 'lamb3'}
+{'Gene': 'fn1'}
+{'Gene': 'lamb1'}
+{'Gene': 'lama3'}
+{'Gene': 'lama1'}
+{'Gene': 'lamc3'}
+{'Gene': 'lama5'}
+{'Gene': 'tnn'}
+{'Gene': 'src'}
+{'Gene': 'tnc'}
+{'Gene': 'col1a2'}
+{'Gene': 'col6a4'}
+{'Gene': 'thbs4'}
+{'Gene': 'col6a1'}
+{'Gene': 'col4a5'}
+{'Gene': 'lamc2'}
+{'Gene': 'col4a6'}
+{'Gene': 'col6a2'}
+{'Gene': 'lamb2'}
+{'Gene': 'col4a2'}
+{'Gene': 'col6a5'}
+{'Gene': 'a2m'}
+{'Gene': 'col1a1'}
+{'Gene': 'col6a6'}
+{'Gene': 'thbs2'}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+
+----------------------------------------------------------------------
+
+- cxcr3:
+{'Grau total': 28}
+{'Grau entrada': 28}
+{'Grau saida': 0}
+{'Gene': 'gm21586'}
+{'Gene': 'ccl5'}
+{'Gene': 'gm21541'}
+{'Gene': 'ccl19'}
+{'Gene': 'cxcl10'}
+{'Gene': 'gm13306'}
+{'Gene': 'ccl8'}
+{'Gene': 'ccl27b'}
+{'Gene': 'cxcl3'}
+{'Gene': 'ccl22'}
+{'Gene': 'ccl11'}
+{'Gene': 'cxcl9'}
+{'Gene': 'ccl24'}
+{'Gene': 'gm20878'}
+{'Gene': 'cxcl13'}
+{'Gene': 'ccl17'}
+{'Gene': 'cxcl1'}
+{'Gene': 'ccl1'}
+{'Gene': 'ccl20'}
+{'Gene': 'ccl7'}
+{'Gene': 'gm10591'}
+{'Gene': 'ccl21b'}
+{'Gene': 'cxcl15'}
+{'Gene': 'cxcl5'}
+{'Gene': 'xcl1'}
+{'Gene': 'gm13304'}
+{'Gene': 'cxcl2'}
+{'Gene': 'ccl21a'}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+
+----------------------------------------------------------------------
+
+- fgfr3:
+{'Grau total': 33}
+{'Grau entrada': 33}
+{'Grau saida': 0}
+{'Gene': 'pgf'}
+{'Gene': 'hgf'}
+{'Gene': 'angpt4'}
+{'Gene': 'fgf20'}
+{'Gene': 'wnt2b'}
+{'Gene': 'fgf15'}
+{'Gene': 'sh2d1a'}
+{'Gene': 'fgf3'}
+{'Gene': 'fgf1'}
+{'Gene': 'fgf21'}
+{'Gene': 'fgf4'}
+{'Gene': 'mpst'}
+{'Gene': 'efna3'}
+{'Gene': 'efna4'}
+{'Gene': 'klk1b4'}
+{'Gene': 'fgf5'}
+{'Gene': 'fgf6'}
+{'Gene': 'src'}
+{'Gene': 'shc2'}
+{'Gene': 'irs1'}
+{'Gene': 'pik3r2'}
+{'Gene': 'fgf7'}
+{'Gene': 'vegfd'}
+{'Gene': 'fgf9'}
+{'Gene': 'efna1'}
+{'Gene': 'fgf17'}
+{'Gene': 'fgf10'}
+{'Gene': 'fgf23'}
+{'Gene': 'ins1'}
+{'Gene': 'fgf22'}
+{'Gene': 'fgf11'}
+{'Gene': 'fgf8'}
+{'Gene': 'ngf'}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+
+----------------------------------------------------------------------
+
+- gng13:
+{'Grau total': 42}
+{'Grau entrada': 12}
+{'Grau saida': 30}
+{'Gene': 'mtnr1a'}
+{'Gene': 'grm3'}
+{'Gene': 'lpar4'}
+{'Gene': 'gabbr2'}
+{'Gene': 'itga11'}
+{'Gene': 'adcyap1r1'}
+{'Gene': 'chrm2'}
+{'Gene': 'drd4'}
+{'Gene': 'plcb2'}
+{'Gene': 'plcb3'}
+{'Gene': 'prex1'}
+{'Gene': 'pik3r6'}
+{'Gene': 'pik3cg'}
+{'Gene': 'pik3r5'}
+{'Gene': 'adcy4'}
+{'Gene': 'adcy6'}
+{'Gene': 'adcy7'}
+{'Gene': 'adcy8'}
+{'Gene': 'adcy10'}
+{'Gene': 'adcy1'}
+{'Gene': 'kcnj5'}
+{'Gene': 'kcnj6'}
+{'Gene': 'kcnj9'}
+{'Gene': 'cacna1b'}
+{'Gene': 'mapk13'}
+{'Gene': 'cacna1c'}
+{'Gene': 'cacna1s'}
+{'Gene': 'cacna1f'}
+{'Gene': 'htr1b'}
+{'Gene': 'drd2'}
+{'Gene': 'chrm4'}
+{'Gene': 'prkcg'}
+{'Gene': 'tas1r2'}
+{'Gene': 'htr1a'}
+{'Gene': 'htr1d'}
+{'Gene': 'csf3'}
+{'Gene': 'htr1f'}
+{'Gene': 'gm13769'}
+{'Gene': 'prkacb'}
+{'Gene': 'mtnr1b'}
+{'Gene': 'cnr1'}
+{'Gene': 'itgb3'}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+
+----------------------------------------------------------------------
+
+- gng3:
+{'Grau total': 39}
+{'Grau entrada': 8}
+{'Grau saida': 31}
+{'Gene': 'grm4'}
+{'Gene': 'mtnr1a'}
+{'Gene': 'grm3'}
+{'Gene': 'gabbr2'}
+{'Gene': 'adcyap1r1'}
+{'Gene': 'grm7'}
+{'Gene': 'chrm2'}
+{'Gene': 'drd4'}
+{'Gene': 'htr1b'}
+{'Gene': 'drd2'}
+{'Gene': 'chrm4'}
+{'Gene': 'prkcg'}
+{'Gene': 'grm8'}
+{'Gene': 'htr1d'}
+{'Gene': 'plcb4'}
+{'Gene': 'adcy3'}
+{'Gene': 'adcy8'}
+{'Gene': 'camk4'}
+{'Gene': 'mras'}
+{'Gene': 'adcy2'}
+{'Gene': 'adcy5'}
+{'Gene': 'adcy1'}
+{'Gene': 'kcnj3'}
+{'Gene': 'kcnj5'}
+{'Gene': 'kcnj6'}
+{'Gene': 'kcnj9'}
+{'Gene': 'cacna1b'}
+{'Gene': 'mapk10'}
+{'Gene': 'cacna1c'}
+{'Gene': 'cacna1d'}
+{'Gene': 'cacna1f'}
+{'Gene': 'scn1a'}
+{'Gene': 'gabbr1'}
+{'Gene': 'htr1f'}
+{'Gene': 'gzmb'}
+{'Gene': 'prkacb'}
+{'Gene': 'cnr1'}
+{'Gene': 'htr7'}
+{'Gene': 'grm2'}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+
+----------------------------------------------------------------------
+
+- itgb3:
+{'Grau total': 31}
+{'Grau entrada': 29}
+{'Grau saida': 2}
+{'Gene': 'tnxb'}
+{'Gene': 'vwf'}
+{'Gene': 'col2a1'}
+{'Gene': 'col4a1'}
+{'Gene': 'col6a3'}
+{'Gene': 'fn1'}
+{'Gene': 'lamb1'}
+{'Gene': 'vtn'}
+{'Gene': 'tln1'}
+{'Gene': 'lama1'}
+{'Gene': 'tnc'}
+{'Gene': 'col1a2'}
+{'Gene': 'fermt3'}
+{'Gene': 'col9a1'}
+{'Gene': 'col6a4'}
+{'Gene': 'thbs4'}
+{'Gene': 'plcb2'}
+{'Gene': 'plcb3'}
+{'Gene': 'col6a1'}
+{'Gene': 'kdr'}
+{'Gene': 'lamc2'}
+{'Gene': 'col4a6'}
+{'Gene': 'col6a2'}
+{'Gene': 'lamb2'}
+{'Gene': 'col4a2'}
+{'Gene': 'col6a5'}
+{'Gene': 'col1a1'}
+{'Gene': 'tln2'}
+{'Gene': 'gng13'}
+{'Gene': 'col6a6'}
+{'Gene': 'thbs2'}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+
+----------------------------------------------------------------------
+
+- il5:
+{'Grau total': 33}
+{'Grau entrada': 1}
+{'Grau saida': 32}
+{'Gene': 'csf2rb'}
+{'Gene': 'csf2rb2'}
+{'Gene': 'il5ra'}
+{'Gene': 'gm13305'}
+{'Gene': 'csf3r'}
+{'Gene': 'epor'}
+{'Gene': 'il10ra'}
+{'Gene': 'il11ra2'}
+{'Gene': 'il12rb1'}
+{'Gene': 'il13ra1'}
+{'Gene': 'il13ra2'}
+{'Gene': 'il2ra'}
+{'Gene': 'il2rb'}
+{'Gene': 'il7r'}
+{'Gene': 'il9r'}
+{'Gene': 'lepr'}
+{'Gene': 'lifr'}
+{'Gene': 'mpl'}
+{'Gene': 'osmr'}
+{'Gene': 'prlr'}
+{'Gene': 'il23r'}
+{'Gene': 'il22ra1'}
+{'Gene': 'il20ra'}
+{'Gene': 'ifnlr1'}
+{'Gene': 'il27ra'}
+{'Gene': 'crlf2'}
+{'Gene': 'il21r'}
+{'Gene': 'mlkl'}
+{'Gene': 'hcls1'}
+{'Gene': 'kitl'}
+{'Gene': 'tbx21'}
+{'Gene': 'syk'}
+{'Gene': 'adora3'}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+
+----------------------------------------------------------------------
+
+- cxcr6:
+{'Grau total': 27}
+{'Grau entrada': 26}
+{'Grau saida': 1}
+{'Gene': 'gm21586'}
+{'Gene': 'ccl5'}
+{'Gene': 'gm21541'}
+{'Gene': 'ccl19'}
+{'Gene': 'cxcl10'}
+{'Gene': 'gm13306'}
+{'Gene': 'ccl8'}
+{'Gene': 'ccl27b'}
+{'Gene': 'cxcl3'}
+{'Gene': 'ccl22'}
+{'Gene': 'ccl11'}
+{'Gene': 'cxcl9'}
+{'Gene': 'gm20878'}
+{'Gene': 'cxcl13'}
+{'Gene': 'ccl17'}
+{'Gene': 'cxcl1'}
+{'Gene': 'ccl12'}
+{'Gene': 'ccl7'}
+{'Gene': 'gm10591'}
+{'Gene': 'ccl21b'}
+{'Gene': 'ccl4'}
+{'Gene': 'xcl1'}
+{'Gene': 'gm13304'}
+{'Gene': 'jak3'}
+{'Gene': 'cxcl2'}
+{'Gene': 'ccl21a'}
+{'Gene': 'ppbp'}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+
+----------------------------------------------------------------------
+
+- camk2a:
+{'Grau total': 30}
+{'Grau entrada': 6}
+{'Grau saida': 24}
+{'Gene': 'grm2'}
+{'Gene': 'calm4'}
+{'Gene': 'igf2'}
+{'Gene': 'calml4'}
+{'Gene': 'fgf12'}
+{'Gene': 'adcy8'}
+{'Gene': 'adcy5'}
+{'Gene': 'adcy1'}
+{'Gene': 'cacna1c'}
+{'Gene': 'cacna1s'}
+{'Gene': 'cacna2d1'}
+{'Gene': 'cacnb1'}
+{'Gene': 'cacnb4'}
+{'Gene': 'cacng1'}
+{'Gene': 'cacng2'}
+{'Gene': 'ryr2'}
+{'Gene': 'scn1b'}
+{'Gene': 'scn5a'}
+{'Gene': 'cacna2d4'}
+{'Gene': 'scn4b'}
+{'Gene': 'cacng3'}
+{'Gene': 'cacna1f'}
+{'Gene': 'cacna2d2'}
+{'Gene': 'cacng8'}
+{'Gene': 'grm5'}
+{'Gene': 'gria1'}
+{'Gene': 'gria2'}
+{'Gene': 'grm1'}
+{'Gene': 'trpv1'}
+{'Gene': 'slc6a3'}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+
+----------------------------------------------------------------------
+
+- lama1:
+{'Grau total': 28}
+{'Grau entrada': 2}
+{'Grau saida': 26}
+{'Gene': 'tfap4'}
+{'Gene': 'sema3c'}
+{'Gene': 'smad6'}
+{'Gene': 'itga1'}
+{'Gene': 'itga2'}
+{'Gene': 'itga2b'}
+{'Gene': 'itga3'}
+{'Gene': 'itga4'}
+{'Gene': 'itga5'}
+{'Gene': 'itga6'}
+{'Gene': 'itga7'}
+{'Gene': 'itgav'}
+{'Gene': 'itgb1'}
+{'Gene': 'itgb3'}
+{'Gene': 'itgb5'}
+{'Gene': 'itgb6'}
+{'Gene': 'itgb7'}
+{'Gene': 'itgb4'}
+{'Gene': 'itga10'}
+{'Gene': 'itga8'}
+{'Gene': 'itga11'}
+{'Gene': 'itgb8'}
+{'Gene': 'dag1'}
+{'Gene': 'sv2b'}
+{'Gene': 'casp12'}
+{'Gene': 'wnt2b'}
+{'Gene': 'birc5'}
+{'Gene': 'prkag3'}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+
+----------------------------------------------------------------------
+
+- met:
+{'Grau total': 31}
+{'Grau entrada': 24}
+{'Grau saida': 7}
+{'Gene': 'pgf'}
+{'Gene': 'fgf16'}
+{'Gene': 'hgf'}
+{'Gene': 'fgf20'}
+{'Gene': 'kitl'}
+{'Gene': 'fgf1'}
+{'Gene': 'igf1'}
+{'Gene': 'fgf13'}
+{'Gene': 'fgf5'}
+{'Gene': 'fgf7'}
+{'Gene': 'vegfd'}
+{'Gene': 'fgf2'}
+{'Gene': 'fgf9'}
+{'Gene': 'erbb3'}
+{'Gene': 'jak2'}
+{'Gene': 'plcg2'}
+{'Gene': 'plcb2'}
+{'Gene': 'plcb3'}
+{'Gene': 'irs1'}
+{'Gene': 'pik3r2'}
+{'Gene': 'fnip2'}
+{'Gene': 'fgf18'}
+{'Gene': 'ins2'}
+{'Gene': 'efna1'}
+{'Gene': 'vegfc'}
+{'Gene': 'fgf10'}
+{'Gene': 'fgf23'}
+{'Gene': 'pdgfc'}
+{'Gene': 'ins1'}
+{'Gene': 'fgf22'}
+{'Gene': 'gper1'}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+
+----------------------------------------------------------------------
+
+- tnc:
+{'Grau total': 27}
+{'Grau entrada': 4}
+{'Grau saida': 23}
+{'Gene': 'calm4'}
+{'Gene': 'cxcl13'}
+{'Gene': 'itga1'}
+{'Gene': 'itga2'}
+{'Gene': 'itga2b'}
+{'Gene': 'itga3'}
+{'Gene': 'itga4'}
+{'Gene': 'itga5'}
+{'Gene': 'itga6'}
+{'Gene': 'itga7'}
+{'Gene': 'itgav'}
+{'Gene': 'itgb1'}
+{'Gene': 'itgb3'}
+{'Gene': 'itgb5'}
+{'Gene': 'itgb6'}
+{'Gene': 'itgb7'}
+{'Gene': 'itgb4'}
+{'Gene': 'itga10'}
+{'Gene': 'itga11'}
+{'Gene': 'itgb8'}
+{'Gene': 'sdc1'}
+{'Gene': 'sdc4'}
+{'Gene': 'apc2'}
+{'Gene': 'cxcl12'}
+{'Gene': 'mrc2'}
+{'Gene': 'tgfb2'}
+{'Gene': 'fgf23'}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+
+----------------------------------------------------------------------
+
+- cacna1f:
+{'Grau total': 28}
+{'Grau entrada': 25}
+{'Grau saida': 3}
+{'Gene': 'gnao1'}
+{'Gene': 'ppp2r2c'}
+{'Gene': 'htr2c'}
+{'Gene': 'gnb3'}
+{'Gene': 'gng4'}
+{'Gene': 'camk2g'}
+{'Gene': 'kcnmb4'}
+{'Gene': 'htr2b'}
+{'Gene': 'prkg2'}
+{'Gene': 'gng7'}
+{'Gene': 'camk2b'}
+{'Gene': 'gng13'}
+{'Gene': 'gm5741'}
+{'Gene': 'kcnmb3'}
+{'Gene': 'ppp2r2b'}
+{'Gene': 'kcnma1'}
+{'Gene': 'gng2'}
+{'Gene': 'kcnu1'}
+{'Gene': 'gng3'}
+{'Gene': 'kcnmb2'}
+{'Gene': 'htr2a'}
+{'Gene': 'gnb5'}
+{'Gene': 'prkacb'}
+{'Gene': 'kcnmb1'}
+{'Gene': 'gngt1'}
+{'Gene': 'gng8'}
+{'Gene': 'oxtr'}
+{'Gene': 'camk2a'}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+
+----------------------------------------------------------------------
+
+- il10rb:
+{'Grau total': 26}
+{'Grau entrada': 0}
+{'Grau saida': 26}
+{'Gene': 'ifna4'}
+{'Gene': 'il24'}
+{'Gene': 'ifna13'}
+{'Gene': 'il3'}
+{'Gene': 'ifna5'}
+{'Gene': 'ifna1'}
+{'Gene': 'ifna12'}
+{'Gene': 'ifnb1'}
+{'Gene': 'il13'}
+{'Gene': 'ifna7'}
+{'Gene': 'prl'}
+{'Gene': 'lep'}
+{'Gene': 'ifnl3'}
+{'Gene': 'il9'}
+{'Gene': 'ifna14'}
+{'Gene': 'ifne'}
+{'Gene': 'ifnab'}
+{'Gene': 'epo'}
+{'Gene': 'ifna15'}
+{'Gene': 'il21'}
+{'Gene': 'ifna2'}
+{'Gene': 'ifna11'}
+{'Gene': 'il20'}
+{'Gene': 'ifnl2'}
+{'Gene': 'ifna6'}
+{'Gene': 'ifna9'}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+
+----------------------------------------------------------------------
+
+- fn1:
+{'Grau total': 27}
+{'Grau entrada': 4}
+{'Grau saida': 23}
+{'Gene': 'itga1'}
+{'Gene': 'itga2'}
+{'Gene': 'itga2b'}
+{'Gene': 'itga3'}
+{'Gene': 'itga4'}
+{'Gene': 'itga5'}
+{'Gene': 'itga6'}
+{'Gene': 'itga7'}
+{'Gene': 'itgav'}
+{'Gene': 'itgb1'}
+{'Gene': 'itgb3'}
+{'Gene': 'itgb5'}
+{'Gene': 'itgb6'}
+{'Gene': 'itgb7'}
+{'Gene': 'itgb4'}
+{'Gene': 'itga10'}
+{'Gene': 'itga8'}
+{'Gene': 'itga11'}
+{'Gene': 'itgb8'}
+{'Gene': 'cd44'}
+{'Gene': 'sdc1'}
+{'Gene': 'sdc4'}
+{'Gene': 'sdc2'}
+{'Gene': 'ctf1'}
+{'Gene': 'fgf5'}
+{'Gene': 'axin2'}
+{'Gene': 'ptpn1'}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+
+----------------------------------------------------------------------
+
+- ccr8:
+{'Grau total': 25}
+{'Grau entrada': 23}
+{'Grau saida': 2}
+{'Gene': 'gm21586'}
+{'Gene': 'ccl3'}
+{'Gene': 'ccl5'}
+{'Gene': 'gm21541'}
+{'Gene': 'gm13306'}
+{'Gene': 'ccl8'}
+{'Gene': 'cxcl3'}
+{'Gene': 'ccl22'}
+{'Gene': 'ccl11'}
+{'Gene': 'cxcl9'}
+{'Gene': 'gm20878'}
+{'Gene': 'cxcl13'}
+{'Gene': 'ccl17'}
+{'Gene': 'cxcl1'}
+{'Gene': 'ccl1'}
+{'Gene': 'ccl20'}
+{'Gene': 'ccl7'}
+{'Gene': 'gm10591'}
+{'Gene': 'ccl21b'}
+{'Gene': 'cxcl15'}
+{'Gene': 'cxcl5'}
+{'Gene': 'xcl1'}
+{'Gene': 'gm13304'}
+{'Gene': 'cxcl2'}
+{'Gene': 'ccl21a'}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+
+----------------------------------------------------------------------
+
+- cx3cr1:
+{'Grau total': 28}
+{'Grau entrada': 27}
+{'Grau saida': 1}
+{'Gene': 'ccl3'}
+{'Gene': 'ccl5'}
+{'Gene': 'ccl9'}
+{'Gene': 'cxcl10'}
+{'Gene': 'ccl8'}
+{'Gene': 'cxcl3'}
+{'Gene': 'ccl22'}
+{'Gene': 'ccl11'}
+{'Gene': 'ccl24'}
+{'Gene': 'gm20878'}
+{'Gene': 'cxcl13'}
+{'Gene': 'ccl17'}
+{'Gene': 'cxcl1'}
+{'Gene': 'ccl12'}
+{'Gene': 'ccl1'}
+{'Gene': 'ccl20'}
+{'Gene': 'ccl7'}
+{'Gene': 'ccl2'}
+{'Gene': 'gm10591'}
+{'Gene': 'ccl21b'}
+{'Gene': 'pf4'}
+{'Gene': 'jak3'}
+{'Gene': 'ccl4'}
+{'Gene': 'xcl1'}
+{'Gene': 'gm13304'}
+{'Gene': 'cxcl2'}
+{'Gene': 'ccl21a'}
+{'Gene': 'ppbp'}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+
+----------------------------------------------------------------------
+
+- gnaq:
+{'Grau total': 38}
+{'Grau entrada': 38}
+{'Grau saida': 0}
+{'Gene': 'adra2b'}
+{'Gene': 'tbxa2r'}
+{'Gene': 'fzd9'}
+{'Gene': 'adra2c'}
+{'Gene': 's1pr2'}
+{'Gene': 'fzd5'}
+{'Gene': 'fzd10'}
+{'Gene': 'agtr1a'}
+{'Gene': 'htr2b'}
+{'Gene': 'fzd7'}
+{'Gene': 'cckbr'}
+{'Gene': 'adra2a'}
+{'Gene': 'ptger1'}
+{'Gene': 'chrm2'}
+{'Gene': 'fzd1'}
+{'Gene': 'chrm3'}
+{'Gene': 'fzd4'}
+{'Gene': 'chrm1'}
+{'Gene': 'cckar'}
+{'Gene': 'fzd8'}
+{'Gene': 'f2rl3'}
+{'Gene': 'ednrb'}
+{'Gene': 'plcb3'}
+{'Gene': 'pla2g4b'}
+{'Gene': 'pla2g12a'}
+{'Gene': 'pla2g4d'}
+{'Gene': 'prkab2'}
+{'Gene': 'mras'}
+{'Gene': 'dvl1'}
+{'Gene': 'kcnj12'}
+{'Gene': 'kcnj4'}
+{'Gene': 'drd5'}
+{'Gene': 'lpar5'}
+{'Gene': 'ntsr1'}
+{'Gene': 'p2ry1'}
+{'Gene': 'fzd6'}
+{'Gene': 'lpar2'}
+{'Gene': 'bmp2'}
+{}
+{}
+{}
+{}
+
+----------------------------------------------------------------------
+
+- gngt1:
+{'Grau total': 33}
+{'Grau entrada': 4}
+{'Grau saida': 29}
+{'Gene': 'grm4'}
+{'Gene': 'mtnr1a'}
+{'Gene': 'adcyap1r1'}
+{'Gene': 'chrm2'}
+{'Gene': 'htr1b'}
+{'Gene': 'drd2'}
+{'Gene': 'agtr1a'}
+{'Gene': 'chrm4'}
+{'Gene': 'prkcg'}
+{'Gene': 'htr1d'}
+{'Gene': 'prkca'}
+{'Gene': 'ltb4r2'}
+{'Gene': 'htr1f'}
+{'Gene': 'rho'}
+{'Gene': 'prkacb'}
+{'Gene': 'pik3cd'}
+{'Gene': 'pik3cb'}
+{'Gene': 'pik3r6'}
+{'Gene': 'pik3cg'}
+{'Gene': 'pik3r5'}
+{'Gene': 'adcy6'}
+{'Gene': 'adcy8'}
+{'Gene': 'prkce'}
+{'Gene': 'adcy5'}
+{'Gene': 'adcy1'}
+{'Gene': 'kcnj5'}
+{'Gene': 'kcnj9'}
+{'Gene': 'cacna1s'}
+{'Gene': 'cacna1f'}
+{'Gene': 'scn1a'}
+{'Gene': 'pde6b'}
+{'Gene': 'grm2'}
+{'Gene': 'htr5a'}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+
+----------------------------------------------------------------------
+
+- lamb1:
+{'Grau total': 24}
+{'Grau entrada': 2}
+{'Grau saida': 22}
+{'Gene': 'atr'}
+{'Gene': 'itga9'}
+{'Gene': 'itga1'}
+{'Gene': 'itga2'}
+{'Gene': 'itga2b'}
+{'Gene': 'itga3'}
+{'Gene': 'itga4'}
+{'Gene': 'itga5'}
+{'Gene': 'itga6'}
+{'Gene': 'itga7'}
+{'Gene': 'itgav'}
+{'Gene': 'itgb1'}
+{'Gene': 'itgb3'}
+{'Gene': 'itgb5'}
+{'Gene': 'itgb6'}
+{'Gene': 'itgb7'}
+{'Gene': 'itgb4'}
+{'Gene': 'itga10'}
+{'Gene': 'itga8'}
+{'Gene': 'itga11'}
+{'Gene': 'itgb8'}
+{'Gene': 'cd44'}
+{'Gene': 'dag1'}
+{'Gene': 'map3k7'}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+
+----------------------------------------------------------------------
+
+- col1a2:
+{'Grau total': 25}
+{'Grau entrada': 1}
+{'Grau saida': 24}
+{'Gene': 'naip5'}
+{'Gene': 'col9a1'}
+{'Gene': 'itga1'}
+{'Gene': 'itga2'}
+{'Gene': 'itga2b'}
+{'Gene': 'itga3'}
+{'Gene': 'itga4'}
+{'Gene': 'itga5'}
+{'Gene': 'itga6'}
+{'Gene': 'itga7'}
+{'Gene': 'itgav'}
+{'Gene': 'itgb1'}
+{'Gene': 'itgb3'}
+{'Gene': 'itgb5'}
+{'Gene': 'itgb6'}
+{'Gene': 'itgb7'}
+{'Gene': 'itgb4'}
+{'Gene': 'itga10'}
+{'Gene': 'itga8'}
+{'Gene': 'itga11'}
+{'Gene': 'itgb8'}
+{'Gene': 'cd44'}
+{'Gene': 'sdc1'}
+{'Gene': 'ms4a2'}
+{'Gene': 'angpt1'}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+
+----------------------------------------------------------------------
+
+- mapk1:
+{'Grau total': 33}
+{'Grau entrada': 30}
+{'Grau saida': 3}
+{'Gene': 'camk2d'}
+{'Gene': 'gnao1'}
+{'Gene': 'akt2'}
+{'Gene': 'map2k2'}
+{'Gene': 'camk2g'}
+{'Gene': 'ptk2'}
+{'Gene': 'prkce'}
+{'Gene': 'gnai1'}
+{'Gene': 'braf'}
+{'Gene': 'rad50'}
+{'Gene': 'map3k7'}
+{'Gene': 'bmpr2'}
+{'Gene': 'camk2b'}
+{'Gene': 'rac1'}
+{'Gene': 'gnai3'}
+{'Gene': 'map2k1'}
+{'Gene': 'ppp2ca'}
+{'Gene': 'gng2'}
+{'Gene': 'camk4'}
+{'Gene': 'ets2'}
+{'Gene': 'foxo1'}
+{'Gene': 'rps6ka3'}
+{'Gene': 'rps6ka2'}
+{'Gene': 'rps6ka5'}
+{'Gene': 'slc9a1'}
+{'Gene': 'rps6kb1'}
+{'Gene': 'atf2'}
+{'Gene': 'smad2'}
+{'Gene': 'gnb5'}
+{'Gene': 'prkacb'}
+{'Gene': 'bmpr1a'}
+{'Gene': 'prkcz'}
+{'Gene': 'ptpn6'}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+
+----------------------------------------------------------------------
+
+- ccr1l1:
+{'Grau total': 29}
+{'Grau entrada': 29}
+{'Grau saida': 0}
+{'Gene': 'gm21586'}
+{'Gene': 'ccl3'}
+{'Gene': 'gm21541'}
+{'Gene': 'ccl19'}
+{'Gene': 'cxcl10'}
+{'Gene': 'gm13306'}
+{'Gene': 'ccl8'}
+{'Gene': 'ccl27b'}
+{'Gene': 'cxcl3'}
+{'Gene': 'ccl22'}
+{'Gene': 'ccl11'}
+{'Gene': 'cxcl9'}
+{'Gene': 'gm20878'}
+{'Gene': 'cxcl13'}
+{'Gene': 'ccl17'}
+{'Gene': 'cxcl1'}
+{'Gene': 'ccl12'}
+{'Gene': 'ccl1'}
+{'Gene': 'ccl20'}
+{'Gene': 'ccl7'}
+{'Gene': 'gm10591'}
+{'Gene': 'ccl21b'}
+{'Gene': 'cxcl15'}
+{'Gene': 'cxcl5'}
+{'Gene': 'xcl1'}
+{'Gene': 'gm13304'}
+{'Gene': 'cxcl2'}
+{'Gene': 'ccl21a'}
+{'Gene': 'ppbp'}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+
+----------------------------------------------------------------------
+
+- il2rb:
+{'Grau total': 31}
+{'Grau entrada': 26}
+{'Grau saida': 5}
+{'Gene': 'il2'}
+{'Gene': 'ifna4'}
+{'Gene': 'il24'}
+{'Gene': 'ifnk'}
+{'Gene': 'il5'}
+{'Gene': 'tslp'}
+{'Gene': 'ifna13'}
+{'Gene': 'ifna5'}
+{'Gene': 'ifna12'}
+{'Gene': 'stat5a'}
+{'Gene': 'stat5b'}
+{'Gene': 'pik3cd'}
+{'Gene': 'osm'}
+{'Gene': 'il13'}
+{'Gene': 'ifng'}
+{'Gene': 'gh'}
+{'Gene': 'lep'}
+{'Gene': 'atg4d'}
+{'Gene': 'ifnab'}
+{'Gene': 'epo'}
+{'Gene': 'il19'}
+{'Gene': 'il21'}
+{'Gene': 'lat'}
+{'Gene': 'ifna2'}
+{'Gene': 'thpo'}
+{'Gene': 'csf3'}
+{'Gene': 'il6'}
+{'Gene': 'csf2'}
+{'Gene': 'ifna6'}
+{'Gene': 'il23a'}
+{'Gene': 'il22'}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+
+----------------------------------------------------------------------
+
+- col6a5:
+{'Grau total': 26}
+{'Grau entrada': 2}
+{'Grau saida': 24}
+{'Gene': 'il1a'}
+{'Gene': 'hdac6'}
+{'Gene': 'limk1'}
+{'Gene': 'hdac5'}
+{'Gene': 'itga9'}
+{'Gene': 'itga1'}
+{'Gene': 'itga2'}
+{'Gene': 'itga2b'}
+{'Gene': 'itga3'}
+{'Gene': 'itga4'}
+{'Gene': 'itga5'}
+{'Gene': 'itga6'}
+{'Gene': 'itga7'}
+{'Gene': 'itgav'}
+{'Gene': 'itgb3'}
+{'Gene': 'itgb5'}
+{'Gene': 'itgb6'}
+{'Gene': 'itgb7'}
+{'Gene': 'itgb4'}
+{'Gene': 'itga10'}
+{'Gene': 'itga8'}
+{'Gene': 'itga11'}
+{'Gene': 'itgb8'}
+{'Gene': 'sdc1'}
+{'Gene': 'gp6'}
+{'Gene': 'atp6v0a4'}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+
+----------------------------------------------------------------------
+
+- ins2:
+{'Grau total': 40}
+{'Grau entrada': 1}
+{'Grau saida': 39}
+{'Gene': 'il22'}
+{'Gene': 'c4b'}
+{'Gene': 'adra1b'}
+{'Gene': 'csf1r'}
+{'Gene': 'egfr'}
+{'Gene': 'epha2'}
+{'Gene': 'fgfr1'}
+{'Gene': 'fgfr2'}
+{'Gene': 'fgfr4'}
+{'Gene': 'flt1'}
+{'Gene': 'flt4'}
+{'Gene': 'igf1r'}
+{'Gene': 'insr'}
+{'Gene': 'kdr'}
+{'Gene': 'kit'}
+{'Gene': 'met'}
+{'Gene': 'ngfr'}
+{'Gene': 'pdgfra'}
+{'Gene': 'pdgfrb'}
+{'Gene': 'tek'}
+{'Gene': 'erbb2'}
+{'Gene': 'hras'}
+{'Gene': 'irs1'}
+{'Gene': 'irs3'}
+{'Gene': 'kras'}
+{'Gene': 'mras'}
+{'Gene': 'nras'}
+{'Gene': 'rras'}
+{'Gene': 'irs2'}
+{'Gene': 'rras2'}
+{'Gene': 'rps6ka3'}
+{'Gene': 'rps6ka1'}
+{'Gene': 'rps6ka2'}
+{'Gene': 'srebf1'}
+{'Gene': 'nr1h3'}
+{'Gene': 'nr1h2'}
+{'Gene': 'rps6ka6'}
+{'Gene': 'crhr1'}
+{'Gene': 'cblb'}
+{'Gene': 'plcb2'}
+
+----------------------------------------------------------------------
+
+- ins1:
+{'Grau total': 39}
+{'Grau entrada': 1}
+{'Grau saida': 38}
+{'Gene': 'gnb3'}
+{'Gene': 'gnat1'}
+{'Gene': 'cdkn1a'}
+{'Gene': 'csf1r'}
+{'Gene': 'egfr'}
+{'Gene': 'epha2'}
+{'Gene': 'fgfr1'}
+{'Gene': 'fgfr2'}
+{'Gene': 'fgfr3'}
+{'Gene': 'fgfr4'}
+{'Gene': 'flt1'}
+{'Gene': 'flt4'}
+{'Gene': 'igf1r'}
+{'Gene': 'insr'}
+{'Gene': 'kdr'}
+{'Gene': 'kit'}
+{'Gene': 'met'}
+{'Gene': 'ngfr'}
+{'Gene': 'pdgfra'}
+{'Gene': 'pdgfrb'}
+{'Gene': 'tek'}
+{'Gene': 'erbb2'}
+{'Gene': 'hras'}
+{'Gene': 'irs1'}
+{'Gene': 'irs3'}
+{'Gene': 'mras'}
+{'Gene': 'nras'}
+{'Gene': 'rras'}
+{'Gene': 'irs2'}
+{'Gene': 'rras2'}
+{'Gene': 'rps6ka3'}
+{'Gene': 'rps6ka1'}
+{'Gene': 'srebf1'}
+{'Gene': 'nr1h3'}
+{'Gene': 'nr1h2'}
+{'Gene': 'rps6ka6'}
+{'Gene': 'insrr'}
+{'Gene': 'stk11'}
+{'Gene': 'ptprj'}
+{}
+
+----------------------------------------------------------------------
+
+- plcb2:
+{'Grau total': 30}
+{'Grau entrada': 19}
+{'Grau saida': 11}
+{'Gene': 'avpr1a'}
+{'Gene': 'lpar3'}
+{'Gene': 'gnb3'}
+{'Gene': 'itgb6'}
+{'Gene': 'grm4'}
+{'Gene': 'gng4'}
+{'Gene': 'pdgfra'}
+{'Gene': 'gna14'}
+{'Gene': 'nod1'}
+{'Gene': 'agtr1a'}
+{'Gene': 'avpr2'}
+{'Gene': 'gna15'}
+{'Gene': 'gng13'}
+{'Gene': 'f2r'}
+{'Gene': 'pdgfrb'}
+{'Gene': 'itgb3'}
+{'Gene': 'met'}
+{'Gene': 'fgfr4'}
+{'Gene': 'card11'}
+{'Gene': 'kcnk3'}
+{'Gene': 'prkcg'}
+{'Gene': 'bmp6'}
+{'Gene': 'kit'}
+{'Gene': 'kdr'}
+{'Gene': 'insr'}
+{'Gene': 'gnb5'}
+{'Gene': 'cxcr2'}
+{'Gene': 'gng8'}
+{'Gene': 'flt4'}
+{'Gene': 'ins2'}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+
+----------------------------------------------------------------------
+
+- plcb3:
+{'Grau total': 31}
+{'Grau entrada': 25}
+{'Grau saida': 6}
+{'Gene': 'lpar3'}
+{'Gene': 'epha2'}
+{'Gene': 'gng4'}
+{'Gene': 'pdgfra'}
+{'Gene': 'gna14'}
+{'Gene': 'flt1'}
+{'Gene': 'prkg2'}
+{'Gene': 'gng7'}
+{'Gene': 'tek'}
+{'Gene': 'gng13'}
+{'Gene': 'fgfr1'}
+{'Gene': 'agtr1b'}
+{'Gene': 'prkcd'}
+{'Gene': 'gm5741'}
+{'Gene': 'f2r'}
+{'Gene': 'gnaq'}
+{'Gene': 'pdgfrb'}
+{'Gene': 'itgb3'}
+{'Gene': 'met'}
+{'Gene': 'efnb1'}
+{'Gene': 'fgfr4'}
+{'Gene': 'fat4'}
+{'Gene': 'kdr'}
+{'Gene': 'adcyap1r1'}
+{'Gene': 'gnb5'}
+{'Gene': 'grm6'}
+{'Gene': 'gng8'}
+{'Gene': 'gna11'}
+{'Gene': 'flt4'}
+{'Gene': 'ffar1'}
+{'Gene': 'grm2'}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+
+----------------------------------------------------------------------
+
+- itga5:
+{'Grau total': 21}
+{'Grau entrada': 21}
+{'Grau saida': 0}
+{'Gene': 'tnxb'}
+{'Gene': 'vwf'}
+{'Gene': 'grm6'}
+{'Gene': 'thbs1'}
+{'Gene': 'col2a1'}
+{'Gene': 'col4a1'}
+{'Gene': 'col6a3'}
+{'Gene': 'fn1'}
+{'Gene': 'lamb1'}
+{'Gene': 'lama1'}
+{'Gene': 'tnc'}
+{'Gene': 'col1a2'}
+{'Gene': 'thbs4'}
+{'Gene': 'col6a1'}
+{'Gene': 'col6a2'}
+{'Gene': 'lamb2'}
+{'Gene': 'col4a2'}
+{'Gene': 'col6a5'}
+{'Gene': 'col1a1'}
+{'Gene': 'col6a6'}
+{'Gene': 'thbs2'}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+
+----------------------------------------------------------------------
+
+- itga3:
+{'Grau total': 23}
+{'Grau entrada': 22}
+{'Grau saida': 1}
+{'Gene': 'tnxb'}
+{'Gene': 'vwf'}
+{'Gene': 'thbs1'}
+{'Gene': 'col2a1'}
+{'Gene': 'col4a1'}
+{'Gene': 'col6a3'}
+{'Gene': 'lamb3'}
+{'Gene': 'fn1'}
+{'Gene': 'lamb1'}
+{'Gene': 'lama1'}
+{'Gene': 'lama5'}
+{'Gene': 'tnc'}
+{'Gene': 'col1a2'}
+{'Gene': 'thbs4'}
+{'Gene': 'bcar1'}
+{'Gene': 'src'}
+{'Gene': 'col6a2'}
+{'Gene': 'lamb2'}
+{'Gene': 'col4a2'}
+{'Gene': 'col6a5'}
+{'Gene': 'col1a1'}
+{'Gene': 'urm1'}
+{'Gene': 'thbs2'}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+
+----------------------------------------------------------------------
+
+- akt2:
+{'Grau total': 33}
+{'Grau entrada': 8}
+{'Grau saida': 25}
+{'Gene': 'mtor'}
+{'Gene': 'birc2'}
+{'Gene': 'xiap'}
+{'Gene': 'map2k4'}
+{'Gene': 'ikbkb'}
+{'Gene': 'foxo1'}
+{'Gene': 'atf2'}
+{'Gene': 'creb1'}
+{'Gene': 'atf6b'}
+{'Gene': 'creb3l2'}
+{'Gene': 'adcy3'}
+{'Gene': 'adcy7'}
+{'Gene': 'rptor'}
+{'Gene': 'prkaa1'}
+{'Gene': 'prkag2'}
+{'Gene': 'prkab1'}
+{'Gene': 'pde3b'}
+{'Gene': 'mapk1'}
+{'Gene': 'rps6kb2'}
+{'Gene': 'rps6kb1'}
+{'Gene': 'irf3'}
+{'Gene': 'bcl2l1'}
+{'Gene': 'nprl3'}
+{'Gene': 'ppp2r5d'}
+{'Gene': 'pik3r2'}
+{'Gene': 'ptk2'}
+{'Gene': 'pdpk1'}
+{'Gene': 'cdc37'}
+{'Gene': 'ppp2r2b'}
+{'Gene': 'ppp2r5e'}
+{'Gene': 'pik3cd'}
+{'Gene': 'mapk14'}
+{'Gene': 'prkcz'}
+{}
+{}
+{}
+{}
+{}
+
+----------------------------------------------------------------------
+
+- cxcl13:
+{'Grau total': 22}
+{'Grau entrada': 4}
+{'Grau saida': 18}
+{'Gene': 'il2'}
+{'Gene': 'ccr6'}
+{'Gene': 'cxcr2'}
+{'Gene': 'cxcr3'}
+{'Gene': 'cxcr4'}
+{'Gene': 'ccr1'}
+{'Gene': 'ccr9'}
+{'Gene': 'ccr1l1'}
+{'Gene': 'ccr3'}
+{'Gene': 'ccr2'}
+{'Gene': 'ccr4'}
+{'Gene': 'ccr5'}
+{'Gene': 'ccr7'}
+{'Gene': 'ccr8'}
+{'Gene': 'ccr10'}
+{'Gene': 'cx3cr1'}
+{'Gene': 'xcr1'}
+{'Gene': 'cxcr6'}
+{'Gene': 'tnc'}
+{'Gene': 'calm4'}
+{'Gene': 'sfrp4'}
+{'Gene': 'ghrl'}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+
+----------------------------------------------------------------------
+
+- vwf:
+{'Grau total': 25}
+{'Grau entrada': 5}
+{'Grau saida': 20}
+{'Gene': 'itga9'}
+{'Gene': 'itga1'}
+{'Gene': 'itga2'}
+{'Gene': 'itga2b'}
+{'Gene': 'itga3'}
+{'Gene': 'itga4'}
+{'Gene': 'itga5'}
+{'Gene': 'itga6'}
+{'Gene': 'itga7'}
+{'Gene': 'itgav'}
+{'Gene': 'itgb3'}
+{'Gene': 'itgb5'}
+{'Gene': 'itgb6'}
+{'Gene': 'itgb7'}
+{'Gene': 'itgb4'}
+{'Gene': 'itga10'}
+{'Gene': 'itga8'}
+{'Gene': 'itga11'}
+{'Gene': 'f10'}
+{'Gene': 'rasal3'}
+{'Gene': 'fat4'}
+{'Gene': 'ephb3'}
+{'Gene': 'cblc'}
+{'Gene': 'c4b'}
+{'Gene': 'eea1'}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+
+----------------------------------------------------------------------
+
+- ccr10:
+{'Grau total': 25}
+{'Grau entrada': 23}
+{'Grau saida': 2}
+{'Gene': 'ccl5'}
+{'Gene': 'gm21541'}
+{'Gene': 'ccl19'}
+{'Gene': 'cxcl10'}
+{'Gene': 'gm13306'}
+{'Gene': 'ccl8'}
+{'Gene': 'cxcl3'}
+{'Gene': 'ccl22'}
+{'Gene': 'ccl11'}
+{'Gene': 'cxcl9'}
+{'Gene': 'ccl24'}
+{'Gene': 'cxcl13'}
+{'Gene': 'ccl17'}
+{'Gene': 'ccl1'}
+{'Gene': 'ccl20'}
+{'Gene': 'ccl7'}
+{'Gene': 'gm10591'}
+{'Gene': 'ccl21b'}
+{'Gene': 'cxcl15'}
+{'Gene': 'cxcl5'}
+{'Gene': 'xcl1'}
+{'Gene': 'gm13304'}
+{'Gene': 'cxcl2'}
+{'Gene': 'ccl21a'}
+{'Gene': 'ppbp'}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+
+----------------------------------------------------------------------
+
+- csf2rb2:
+{'Grau total': 23}
+{'Grau entrada': 22}
+{'Grau saida': 1}
+{'Gene': 'il2'}
+{'Gene': 'ifna4'}
+{'Gene': 'il24'}
+{'Gene': 'il5'}
+{'Gene': 'ifna13'}
+{'Gene': 'ifna1'}
+{'Gene': 'ifna12'}
+{'Gene': 'il15'}
+{'Gene': 'osm'}
+{'Gene': 'il13'}
+{'Gene': 'gh'}
+{'Gene': 'lep'}
+{'Gene': 'ifnl3'}
+{'Gene': 'ccr6'}
+{'Gene': 'epo'}
+{'Gene': 'il19'}
+{'Gene': 'il7'}
+{'Gene': 'il4'}
+{'Gene': 'thpo'}
+{'Gene': 'il6'}
+{'Gene': 'il11'}
+{'Gene': 'csf2'}
+{'Gene': 'ifna11'}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+
+----------------------------------------------------------------------
+
+- gnb3:
+{'Grau total': 28}
+{'Grau entrada': 4}
+{'Grau saida': 24}
+{'Gene': 'dchs1'}
+{'Gene': 'rasgrf1'}
+{'Gene': 'plcb1'}
+{'Gene': 'plcb2'}
+{'Gene': 'plcb4'}
+{'Gene': 'pik3r5'}
+{'Gene': 'adcy4'}
+{'Gene': 'adcy6'}
+{'Gene': 'prkce'}
+{'Gene': 'adcy2'}
+{'Gene': 'adcy5'}
+{'Gene': 'kcnj3'}
+{'Gene': 'kcnj5'}
+{'Gene': 'kcnj9'}
+{'Gene': 'cacna1d'}
+{'Gene': 'cacna1s'}
+{'Gene': 'cacna1f'}
+{'Gene': 'ins1'}
+{'Gene': 'gabbr2'}
+{'Gene': 'chrm2'}
+{'Gene': 'drd4'}
+{'Gene': 'htr1b'}
+{'Gene': 'drd2'}
+{'Gene': 'chrm4'}
+{'Gene': 'tas1r2'}
+{'Gene': 'htr1d'}
+{'Gene': 'sfrp2'}
+{'Gene': 'cnr1'}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+
+----------------------------------------------------------------------
+
+- thbs2:
+{'Grau total': 23}
+{'Grau entrada': 0}
+{'Grau saida': 23}
+{'Gene': 'map3k2'}
+{'Gene': 'robo3'}
+{'Gene': 'traf2'}
+{'Gene': 'ppp1r3f'}
+{'Gene': 'itga1'}
+{'Gene': 'itga2'}
+{'Gene': 'itga2b'}
+{'Gene': 'itga3'}
+{'Gene': 'itga4'}
+{'Gene': 'itga5'}
+{'Gene': 'itga6'}
+{'Gene': 'itga7'}
+{'Gene': 'itgav'}
+{'Gene': 'itgb3'}
+{'Gene': 'itgb5'}
+{'Gene': 'itgb6'}
+{'Gene': 'itgb7'}
+{'Gene': 'itgb4'}
+{'Gene': 'itga10'}
+{'Gene': 'itga8'}
+{'Gene': 'itga11'}
+{'Gene': 'itgb8'}
+{'Gene': 'cd36'}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+
+----------------------------------------------------------------------
+
+- il13ra2:
+{'Grau total': 24}
+{'Grau entrada': 23}
+{'Grau saida': 1}
+{'Gene': 'il2'}
+{'Gene': 'ifna4'}
+{'Gene': 'il12b'}
+{'Gene': 'ifnk'}
+{'Gene': 'il5'}
+{'Gene': 'tslp'}
+{'Gene': 'il15'}
+{'Gene': 'il13'}
+{'Gene': 'ifng'}
+{'Gene': 'gh'}
+{'Gene': 'lep'}
+{'Gene': 'epo'}
+{'Gene': 'il19'}
+{'Gene': 'il7'}
+{'Gene': 'il4'}
+{'Gene': 'il21'}
+{'Gene': 'thpo'}
+{'Gene': 'csf3'}
+{'Gene': 'il6'}
+{'Gene': 'il11'}
+{'Gene': 'csf2'}
+{'Gene': 'ifna6'}
+{'Gene': 'il23a'}
+{'Gene': 'il22'}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+
+----------------------------------------------------------------------
+
+- tnxb:
+{'Grau total': 22}
+{'Grau entrada': 1}
+{'Grau saida': 21}
+{'Gene': 'itga9'}
+{'Gene': 'itga1'}
+{'Gene': 'itga2'}
+{'Gene': 'itga2b'}
+{'Gene': 'itga3'}
+{'Gene': 'itga4'}
+{'Gene': 'itga5'}
+{'Gene': 'itga6'}
+{'Gene': 'itga7'}
+{'Gene': 'itgav'}
+{'Gene': 'itgb3'}
+{'Gene': 'itgb5'}
+{'Gene': 'itgb6'}
+{'Gene': 'itgb7'}
+{'Gene': 'itgb4'}
+{'Gene': 'itga10'}
+{'Gene': 'itga8'}
+{'Gene': 'itga11'}
+{'Gene': 'itgb8'}
+{'Gene': 'flt4'}
+{'Gene': 'epha4'}
+{'Gene': 'cxcl14'}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+
+----------------------------------------------------------------------
+
+- ghrl:
+{'Grau total': 22}
+{'Grau entrada': 0}
+{'Grau saida': 22}
+{'Gene': 'rho'}
+{'Gene': 'adora1'}
+{'Gene': 'chrm1'}
+{'Gene': 'drd2'}
+{'Gene': 'htr1a'}
+{'Gene': 'htr1b'}
+{'Gene': 'htr1d'}
+{'Gene': 'htr1f'}
+{'Gene': 'npy1r'}
+{'Gene': 'oxtr'}
+{'Gene': 'sstr1'}
+{'Gene': 'sstr2'}
+{'Gene': 'sstr5'}
+{'Gene': 'ffar2'}
+{'Gene': 'hcar1'}
+{'Gene': 'chrm2'}
+{'Gene': 'hcar2'}
+{'Gene': 'sucnr1'}
+{'Gene': 'ccl1'}
+{'Gene': 'tlr11'}
+{'Gene': 'cxcl13'}
+{'Gene': 'gnrh1'}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+
+----------------------------------------------------------------------
+
+- ppp2r2b:
+{'Grau total': 25}
+{'Grau entrada': 6}
+{'Grau saida': 19}
+{'Gene': 'rab33b'}
+{'Gene': 'prkar2b'}
+{'Gene': 'l1cam'}
+{'Gene': 'akt2'}
+{'Gene': 'bcl2'}
+{'Gene': 'akt3'}
+{'Gene': 'cacna1c'}
+{'Gene': 'cacna1d'}
+{'Gene': 'cacna2d1'}
+{'Gene': 'cacnb1'}
+{'Gene': 'cacnb2'}
+{'Gene': 'cacnb3'}
+{'Gene': 'cacnb4'}
+{'Gene': 'cacng2'}
+{'Gene': 'ryr2'}
+{'Gene': 'cacna2d4'}
+{'Gene': 'cacng3'}
+{'Gene': 'cacng4'}
+{'Gene': 'cacna1f'}
+{'Gene': 'cacna2d2'}
+{'Gene': 'ppp1r1a'}
+{'Gene': 'cacng7'}
+{'Gene': 'cacng8'}
+{'Gene': 'stk3'}
+{'Gene': 'mapk11'}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+
+----------------------------------------------------------------------
+
+- ccl8:
+{'Grau total': 18}
+{'Grau entrada': 0}
+{'Grau saida': 18}
+{'Gene': 'ccr3'}
+{'Gene': 'ccr6'}
+{'Gene': 'cxcr2'}
+{'Gene': 'cxcr3'}
+{'Gene': 'ccr1'}
+{'Gene': 'ccr9'}
+{'Gene': 'ccr1l1'}
+{'Gene': 'ccr2'}
+{'Gene': 'ccr4'}
+{'Gene': 'ccr5'}
+{'Gene': 'ccr7'}
+{'Gene': 'ccr8'}
+{'Gene': 'ccr10'}
+{'Gene': 'cx3cr1'}
+{'Gene': 'cxcr1'}
+{'Gene': 'xcr1'}
+{'Gene': 'cxcr6'}
+{'Gene': 'cd3e'}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+
+----------------------------------------------------------------------
+
+- cacna1c:
+{'Grau total': 22}
+{'Grau entrada': 19}
+{'Grau saida': 3}
+{'Gene': 'camk2d'}
+{'Gene': 'gnao1'}
+{'Gene': 'ppp2r2c'}
+{'Gene': 'gng4'}
+{'Gene': 'kcnmb4'}
+{'Gene': 'gnai1'}
+{'Gene': 'grin2a'}
+{'Gene': 'gng7'}
+{'Gene': 'camk2b'}
+{'Gene': 'grin1'}
+{'Gene': 'gng13'}
+{'Gene': 'ppp2r2b'}
+{'Gene': 'prkg1'}
+{'Gene': 'kcnma1'}
+{'Gene': 'gng3'}
+{'Gene': 'ppp2r3a'}
+{'Gene': 'grin2b'}
+{'Gene': 'kcnmb2'}
+{'Gene': 'gnb5'}
+{'Gene': 'prkacb'}
+{'Gene': 'gng8'}
+{'Gene': 'camk2a'}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+
+----------------------------------------------------------------------
+
+- col1a1:
+{'Grau total': 24}
+{'Grau entrada': 1}
+{'Grau saida': 23}
+{'Gene': 'hif1a'}
+{'Gene': 'ajuba'}
+{'Gene': 'cxcl3'}
+{'Gene': 'traf3ip2'}
+{'Gene': 'itga1'}
+{'Gene': 'itga2'}
+{'Gene': 'itga2b'}
+{'Gene': 'itga3'}
+{'Gene': 'itga5'}
+{'Gene': 'itga6'}
+{'Gene': 'itga7'}
+{'Gene': 'itgav'}
+{'Gene': 'itgb1'}
+{'Gene': 'itgb3'}
+{'Gene': 'itgb5'}
+{'Gene': 'itgb7'}
+{'Gene': 'itgb4'}
+{'Gene': 'itga10'}
+{'Gene': 'itga8'}
+{'Gene': 'itga11'}
+{'Gene': 'itgb8'}
+{'Gene': 'cd44'}
+{'Gene': 'sdc1'}
+{'Gene': 'sdc4'}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+
+----------------------------------------------------------------------
+
+- cxcr2:
+{'Grau total': 20}
+{'Grau entrada': 19}
+{'Grau saida': 1}
+{'Gene': 'ccl3'}
+{'Gene': 'ccl5'}
+{'Gene': 'ccl19'}
+{'Gene': 'cxcl10'}
+{'Gene': 'ccl8'}
+{'Gene': 'ccl22'}
+{'Gene': 'ccl11'}
+{'Gene': 'cxcl9'}
+{'Gene': 'ccl24'}
+{'Gene': 'cxcl13'}
+{'Gene': 'ccl17'}
+{'Gene': 'cxcl1'}
+{'Gene': 'ccl12'}
+{'Gene': 'ccl1'}
+{'Gene': 'ccl20'}
+{'Gene': 'cxcl15'}
+{'Gene': 'cxcl5'}
+{'Gene': 'xcl1'}
+{'Gene': 'plcb2'}
+{'Gene': 'ppbp'}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+
+----------------------------------------------------------------------
+
+- jak1:
+{'Grau total': 21}
+{'Grau entrada': 0}
+{'Grau saida': 21}
+{'Gene': 'ifna4'}
+{'Gene': 'ifna13'}
+{'Gene': 'il3'}
+{'Gene': 'ifna5'}
+{'Gene': 'ifna1'}
+{'Gene': 'ifna12'}
+{'Gene': 'ifnb1'}
+{'Gene': 'ifna7'}
+{'Gene': 'prl'}
+{'Gene': 'axl'}
+{'Gene': 'ifna14'}
+{'Gene': 'ifnab'}
+{'Gene': 'epo'}
+{'Gene': 'ifna15'}
+{'Gene': 'il21'}
+{'Gene': 'ifna2'}
+{'Gene': 'pik3cd'}
+{'Gene': 'stat1'}
+{'Gene': 'ifna11'}
+{'Gene': 'ifna6'}
+{'Gene': 'ifna9'}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+
+----------------------------------------------------------------------
+
+- epo:
+{'Grau total': 25}
+{'Grau entrada': 2}
+{'Grau saida': 23}
+{'Gene': 'csf3r'}
+{'Gene': 'il2rb'}
+{'Gene': 'il7r'}
+{'Gene': 'jak1'}
+{'Gene': 'jak3'}
+{'Gene': 'osmr'}
+{'Gene': 'prlr'}
+{'Gene': 'csf2rb'}
+{'Gene': 'csf2rb2'}
+{'Gene': 'il10ra'}
+{'Gene': 'il10rb'}
+{'Gene': 'il12rb1'}
+{'Gene': 'il13ra1'}
+{'Gene': 'il13ra2'}
+{'Gene': 'il5ra'}
+{'Gene': 'il9r'}
+{'Gene': 'lepr'}
+{'Gene': 'mpl'}
+{'Gene': 'il23r'}
+{'Gene': 'il22ra1'}
+{'Gene': 'il20ra'}
+{'Gene': 'ifnlr1'}
+{'Gene': 'il27ra'}
+{'Gene': 'il21r'}
+{'Gene': 'wnt3a'}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+
+----------------------------------------------------------------------
+
+- col4a1:
+{'Grau total': 19}
+{'Grau entrada': 5}
+{'Grau saida': 14}
+{'Gene': 'itga1'}
+{'Gene': 'itga2'}
+{'Gene': 'itga2b'}
+{'Gene': 'itga3'}
+{'Gene': 'itga5'}
+{'Gene': 'itga6'}
+{'Gene': 'itga7'}
+{'Gene': 'itgav'}
+{'Gene': 'itgb1'}
+{'Gene': 'itgb3'}
+{'Gene': 'itgb5'}
+{'Gene': 'itgb4'}
+{'Gene': 'itga10'}
+{'Gene': 'itga8'}
+{'Gene': 'itga11'}
+{'Gene': 'cd44'}
+{'Gene': 'sdc1'}
+{'Gene': 'lama4'}
+{'Gene': 'gipr'}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+
+----------------------------------------------------------------------
+
+- adcy5:
+{'Grau total': 20}
+{'Grau entrada': 19}
+{'Grau saida': 1}
+{'Gene': 'gnao1'}
+{'Gene': 'gnb3'}
+{'Gene': 'gng4'}
+{'Gene': 'gnai1'}
+{'Gene': 'gng7'}
+{'Gene': 'sema4f'}
+{'Gene': 'camk2b'}
+{'Gene': 'sema3e'}
+{'Gene': 'prkcb'}
+{'Gene': 'rapgef3'}
+{'Gene': 'rapgef4'}
+{'Gene': 'prkcg'}
+{'Gene': 'camk4'}
+{'Gene': 'gng3'}
+{'Gene': 'gnal'}
+{'Gene': 'gnb5'}
+{'Gene': 'gngt1'}
+{'Gene': 'gng8'}
+{'Gene': 'prkcz'}
+{'Gene': 'camk2a'}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+
+----------------------------------------------------------------------
+
+- ccr1:
+{'Grau total': 21}
+{'Grau entrada': 21}
+{'Grau saida': 0}
+{'Gene': 'ccl3'}
+{'Gene': 'gm21541'}
+{'Gene': 'ccl9'}
+{'Gene': 'cxcl10'}
+{'Gene': 'ccl8'}
+{'Gene': 'ccl11'}
+{'Gene': 'ccl24'}
+{'Gene': 'gm20878'}
+{'Gene': 'cxcl13'}
+{'Gene': 'cxcl1'}
+{'Gene': 'ccl12'}
+{'Gene': 'ccl7'}
+{'Gene': 'ccl6'}
+{'Gene': 'ccl2'}
+{'Gene': 'ccl21b'}
+{'Gene': 'ccl4'}
+{'Gene': 'xcl1'}
+{'Gene': 'gm13304'}
+{'Gene': 'cxcl2'}
+{'Gene': 'ccl21a'}
+{'Gene': 'ppbp'}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+
+----------------------------------------------------------------------
+
+- ccl22:
+{'Grau total': 18}
+{'Grau entrada': 1}
+{'Grau saida': 17}
+{'Gene': 'ccr4'}
+{'Gene': 'cxcr5'}
+{'Gene': 'ccr6'}
+{'Gene': 'cxcr2'}
+{'Gene': 'cxcr3'}
+{'Gene': 'cxcr4'}
+{'Gene': 'ccr9'}
+{'Gene': 'ccr1l1'}
+{'Gene': 'ccr3'}
+{'Gene': 'ccr5'}
+{'Gene': 'ccr7'}
+{'Gene': 'ccr8'}
+{'Gene': 'ccr10'}
+{'Gene': 'cx3cr1'}
+{'Gene': 'cxcr1'}
+{'Gene': 'xcr1'}
+{'Gene': 'cxcr6'}
+{'Gene': 'clec4e'}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+
+----------------------------------------------------------------------
+
+- itga11:
+{'Grau total': 20}
+{'Grau entrada': 18}
+{'Grau saida': 2}
+{'Gene': 'tnxb'}
+{'Gene': 'vwf'}
+{'Gene': 'col2a1'}
+{'Gene': 'col4a1'}
+{'Gene': 'col6a3'}
+{'Gene': 'fn1'}
+{'Gene': 'gng13'}
+{'Gene': 'lamb1'}
+{'Gene': 'lama1'}
+{'Gene': 'tnn'}
+{'Gene': 'tnc'}
+{'Gene': 'col1a2'}
+{'Gene': 'col6a4'}
+{'Gene': 'thbs4'}
+{'Gene': 'lamb2'}
+{'Gene': 'col4a2'}
+{'Gene': 'col6a5'}
+{'Gene': 'col1a1'}
+{'Gene': 'col6a6'}
+{'Gene': 'thbs2'}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+
+----------------------------------------------------------------------
+
+- col2a1:
+{'Grau total': 21}
+{'Grau entrada': 1}
+{'Grau saida': 20}
+{'Gene': 'itga9'}
+{'Gene': 'itga1'}
+{'Gene': 'itga2'}
+{'Gene': 'itga2b'}
+{'Gene': 'itga3'}
+{'Gene': 'itga4'}
+{'Gene': 'itga5'}
+{'Gene': 'itga7'}
+{'Gene': 'itgav'}
+{'Gene': 'itgb3'}
+{'Gene': 'itgb5'}
+{'Gene': 'itgb6'}
+{'Gene': 'itgb7'}
+{'Gene': 'itgb4'}
+{'Gene': 'itga10'}
+{'Gene': 'itga8'}
+{'Gene': 'itga11'}
+{'Gene': 'itgb8'}
+{'Gene': 'jag2'}
+{'Gene': 'csf2'}
+{'Gene': 'src'}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+
+----------------------------------------------------------------------
+
+- xcl1:
+{'Grau total': 21}
+{'Grau entrada': 1}
+{'Grau saida': 20}
+{'Gene': 'hspa1l'}
+{'Gene': 'cyth1'}
+{'Gene': 'rcvrn'}
+{'Gene': 'tbx21'}
+{'Gene': 'xcr1'}
+{'Gene': 'ccr6'}
+{'Gene': 'cxcr2'}
+{'Gene': 'cxcr3'}
+{'Gene': 'ccr1'}
+{'Gene': 'ccr9'}
+{'Gene': 'ccr1l1'}
+{'Gene': 'ccr3'}
+{'Gene': 'ccr2'}
+{'Gene': 'ccr4'}
+{'Gene': 'ccr5'}
+{'Gene': 'ccr7'}
+{'Gene': 'ccr8'}
+{'Gene': 'ccr10'}
+{'Gene': 'cx3cr1'}
+{'Gene': 'cxcr6'}
+{'Gene': 'oas3'}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+
+----------------------------------------------------------------------
+
+- ccr5:
+{'Grau total': 21}
+{'Grau entrada': 21}
+{'Grau saida': 0}
+{'Gene': 'gm21586'}
+{'Gene': 'ccl3'}
+{'Gene': 'gm21541'}
+{'Gene': 'ccl19'}
+{'Gene': 'cxcl10'}
+{'Gene': 'ccl8'}
+{'Gene': 'ccl27b'}
+{'Gene': 'ccl22'}
+{'Gene': 'cxcl9'}
+{'Gene': 'ccl24'}
+{'Gene': 'cxcl13'}
+{'Gene': 'ccl17'}
+{'Gene': 'cxcl1'}
+{'Gene': 'ccl12'}
+{'Gene': 'ccl1'}
+{'Gene': 'ccl7'}
+{'Gene': 'gm10591'}
+{'Gene': 'ccl21b'}
+{'Gene': 'ccl4'}
+{'Gene': 'xcl1'}
+{'Gene': 'ccl21a'}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+
+----------------------------------------------------------------------
+
+- ccl11:
+{'Grau total': 17}
+{'Grau entrada': 0}
+{'Grau saida': 17}
+{'Gene': 'ccr3'}
+{'Gene': 'ccr6'}
+{'Gene': 'cxcr2'}
+{'Gene': 'cxcr3'}
+{'Gene': 'ccr1'}
+{'Gene': 'ccr9'}
+{'Gene': 'ccr1l1'}
+{'Gene': 'ccr2'}
+{'Gene': 'ccr4'}
+{'Gene': 'ccr7'}
+{'Gene': 'ccr8'}
+{'Gene': 'ccr10'}
+{'Gene': 'cx3cr1'}
+{'Gene': 'cxcr1'}
+{'Gene': 'xcr1'}
+{'Gene': 'cxcr6'}
+{'Gene': 'cd209a'}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+
+----------------------------------------------------------------------
+
+- itgb5:
+{'Grau total': 20}
+{'Grau entrada': 17}
+{'Grau saida': 3}
+{'Gene': 'tnxb'}
+{'Gene': 'vwf'}
+{'Gene': 'col2a1'}
+{'Gene': 'col4a1'}
+{'Gene': 'col6a3'}
+{'Gene': 'fn1'}
+{'Gene': 'lamb1'}
+{'Gene': 'lama1'}
+{'Gene': 'tnc'}
+{'Gene': 'col1a2'}
+{'Gene': 'crk'}
+{'Gene': 'crkl'}
+{'Gene': 'col4a5'}
+{'Gene': 'col6a2'}
+{'Gene': 'lamb2'}
+{'Gene': 'col4a2'}
+{'Gene': 'col6a5'}
+{'Gene': 'col1a1'}
+{'Gene': 'deptor'}
+{'Gene': 'thbs2'}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+
+----------------------------------------------------------------------
+
+- itgb6:
+{'Grau total': 22}
+{'Grau entrada': 15}
+{'Grau saida': 7}
+{'Gene': 'tnxb'}
+{'Gene': 'vwf'}
+{'Gene': 'plcb2'}
+{'Gene': 'col2a1'}
+{'Gene': 'col6a3'}
+{'Gene': 'lamb3'}
+{'Gene': 'fn1'}
+{'Gene': 'lamb1'}
+{'Gene': 'lama3'}
+{'Gene': 'lama1'}
+{'Gene': 'col4a3'}
+{'Gene': 'tnc'}
+{'Gene': 'col1a2'}
+{'Gene': 'col6a4'}
+{'Gene': 'thbs4'}
+{'Gene': 'col4a5'}
+{'Gene': 'lamc2'}
+{'Gene': 'col4a6'}
+{'Gene': 'col6a2'}
+{'Gene': 'col6a5'}
+{'Gene': 'col6a6'}
+{'Gene': 'thbs2'}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+
+----------------------------------------------------------------------
+
+- ccl17:
+{'Grau total': 18}
+{'Grau entrada': 0}
+{'Grau saida': 18}
+{'Gene': 'bdkrb1'}
+{'Gene': 'ccr4'}
+{'Gene': 'ccr6'}
+{'Gene': 'cxcr2'}
+{'Gene': 'cxcr3'}
+{'Gene': 'ccr9'}
+{'Gene': 'ccr1l1'}
+{'Gene': 'ccr3'}
+{'Gene': 'ccr5'}
+{'Gene': 'ccr7'}
+{'Gene': 'ccr8'}
+{'Gene': 'ccr10'}
+{'Gene': 'cx3cr1'}
+{'Gene': 'cxcr1'}
+{'Gene': 'xcr1'}
+{'Gene': 'cxcr6'}
+{'Gene': 'ephb6'}
+{'Gene': 'myl2'}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+
+----------------------------------------------------------------------
+
+- cxcl10:
+{'Grau total': 18}
+{'Grau entrada': 0}
+{'Grau saida': 18}
+{'Gene': 'cxcr3'}
+{'Gene': 'ccr6'}
+{'Gene': 'cxcr2'}
+{'Gene': 'ccr1'}
+{'Gene': 'ccr9'}
+{'Gene': 'ccr1l1'}
+{'Gene': 'ccr3'}
+{'Gene': 'ccr2'}
+{'Gene': 'ccr5'}
+{'Gene': 'ccr7'}
+{'Gene': 'ccr10'}
+{'Gene': 'cx3cr1'}
+{'Gene': 'cxcr1'}
+{'Gene': 'xcr1'}
+{'Gene': 'cxcr6'}
+{'Gene': 'chad'}
+{'Gene': 'cer1'}
+{'Gene': 'sox17'}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+
+----------------------------------------------------------------------
+
+- pik3cd:
+{'Grau total': 22}
+{'Grau entrada': 21}
+{'Grau saida': 1}
+{'Gene': 'cd3e'}
+{'Gene': 'cd3d'}
+{'Gene': 'gng4'}
+{'Gene': 'jak3'}
+{'Gene': 'insrr'}
+{'Gene': 'gng7'}
+{'Gene': 'il2rb'}
+{'Gene': 'tyk2'}
+{'Gene': 'traf2'}
+{'Gene': 'zap70'}
+{'Gene': 'akt2'}
+{'Gene': 'prex1'}
+{'Gene': 'plcg2'}
+{'Gene': 'lyn'}
+{'Gene': 'hcst'}
+{'Gene': 'pecam1'}
+{'Gene': 'kit'}
+{'Gene': 'lck'}
+{'Gene': 'jak1'}
+{'Gene': 'cbl'}
+{'Gene': 'gngt1'}
+{'Gene': 'gng8'}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+
+----------------------------------------------------------------------
+
+- mapk10:
+{'Grau total': 18}
+{'Grau entrada': 15}
+{'Grau saida': 3}
+{'Gene': 'rapgef4'}
+{'Gene': 'gnao1'}
+{'Gene': 'pgr'}
+{'Gene': 'gng4'}
+{'Gene': 'prkce'}
+{'Gene': 'gnai1'}
+{'Gene': 'adcy9'}
+{'Gene': 'ptpn5'}
+{'Gene': 'gng7'}
+{'Gene': 'prkcb'}
+{'Gene': 'ptprr'}
+{'Gene': 'shc4'}
+{'Gene': 'gng3'}
+{'Gene': 'map2k4'}
+{'Gene': 'gnb5'}
+{'Gene': 'prkacb'}
+{'Gene': 'wnt2'}
+{'Gene': 'prkcz'}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+
+----------------------------------------------------------------------
+
+- cd8b1:
+{'Grau total': 18}
+{'Grau entrada': 18}
+{'Grau saida': 0}
+{'Gene': 'gm7030'}
+{'Gene': 'h2-m9'}
+{'Gene': 'h2-t23'}
+{'Gene': 'h2-k1'}
+{'Gene': 'h2-m10.1'}
+{'Gene': 'gm8909'}
+{'Gene': 'h2-t3'}
+{'Gene': 'h2-q10'}
+{'Gene': 'h2-m10.6'}
+{'Gene': 'h2-q7'}
+{'Gene': 'h2-m10.4'}
+{'Gene': 'h2-m10.5'}
+{'Gene': 'h2-q2'}
+{'Gene': 'h2-q4'}
+{'Gene': 'h2-q1'}
+{'Gene': 'h2-q6'}
+{'Gene': 'gm11127'}
+{'Gene': 'h2-m1'}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+
+----------------------------------------------------------------------
+
+- cd8a:
+{'Grau total': 22}
+{'Grau entrada': 22}
+{'Grau saida': 0}
+{'Gene': 'gm7030'}
+{'Gene': 'h2-m9'}
+{'Gene': 'h2-t23'}
+{'Gene': 'h2-d1'}
+{'Gene': 'h2-m10.2'}
+{'Gene': 'h2-m10.1'}
+{'Gene': 'gm8909'}
+{'Gene': 'h2-t3'}
+{'Gene': 'h2-m2'}
+{'Gene': 'h2-q10'}
+{'Gene': 'h2-m10.6'}
+{'Gene': 'h2-q7'}
+{'Gene': 'h2-m10.4'}
+{'Gene': 'h2-m10.5'}
+{'Gene': 'h2-q2'}
+{'Gene': 'h2-t22'}
+{'Gene': 'h2-q4'}
+{'Gene': 'h2-m5'}
+{'Gene': 'h2-q1'}
+{'Gene': 'h2-q6'}
+{'Gene': 'gm11127'}
+{'Gene': 'h2-m1'}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+
+----------------------------------------------------------------------
+
